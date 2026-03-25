@@ -1,0 +1,631 @@
+{
+  "scanDate": "23/3/2026",
+  "scanTimestamp": "2026-03-23T02:41:20.022Z",
+  "totalScanned": 155,
+  "multiYearBreakouts": [],
+  "week52Breakouts": [],
+  "week52LowBreakouts": [],
+  "durationMs": 190546,
+  "errors": [
+    {
+      "ticker": "HDFCBANK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "INFY.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TCS.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ITC.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SBIN.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "LT.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TITAN.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TECHM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "NTPC.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BPCL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "LTIM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TATAPOWER.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TATAMOTORS.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BRITANNIA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "PIIND.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "LTTS.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ZOMATO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "POLICYBZR.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "DIXON.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "NYKAA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "PAYTM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HOMEFIRST.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "AAVAS.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "FIVESTAR.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "CREDITACC.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SPANDANA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "DEEPAKNITR.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ALKYLAMINE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "AARTI.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GRINDWELL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ASTRAL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "PRINCEPIPE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MFSL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SUPREMEIND.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ICICIPRULI.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "STARHEALTH.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GICRE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "NIACL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ICICIGI.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TIINDIA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SOLARINDS.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ZYDUSLIFE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TORNTPHARM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ALKEM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "AUROPHARMA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "IPCALAB.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SENCO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "METROBRAND.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BATA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "RELAXO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "CAMPUS.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "VIPIND.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BEL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HAL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BHEL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GAIL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "IOC.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HINDPETRO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "CANBK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "PNB.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "UNIONBANK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "FEDERALBNK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "RBLBANK.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SAIL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "NMDC.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "VEDL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MOIL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GMRINFRA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "IRB.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ASHOKA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "KEC.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "M&M.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "TVSMOTOR.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BAJAJHLDNG.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "AMARAJABAT.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BHARATFORG.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "ENDURANCE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "DABUR.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MARICO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "COLPAL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "EMAMILTD.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GODREJCP.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "VBL.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MCDOWELL-N.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "RADICO.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "UNITDSPR.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "JUBLFOOD.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SAPPHIRE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "WESTLIFE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "DLF.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "GODREJPROP.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "PRESTIGE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "PHOENIXLTD.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "OBEROIRLTY.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "BRIGADE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "SOBHA.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    },
+    {
+      "ticker": "MAHLIFE.NS",
+      "message": "Unexpected token 'T', \"Too Many Requests\r\n\" is not valid JSON"
+    }
+  ]
+}
