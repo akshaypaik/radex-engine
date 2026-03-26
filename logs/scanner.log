@@ -4940,3 +4940,533 @@
 {"level":"info","message":"Progress: 155/155 — last: SOBHA.NS","timestamp":"2026-03-25 22:44:58"}
 {"level":"info","message":"Scan complete — multi-year: 8, 52wk-high: 0, 52wk-low: 146, errors: 0, time: 194.6s","timestamp":"2026-03-25 22:45:04"}
 {"level":"info","message":"Saved scan result: C:\\Users\\aksha\\Downloads\\breakout-radar-fullstack\\breakout-radar-fullstack\\backend\\results\\scan_2026-03-25T17-15-04-952Z.json","timestamp":"2026-03-25 22:45:04"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-25T17-15-04-952Z.json","timestamp":"2026-03-25 23:05:08"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"Scan started — 155 tickers, concurrency=5","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"52wk-low HIT: RELIANCE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:09"}
+{"level":"info","message":"52wk-low HIT: BHARTIARTL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:16"}
+{"level":"info","message":"52wk-low HIT: SBIN.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:16"}
+{"level":"info","message":"52wk-low HIT: HINDUNILVR.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:16"}
+{"level":"info","message":"52wk-low HIT: ITC.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:16"}
+{"level":"info","message":"52wk-low HIT: KOTAKBANK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:16"}
+{"level":"info","message":"52wk-low HIT: MARUTI.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:22"}
+{"level":"info","message":"52wk-low HIT: BAJFINANCE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:22"}
+{"level":"info","message":"52wk-low HIT: AXISBANK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:22"}
+{"level":"info","message":"52wk-low HIT: TITAN.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:22"}
+{"level":"info","message":"52wk-low HIT: LT.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:22"}
+{"level":"info","message":"52wk-low HIT: ASIANPAINT.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:28"}
+{"level":"info","message":"52wk-low HIT: NESTLEIND.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:28"}
+{"level":"info","message":"52wk-low HIT: SUNPHARMA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:28"}
+{"level":"info","message":"52wk-low HIT: ULTRACEMCO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:28"}
+{"level":"info","message":"52wk-low HIT: WIPRO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:28"}
+{"level":"info","message":"Progress: 20/155 — last: SUNPHARMA.NS","timestamp":"2026-03-25 23:05:29"}
+{"level":"info","message":"52wk-low HIT: TECHM.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:35"}
+{"level":"info","message":"52wk-low HIT: HCLTECH.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:35"}
+{"level":"info","message":"52wk-low HIT: POWERGRID.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:35"}
+{"level":"info","message":"52wk-low HIT: NTPC.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:35"}
+{"level":"info","message":"52wk-low HIT: ONGC.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:35"}
+{"level":"info","message":"52wk-low HIT: JSWSTEEL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:41"}
+{"level":"info","message":"52wk-low HIT: TATASTEEL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:41"}
+{"level":"info","message":"52wk-low HIT: COALINDIA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:41"}
+{"level":"info","message":"52wk-low HIT: ADANIPORTS.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:41"}
+{"level":"info","message":"52wk-low HIT: ADANIENT.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:41"}
+{"level":"info","message":"52wk-low HIT: DIVISLAB.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:47"}
+{"level":"info","message":"52wk-low HIT: DRREDDY.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:47"}
+{"level":"info","message":"52wk-low HIT: CIPLA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:47"}
+{"level":"info","message":"52wk-low HIT: EICHERMOT.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:47"}
+{"level":"info","message":"52wk-low HIT: BAJAJ-AUTO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:47"}
+{"level":"info","message":"52wk-low HIT: GRASIM.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:54"}
+{"level":"info","message":"52wk-low HIT: HEROMOTOCO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:54"}
+{"level":"info","message":"52wk-low HIT: BPCL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:54"}
+{"level":"info","message":"52wk-low HIT: TATACONSUM.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:54"}
+{"level":"info","message":"52wk-low HIT: INDUSINDBK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:05:54"}
+{"level":"info","message":"Progress: 40/155 — last: INDUSINDBK.NS","timestamp":"2026-03-25 23:05:54"}
+{"level":"info","message":"52wk-low HIT: LTIM.NS — close=0.00, 52wkLow=4057.15, pctAbove=-100.0%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:00"}
+{"level":"warn","message":"fetchHistory(TATAMOTORS.NS): No data found, symbol may be delisted","timestamp":"2026-03-25 23:06:00"}
+{"level":"info","message":"52wk-low HIT: TATAELXSI.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:00"}
+{"level":"info","message":"52wk-low HIT: TATAPOWER.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:00"}
+{"level":"info","message":"52wk-low HIT: HINDALCO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:00"}
+{"level":"info","message":"52wk-low HIT: BRITANNIA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:06"}
+{"level":"info","message":"52wk-low HIT: APOLLOHOSP.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:06"}
+{"level":"info","message":"52wk-low HIT: SBILIFE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:06"}
+{"level":"info","message":"52wk-low HIT: BAJAJFINSV.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:06"}
+{"level":"info","message":"52wk-low HIT: HDFCLIFE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:06"}
+{"level":"info","message":"52wk-low HIT: MUTHOOTFIN.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:13"}
+{"level":"info","message":"52wk-low HIT: PIIND.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:13"}
+{"level":"info","message":"52wk-low HIT: COFORGE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:13"}
+{"level":"info","message":"52wk-low HIT: LTTS.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:13"}
+{"level":"info","message":"52wk-low HIT: PERSISTENT.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:13"}
+{"level":"info","message":"52wk-low HIT: KPITTECH.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:19"}
+{"level":"warn","message":"fetchHistory(ZOMATO.NS): No data found, symbol may be delisted","timestamp":"2026-03-25 23:06:19"}
+{"level":"info","message":"52wk-low HIT: DIXON.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:19"}
+{"level":"info","message":"52wk-low HIT: POLICYBZR.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:19"}
+{"level":"info","message":"52wk-low HIT: NYKAA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:19"}
+{"level":"info","message":"Progress: 60/155 — last: NYKAA.NS","timestamp":"2026-03-25 23:06:19"}
+{"level":"info","message":"52wk-low HIT: PAYTM.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:25"}
+{"level":"info","message":"52wk-low HIT: ANGELONE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:25"}
+{"level":"info","message":"52wk-low HIT: AAVAS.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:25"}
+{"level":"info","message":"52wk-low HIT: HOMEFIRST.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:25"}
+{"level":"info","message":"52wk-low HIT: FIVESTAR.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:25"}
+{"level":"info","message":"52wk-low HIT: CREDITACC.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:32"}
+{"level":"warn","message":"fetchHistory(AARTI.NS): No data found, symbol may be delisted","timestamp":"2026-03-25 23:06:32"}
+{"level":"info","message":"52wk-low HIT: SPANDANA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:32"}
+{"level":"info","message":"52wk-low HIT: ALKYLAMINE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:32"}
+{"level":"warn","message":"fetchHistory(DEEPAKNITR.NS): No data found, symbol may be delisted","timestamp":"2026-03-25 23:06:32"}
+{"level":"info","message":"52wk-low HIT: CARBORUNIV.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:38"}
+{"level":"info","message":"52wk-low HIT: FLUOROCHEM.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:38"}
+{"level":"info","message":"52wk-low HIT: GRINDWELL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:38"}
+{"level":"info","message":"52wk-low HIT: ASTRAL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:38"}
+{"level":"info","message":"52wk-low HIT: NAVINFLUOR.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:38"}
+{"level":"info","message":"52wk-low HIT: PRINCEPIPE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:44"}
+{"level":"info","message":"52wk-low HIT: ABCAPITAL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:44"}
+{"level":"info","message":"52wk-low HIT: MFSL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:44"}
+{"level":"info","message":"52wk-low HIT: SUPREMEIND.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:44"}
+{"level":"info","message":"52wk-low HIT: ICICIPRULI.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:44"}
+{"level":"info","message":"Progress: 80/155 — last: ICICIPRULI.NS","timestamp":"2026-03-25 23:06:45"}
+{"level":"info","message":"52wk-low HIT: STARHEALTH.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:51"}
+{"level":"info","message":"52wk-low HIT: GICRE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:51"}
+{"level":"info","message":"52wk-low HIT: ICICIGI.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:51"}
+{"level":"info","message":"52wk-low HIT: NIACL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:51"}
+{"level":"info","message":"52wk-low HIT: TIINDIA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:51"}
+{"level":"info","message":"52wk-low HIT: SOLARINDS.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:57"}
+{"level":"info","message":"52wk-low HIT: ZYDUSLIFE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:57"}
+{"level":"info","message":"52wk-low HIT: TORNTPHARM.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:57"}
+{"level":"info","message":"52wk-low HIT: ALKEM.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:57"}
+{"level":"info","message":"52wk-low HIT: AUROPHARMA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:06:57"}
+{"level":"info","message":"52wk-low HIT: GRANULES.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:03"}
+{"level":"info","message":"52wk-low HIT: LAURUSLABS.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:03"}
+{"level":"info","message":"52wk-low HIT: IPCALAB.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:03"}
+{"level":"info","message":"52wk-low HIT: KALYANKJIL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:03"}
+{"level":"info","message":"52wk-low HIT: SENCO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:03"}
+{"level":"info","message":"52wk-low HIT: METROBRAND.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:09"}
+{"level":"info","message":"52wk-low HIT: CAMPUS.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:09"}
+{"level":"warn","message":"fetchHistory(BATA.NS): Failed Yahoo Schema validation","timestamp":"2026-03-25 23:07:09"}
+{"level":"info","message":"52wk-low HIT: RELAXO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:09"}
+{"level":"info","message":"52wk-low HIT: VIPIND.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:09"}
+{"level":"info","message":"Progress: 100/155 — last: VIPIND.NS","timestamp":"2026-03-25 23:07:10"}
+{"level":"info","message":"52wk-low HIT: HAL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:15"}
+{"level":"info","message":"52wk-low HIT: BEL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:15"}
+{"level":"info","message":"52wk-low HIT: BHEL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:16"}
+{"level":"info","message":"52wk-low HIT: GAIL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:16"}
+{"level":"info","message":"52wk-low HIT: IOC.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:16"}
+{"level":"info","message":"52wk-low HIT: CANBK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:22"}
+{"level":"info","message":"52wk-low HIT: HINDPETRO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:22"}
+{"level":"info","message":"52wk-low HIT: PNB.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:22"}
+{"level":"info","message":"52wk-low HIT: BANKBARODA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:22"}
+{"level":"info","message":"52wk-low HIT: UNIONBANK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:22"}
+{"level":"info","message":"52wk-low HIT: IDFCFIRSTB.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:28"}
+{"level":"info","message":"52wk-low HIT: FEDERALBNK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:28"}
+{"level":"info","message":"52wk-low HIT: BANDHANBNK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:28"}
+{"level":"info","message":"52wk-low HIT: RBLBANK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:28"}
+{"level":"info","message":"52wk-low HIT: SAIL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:28"}
+{"level":"info","message":"52wk-low HIT: NATIONALUM.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:34"}
+{"level":"info","message":"52wk-low HIT: HINDZINC.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:34"}
+{"level":"info","message":"52wk-low HIT: NMDC.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:34"}
+{"level":"info","message":"52wk-low HIT: VEDL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:34"}
+{"level":"info","message":"52wk-low HIT: MOIL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:34"}
+{"level":"info","message":"Progress: 120/155 — last: MOIL.NS","timestamp":"2026-03-25 23:07:35"}
+{"level":"warn","message":"fetchHistory(GMRINFRA.NS): No data found, symbol may be delisted","timestamp":"2026-03-25 23:07:40"}
+{"level":"info","message":"52wk-low HIT: ASHOKA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:40"}
+{"level":"info","message":"52wk-low HIT: IRB.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:40"}
+{"level":"info","message":"52wk-low HIT: KEC.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:41"}
+{"level":"info","message":"52wk-low HIT: M&M.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:41"}
+{"level":"info","message":"52wk-low HIT: TVSMOTOR.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:47"}
+{"level":"info","message":"52wk-low HIT: BAJAJHLDNG.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:47"}
+{"level":"warn","message":"fetchHistory(AMARAJABAT.NS): No data found, symbol may be delisted","timestamp":"2026-03-25 23:07:47"}
+{"level":"info","message":"52wk-low HIT: EXIDEIND.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:47"}
+{"level":"info","message":"52wk-low HIT: MOTHERSON.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:47"}
+{"level":"info","message":"52wk-low HIT: BOSCHLTD.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:53"}
+{"level":"info","message":"52wk-low HIT: ENDURANCE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:53"}
+{"level":"info","message":"52wk-low HIT: BHARATFORG.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:53"}
+{"level":"info","message":"52wk-low HIT: SUNDRMFAST.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:53"}
+{"level":"info","message":"52wk-low HIT: DABUR.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:53"}
+{"level":"info","message":"52wk-low HIT: MARICO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:59"}
+{"level":"info","message":"52wk-low HIT: GODREJCP.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:59"}
+{"level":"info","message":"52wk-low HIT: COLPAL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:59"}
+{"level":"info","message":"52wk-low HIT: EMAMILTD.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:59"}
+{"level":"info","message":"52wk-low HIT: VBL.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:07:59"}
+{"level":"info","message":"Progress: 140/155 — last: VBL.NS","timestamp":"2026-03-25 23:07:59"}
+{"level":"info","message":"52wk-low HIT: RADICO.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:05"}
+{"level":"warn","message":"fetchHistory(MCDOWELL-N.NS): No data found, symbol may be delisted","timestamp":"2026-03-25 23:08:05"}
+{"level":"info","message":"52wk-low HIT: DEVYANI.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:05"}
+{"level":"info","message":"52wk-low HIT: JUBLFOOD.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:05"}
+{"level":"info","message":"52wk-low HIT: WESTLIFE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:11"}
+{"level":"info","message":"52wk-low HIT: SAPPHIRE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:11"}
+{"level":"info","message":"52wk-low HIT: DLF.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:12"}
+{"level":"info","message":"52wk-low HIT: GODREJPROP.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:12"}
+{"level":"info","message":"52wk-low HIT: PRESTIGE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:12"}
+{"level":"info","message":"52wk-low HIT: OBEROIRLTY.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:18"}
+{"level":"info","message":"52wk-low HIT: PHOENIXLTD.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:18"}
+{"level":"info","message":"52wk-low HIT: BRIGADE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:18"}
+{"level":"info","message":"52wk-low HIT: MAHLIFE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:18"}
+{"level":"info","message":"52wk-low HIT: SOBHA.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:08:18"}
+{"level":"info","message":"Progress: 155/155 — last: SOBHA.NS","timestamp":"2026-03-25 23:08:18"}
+{"level":"info","message":"Scan complete — multi-year: 8, 52wk-high: 0, 52wk-low: 146, errors: 0, time: 195.2s","timestamp":"2026-03-25 23:08:24"}
+{"level":"info","message":"Saved scan result: D:\\Coding\\Projects\\radex\\radex-engine\\results\\scan_2026-03-25T17-38-24-443Z.json","timestamp":"2026-03-25 23:08:24"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-25T17-38-24-443Z.json","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"Scan started — 155 tickers, concurrency=5","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:24:19"}
+{"level":"info","message":"52wk-low HIT: RELIANCE.NS — close=0.00, 52wkLow=0.00, pctAbove=NaN%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-25 23:24:20"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-25T17-38-24-443Z.json","timestamp":"2026-03-26 22:49:40"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 22:49:40"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 22:49:40"}
+{"level":"info","message":"Scan started — 155 tickers, concurrency=5","timestamp":"2026-03-26 22:49:40"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 22:49:40"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:49:54"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:49:54"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:49:54"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:49:54"}
+{"level":"info","message":"52wk-low HIT: HINDUNILVR.NS — close=2134.80, 52wkLow=2052.20, pctAbove=4.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:50:13"}
+{"level":"warn","message":"fetchHistory(ITC.NS): fetch failed","timestamp":"2026-03-26 22:50:37"}
+{"level":"warn","message":"fetchHistory(BHARTIARTL.NS): fetch failed","timestamp":"2026-03-26 22:50:38"}
+{"level":"info","message":"52wk-low HIT: KOTAKBANK.NS — close=371.10, 52wkLow=356.55, pctAbove=4.1%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:50:40"}
+{"level":"info","message":"52wk-low HIT: BAJFINANCE.NS — close=882.75, 52wkLow=812.60, pctAbove=8.6%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:50:43"}
+{"level":"warn","message":"fetchHistory(MARUTI.NS): fetch failed","timestamp":"2026-03-26 22:50:52"}
+{"level":"warn","message":"fetchHistory(AXISBANK.NS): fetch failed","timestamp":"2026-03-26 22:50:53"}
+{"level":"warn","message":"fetchHistory(LT.NS): fetch failed","timestamp":"2026-03-26 22:50:59"}
+{"level":"info","message":"52wk-low HIT: ASIANPAINT.NS — close=2270.20, 52wkLow=2121.30, pctAbove=7.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:51:01"}
+{"level":"warn","message":"fetchHistory(SUNPHARMA.NS): fetch failed","timestamp":"2026-03-26 22:51:09"}
+{"level":"warn","message":"fetchHistory(NESTLEIND.NS): fetch failed","timestamp":"2026-03-26 22:51:10"}
+{"level":"info","message":"52wk-low HIT: WIPRO.NS — close=189.05, 52wkLow=187.54, pctAbove=0.8%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:51:11"}
+{"level":"warn","message":"fetchHistory(ULTRACEMCO.NS): fetch failed","timestamp":"2026-03-26 22:51:13"}
+{"level":"info","message":"Progress: 20/155 — last: WIPRO.NS","timestamp":"2026-03-26 22:51:16"}
+{"level":"warn","message":"fetchHistory(TECHM.NS): fetch failed","timestamp":"2026-03-26 22:51:21"}
+{"level":"warn","message":"fetchHistory(HCLTECH.NS): fetch failed","timestamp":"2026-03-26 22:51:25"}
+{"level":"warn","message":"fetchHistory(NTPC.NS): fetch failed","timestamp":"2026-03-26 22:51:29"}
+{"level":"info","message":"52wk-low HIT: ADANIENT.NS — close=1886.60, 52wkLow=1817.90, pctAbove=3.8%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:51:36"}
+{"level":"warn","message":"fetchHistory(JSWSTEEL.NS): fetch failed","timestamp":"2026-03-26 22:51:37"}
+{"level":"warn","message":"fetchHistory(TATASTEEL.NS): fetch failed","timestamp":"2026-03-26 22:51:38"}
+{"level":"warn","message":"fetchHistory(ADANIPORTS.NS): fetch failed","timestamp":"2026-03-26 22:51:45"}
+{"level":"warn","message":"fetchHistory(COALINDIA.NS): fetch failed","timestamp":"2026-03-26 22:51:48"}
+{"level":"warn","message":"fetchHistory(DRREDDY.NS): fetch failed","timestamp":"2026-03-26 22:51:54"}
+{"level":"warn","message":"fetchHistory(CIPLA.NS): fetch failed","timestamp":"2026-03-26 22:51:59"}
+{"level":"warn","message":"fetchHistory(BAJAJ-AUTO.NS): fetch failed","timestamp":"2026-03-26 22:52:04"}
+{"level":"warn","message":"fetchHistory(HEROMOTOCO.NS): fetch failed","timestamp":"2026-03-26 22:52:06"}
+{"level":"warn","message":"fetchHistory(BPCL.NS): fetch failed","timestamp":"2026-03-26 22:52:10"}
+{"level":"info","message":"52wk-low HIT: GRASIM.NS — close=2647.80, 52wkLow=2469.40, pctAbove=7.2%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:52:16"}
+{"level":"warn","message":"fetchHistory(TATACONSUM.NS): fetch failed","timestamp":"2026-03-26 22:52:17"}
+{"level":"warn","message":"fetchHistory(INDUSINDBK.NS): fetch failed","timestamp":"2026-03-26 22:52:20"}
+{"level":"info","message":"Progress: 40/155 — last: INDUSINDBK.NS","timestamp":"2026-03-26 22:52:20"}
+{"level":"warn","message":"fetchHistory(LTIM.NS): fetch failed","timestamp":"2026-03-26 22:52:22"}
+{"level":"warn","message":"fetchHistory(TATAELXSI.NS): fetch failed","timestamp":"2026-03-26 22:52:27"}
+{"level":"warn","message":"fetchHistory(TATAPOWER.NS): fetch failed","timestamp":"2026-03-26 22:52:33"}
+{"level":"warn","message":"fetchHistory(TATAMOTORS.NS): fetch failed","timestamp":"2026-03-26 22:52:34"}
+{"level":"warn","message":"fetchHistory(HINDALCO.NS): fetch failed","timestamp":"2026-03-26 22:52:36"}
+{"level":"warn","message":"fetchHistory(BRITANNIA.NS): fetch failed","timestamp":"2026-03-26 22:52:38"}
+{"level":"warn","message":"fetchHistory(APOLLOHOSP.NS): fetch failed","timestamp":"2026-03-26 22:52:43"}
+{"level":"warn","message":"fetchHistory(BAJAJFINSV.NS): fetch failed","timestamp":"2026-03-26 22:52:49"}
+{"level":"warn","message":"fetchHistory(SBILIFE.NS): fetch failed","timestamp":"2026-03-26 22:52:50"}
+{"level":"warn","message":"fetchHistory(HDFCLIFE.NS): fetch failed","timestamp":"2026-03-26 22:52:52"}
+{"level":"warn","message":"fetchHistory(MUTHOOTFIN.NS): fetch failed","timestamp":"2026-03-26 22:52:54"}
+{"level":"warn","message":"fetchHistory(PIIND.NS): fetch failed","timestamp":"2026-03-26 22:52:59"}
+{"level":"warn","message":"fetchHistory(PERSISTENT.NS): fetch failed","timestamp":"2026-03-26 22:53:05"}
+{"level":"warn","message":"fetchHistory(COFORGE.NS): fetch failed","timestamp":"2026-03-26 22:53:06"}
+{"level":"info","message":"52wk-low HIT: LTTS.NS — close=3200.40, 52wkLow=3075.60, pctAbove=4.1%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:14"}
+{"level":"info","message":"52wk-low HIT: DIXON.NS — close=10415.00, 52wkLow=9804.00, pctAbove=6.2%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:15"}
+{"level":"info","message":"52wk-low HIT: KPITTECH.NS — close=673.60, 52wkLow=631.95, pctAbove=6.6%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:16"}
+{"level":"warn","message":"fetchHistory(ZOMATO.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 22:53:21"}
+{"level":"info","message":"52wk-low HIT: ANGELONE.NS — close=230.44, 52wkLow=212.49, pctAbove=8.4%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:27"}
+{"level":"info","message":"Progress: 60/155 — last: ANGELONE.NS","timestamp":"2026-03-26 22:53:27"}
+{"level":"info","message":"52wk-low HIT: AAVAS.NS — close=1135.50, 52wkLow=1073.90, pctAbove=5.7%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:37"}
+{"level":"info","message":"52wk-low HIT: FIVESTAR.NS — close=364.55, 52wkLow=347.30, pctAbove=5.0%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:37"}
+{"level":"info","message":"52wk-low HIT: HOMEFIRST.NS — close=948.00, 52wkLow=905.20, pctAbove=4.7%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:37"}
+{"level":"info","message":"52wk-low HIT: SPANDANA.NS — close=206.85, 52wkLow=196.95, pctAbove=5.0%, date=Wed Mar 25 2026 15:30:01 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:42"}
+{"level":"info","message":"52wk-low HIT: ALKYLAMINE.NS — close=1239.40, 52wkLow=1239.40, pctAbove=0.0%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:44"}
+{"level":"warn","message":"fetchHistory(AARTI.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 22:53:45"}
+{"level":"warn","message":"fetchHistory(DEEPAKNITR.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 22:53:46"}
+{"level":"info","message":"52wk-low HIT: FLUOROCHEM.NS — close=3256.60, 52wkLow=2980.40, pctAbove=9.3%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:51"}
+{"level":"info","message":"52wk-low HIT: GRINDWELL.NS — close=1398.80, 52wkLow=1364.20, pctAbove=2.5%, date=Wed Mar 25 2026 15:29:37 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:53:52"}
+{"level":"info","message":"52wk-low HIT: PRINCEPIPE.NS — close=230.30, 52wkLow=223.50, pctAbove=3.0%, date=Wed Mar 25 2026 15:29:50 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:54:01"}
+{"level":"info","message":"Progress: 80/155 — last: STARHEALTH.NS","timestamp":"2026-03-26 22:54:07"}
+{"level":"warn","message":"fetchHistory(ICICIPRULI.NS): fetch failed","timestamp":"2026-03-26 22:54:13"}
+{"level":"info","message":"52wk-low HIT: GICRE.NS — close=367.30, 52wkLow=357.30, pctAbove=2.8%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:54:16"}
+{"level":"warn","message":"fetchHistory(NIACL.NS): fetch failed","timestamp":"2026-03-26 22:54:21"}
+{"level":"warn","message":"fetchHistory(ICICIGI.NS): fetch failed","timestamp":"2026-03-26 22:54:21"}
+{"level":"warn","message":"fetchHistory(TIINDIA.NS): fetch failed","timestamp":"2026-03-26 22:54:23"}
+{"level":"info","message":"52wk-low HIT: ZYDUSLIFE.NS — close=903.70, 52wkLow=822.10, pctAbove=9.9%, date=Wed Mar 25 2026 15:30:01 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:54:26"}
+{"level":"info","message":"52wk-low HIT: KALYANKJIL.NS — close=391.85, 52wkLow=361.65, pctAbove=8.4%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:54:42"}
+{"level":"warn","message":"fetchHistory(SENCO.NS): fetch failed","timestamp":"2026-03-26 22:54:49"}
+{"level":"warn","message":"fetchHistory(CAMPUS.NS): fetch failed","timestamp":"2026-03-26 22:54:54"}
+{"level":"warn","message":"fetchHistory(BATA.NS): Failed Yahoo Schema validation","timestamp":"2026-03-26 22:54:59"}
+{"level":"info","message":"Progress: 100/155 — last: VIPIND.NS","timestamp":"2026-03-26 22:55:05"}
+{"level":"warn","message":"fetchHistory(RELAXO.NS): fetch failed","timestamp":"2026-03-26 22:55:06"}
+{"level":"warn","message":"fetchHistory(HAL.NS): fetch failed","timestamp":"2026-03-26 22:55:12"}
+{"level":"info","message":"52wk-low HIT: GAIL.NS — close=139.20, 52wkLow=135.40, pctAbove=2.8%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:55:15"}
+{"level":"warn","message":"fetchHistory(IOC.NS): fetch failed","timestamp":"2026-03-26 22:55:21"}
+{"level":"warn","message":"fetchHistory(HINDPETRO.NS): fetch failed","timestamp":"2026-03-26 22:55:22"}
+{"level":"warn","message":"fetchHistory(BANKBARODA.NS): fetch failed","timestamp":"2026-03-26 22:55:34"}
+{"level":"warn","message":"fetchHistory(FEDERALBNK.NS): fetch failed","timestamp":"2026-03-26 22:55:39"}
+{"level":"info","message":"52wk-low HIT: IDFCFIRSTB.NS — close=60.24, 52wkLow=54.96, pctAbove=9.6%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:55:43"}
+{"level":"warn","message":"fetchHistory(BANDHANBNK.NS): fetch failed","timestamp":"2026-03-26 22:55:47"}
+{"level":"warn","message":"fetchHistory(SAIL.NS): fetch failed","timestamp":"2026-03-26 22:55:53"}
+{"level":"warn","message":"fetchHistory(NMDC.NS): fetch failed","timestamp":"2026-03-26 22:55:57"}
+{"level":"warn","message":"fetchHistory(HINDZINC.NS): fetch failed","timestamp":"2026-03-26 22:56:07"}
+{"level":"warn","message":"fetchHistory(VEDL.NS): fetch failed","timestamp":"2026-03-26 22:56:09"}
+{"level":"warn","message":"fetchHistory(MOIL.NS): fetch failed","timestamp":"2026-03-26 22:56:10"}
+{"level":"warn","message":"fetchHistory(GMRINFRA.NS): fetch failed","timestamp":"2026-03-26 22:56:13"}
+{"level":"info","message":"Progress: 120/155 — last: GMRINFRA.NS","timestamp":"2026-03-26 22:56:13"}
+{"level":"info","message":"52wk-low HIT: KEC.NS — close=549.85, 52wkLow=514.85, pctAbove=6.8%, date=Wed Mar 25 2026 15:29:58 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:17"}
+{"level":"info","message":"52wk-low HIT: ASHOKA.NS — close=114.90, 52wkLow=106.30, pctAbove=8.1%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:18"}
+{"level":"info","message":"52wk-low HIT: IRB.NS — close=41.13, 52wkLow=38.99, pctAbove=5.5%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:18"}
+{"level":"info","message":"52wk-low HIT: BAJAJHLDNG.NS — close=9554.00, 52wkLow=9162.00, pctAbove=4.3%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:25"}
+{"level":"warn","message":"fetchHistory(AMARAJABAT.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 22:56:26"}
+{"level":"info","message":"52wk-low HIT: EXIDEIND.NS — close=307.15, 52wkLow=290.75, pctAbove=5.6%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:26"}
+{"level":"info","message":"52wk-low HIT: DABUR.NS — close=431.00, 52wkLow=417.35, pctAbove=3.3%, date=Wed Mar 25 2026 15:30:02 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:35"}
+{"level":"info","message":"52wk-low HIT: GODREJCP.NS — close=1039.60, 52wkLow=1002.40, pctAbove=3.7%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:38"}
+{"level":"info","message":"52wk-low HIT: COLPAL.NS — close=1920.40, 52wkLow=1849.20, pctAbove=3.9%, date=Wed Mar 25 2026 15:30:02 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:38"}
+{"level":"info","message":"52wk-low HIT: EMAMILTD.NS — close=410.45, 52wkLow=401.70, pctAbove=2.2%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:39"}
+{"level":"info","message":"52wk-low HIT: VBL.NS — close=401.45, 52wkLow=382.20, pctAbove=5.0%, date=Wed Mar 25 2026 15:30:01 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:41"}
+{"level":"info","message":"Progress: 140/155 — last: VBL.NS","timestamp":"2026-03-26 22:56:42"}
+{"level":"warn","message":"fetchHistory(MCDOWELL-N.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 22:56:45"}
+{"level":"info","message":"52wk-low HIT: JUBLFOOD.NS — close=462.35, 52wkLow=438.05, pctAbove=5.5%, date=Wed Mar 25 2026 15:29:57 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:46"}
+{"level":"info","message":"52wk-low HIT: DEVYANI.NS — close=102.00, 52wkLow=101.16, pctAbove=0.8%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:48"}
+{"level":"info","message":"52wk-low HIT: SAPPHIRE.NS — close=159.96, 52wkLow=154.48, pctAbove=3.5%, date=Wed Mar 25 2026 15:29:55 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:51"}
+{"level":"info","message":"52wk-low HIT: DLF.NS — close=534.35, 52wkLow=514.75, pctAbove=3.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:52"}
+{"level":"info","message":"52wk-low HIT: GODREJPROP.NS — close=1564.90, 52wkLow=1497.20, pctAbove=4.5%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:52"}
+{"level":"info","message":"52wk-low HIT: OBEROIRLTY.NS — close=1499.70, 52wkLow=1411.50, pctAbove=6.2%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:56"}
+{"level":"info","message":"52wk-low HIT: BRIGADE.NS — close=670.85, 52wkLow=634.70, pctAbove=5.7%, date=Wed Mar 25 2026 15:29:57 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 22:56:59"}
+{"level":"info","message":"Progress: 155/155 — last: MAHLIFE.NS","timestamp":"2026-03-26 22:57:03"}
+{"level":"info","message":"Scan complete — multi-year: 5, 52wk-high: 0, 52wk-low: 45, errors: 0, time: 448.6s","timestamp":"2026-03-26 22:57:09"}
+{"level":"info","message":"Saved scan result: D:\\Coding\\Projects\\radex\\radex-engine\\results\\scan_2026-03-26T17-27-09-123Z.json","timestamp":"2026-03-26 22:57:09"}
+{"level":"info","message":"Scan started — 155 tickers, concurrency=5","timestamp":"2026-03-26 23:04:43"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:44"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:44"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:44"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:44"}
+{"level":"info","message":"52wk-low HIT: HINDUNILVR.NS — close=2134.80, 52wkLow=2052.20, pctAbove=4.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:50"}
+{"level":"info","message":"52wk-low HIT: BHARTIARTL.NS — close=1834.90, 52wkLow=1686.65, pctAbove=8.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:50"}
+{"level":"info","message":"52wk-low HIT: ITC.NS — close=295.70, 52wkLow=290.45, pctAbove=1.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:51"}
+{"level":"info","message":"52wk-low HIT: KOTAKBANK.NS — close=371.10, 52wkLow=356.55, pctAbove=4.1%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:51"}
+{"level":"info","message":"52wk-low HIT: BAJFINANCE.NS — close=882.75, 52wkLow=812.60, pctAbove=8.6%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:57"}
+{"level":"info","message":"52wk-low HIT: MARUTI.NS — close=12355.00, 52wkLow=11329.75, pctAbove=9.0%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:57"}
+{"level":"info","message":"52wk-low HIT: LT.NS — close=3342.40, 52wkLow=3054.15, pctAbove=9.4%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:04:57"}
+{"level":"info","message":"52wk-low HIT: ASIANPAINT.NS — close=2270.20, 52wkLow=2121.30, pctAbove=7.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:03"}
+{"level":"info","message":"52wk-low HIT: SUNPHARMA.NS — close=1713.40, 52wkLow=1563.30, pctAbove=9.6%, date=Thu Feb 19 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:03"}
+{"level":"info","message":"52wk-low HIT: NESTLEIND.NS — close=1183.20, 52wkLow=1089.40, pctAbove=8.6%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:03"}
+{"level":"info","message":"52wk-low HIT: ULTRACEMCO.NS — close=11204.00, 52wkLow=10362.00, pctAbove=8.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:04"}
+{"level":"info","message":"52wk-low HIT: WIPRO.NS — close=189.05, 52wkLow=187.54, pctAbove=0.8%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:04"}
+{"level":"info","message":"Progress: 20/155 — last: WIPRO.NS","timestamp":"2026-03-26 23:05:04"}
+{"level":"info","message":"52wk-low HIT: TECHM.NS — close=1384.00, 52wkLow=1272.75, pctAbove=8.7%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:10"}
+{"level":"info","message":"52wk-low HIT: HCLTECH.NS — close=1381.30, 52wkLow=1311.80, pctAbove=5.3%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:10"}
+{"level":"info","message":"52wk-low HIT: ADANIENT.NS — close=1886.60, 52wkLow=1817.90, pctAbove=3.8%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:17"}
+{"level":"info","message":"52wk-low HIT: CIPLA.NS — close=1244.40, 52wkLow=1219.40, pctAbove=2.1%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:23"}
+{"level":"info","message":"52wk-low HIT: BPCL.NS — close=284.55, 52wkLow=271.30, pctAbove=4.9%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:30"}
+{"level":"info","message":"52wk-low HIT: TATACONSUM.NS — close=1053.10, 52wkLow=959.65, pctAbove=9.7%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:30"}
+{"level":"info","message":"52wk-low HIT: GRASIM.NS — close=2647.80, 52wkLow=2469.40, pctAbove=7.2%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:30"}
+{"level":"info","message":"Progress: 40/155 — last: GRASIM.NS","timestamp":"2026-03-26 23:05:30"}
+{"level":"warn","message":"fetchHistory(TATAMOTORS.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 23:05:39"}
+{"level":"info","message":"52wk-low HIT: LTIM.NS — close=4292.90, 52wkLow=4057.15, pctAbove=5.8%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:40"}
+{"level":"info","message":"52wk-low HIT: TATAELXSI.NS — close=4213.40, 52wkLow=4039.30, pctAbove=4.3%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:40"}
+{"level":"info","message":"52wk-low HIT: TATAPOWER.NS — close=372.90, 52wkLow=345.25, pctAbove=8.0%, date=Mon Mar 09 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:40"}
+{"level":"info","message":"52wk-low HIT: BAJAJFINSV.NS — close=1746.20, 52wkLow=1675.50, pctAbove=4.2%, date=Wed Mar 25 2026 15:29:58 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:46"}
+{"level":"info","message":"52wk-low HIT: HDFCLIFE.NS — close=612.90, 52wkLow=592.10, pctAbove=3.5%, date=Wed Mar 25 2026 15:29:58 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:47"}
+{"level":"info","message":"52wk-low HIT: PIIND.NS — close=2905.40, 52wkLow=2759.00, pctAbove=5.3%, date=Wed Mar 25 2026 15:29:54 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:53"}
+{"level":"info","message":"52wk-low HIT: PERSISTENT.NS — close=4724.50, 52wkLow=4402.75, pctAbove=7.3%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:53"}
+{"level":"info","message":"52wk-low HIT: LTTS.NS — close=3200.40, 52wkLow=3075.60, pctAbove=4.1%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:53"}
+{"level":"info","message":"52wk-low HIT: COFORGE.NS — close=1163.10, 52wkLow=1073.90, pctAbove=8.3%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:53"}
+{"level":"info","message":"52wk-low HIT: DIXON.NS — close=10415.00, 52wkLow=9804.00, pctAbove=6.2%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:59"}
+{"level":"info","message":"52wk-low HIT: KPITTECH.NS — close=673.60, 52wkLow=631.95, pctAbove=6.6%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:05:59"}
+{"level":"warn","message":"fetchHistory(ZOMATO.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 23:05:59"}
+{"level":"info","message":"Progress: 60/155 — last: NYKAA.NS","timestamp":"2026-03-26 23:06:00"}
+{"level":"info","message":"52wk-low HIT: ANGELONE.NS — close=230.44, 52wkLow=212.49, pctAbove=8.4%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:05"}
+{"level":"info","message":"52wk-low HIT: AAVAS.NS — close=1135.50, 52wkLow=1073.90, pctAbove=5.7%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:06"}
+{"level":"info","message":"52wk-low HIT: HOMEFIRST.NS — close=948.00, 52wkLow=905.20, pctAbove=4.7%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:06"}
+{"level":"info","message":"52wk-low HIT: FIVESTAR.NS — close=364.55, 52wkLow=347.30, pctAbove=5.0%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:06"}
+{"level":"info","message":"52wk-low HIT: SPANDANA.NS — close=206.85, 52wkLow=196.95, pctAbove=5.0%, date=Wed Mar 25 2026 15:30:01 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:12"}
+{"level":"info","message":"52wk-low HIT: ALKYLAMINE.NS — close=1239.40, 52wkLow=1239.40, pctAbove=0.0%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:12"}
+{"level":"warn","message":"fetchHistory(DEEPAKNITR.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 23:06:12"}
+{"level":"warn","message":"fetchHistory(AARTI.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 23:06:12"}
+{"level":"info","message":"52wk-low HIT: FLUOROCHEM.NS — close=3256.60, 52wkLow=2980.40, pctAbove=9.3%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:18"}
+{"level":"info","message":"52wk-low HIT: GRINDWELL.NS — close=1398.80, 52wkLow=1364.20, pctAbove=2.5%, date=Wed Mar 25 2026 15:29:37 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:18"}
+{"level":"info","message":"52wk-low HIT: PRINCEPIPE.NS — close=230.30, 52wkLow=223.50, pctAbove=3.0%, date=Wed Mar 25 2026 15:29:50 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:25"}
+{"level":"info","message":"52wk-low HIT: ICICIPRULI.NS — close=540.60, 52wkLow=531.25, pctAbove=1.8%, date=Wed Mar 25 2026 15:29:58 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:25"}
+{"level":"info","message":"Progress: 80/155 — last: ICICIPRULI.NS","timestamp":"2026-03-26 23:06:25"}
+{"level":"info","message":"52wk-low HIT: GICRE.NS — close=367.30, 52wkLow=357.30, pctAbove=2.8%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:31"}
+{"level":"info","message":"52wk-low HIT: NIACL.NS — close=128.28, 52wkLow=124.65, pctAbove=2.9%, date=Wed Mar 25 2026 15:29:33 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:31"}
+{"level":"info","message":"52wk-low HIT: ICICIGI.NS — close=1770.30, 52wkLow=1718.55, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:32"}
+{"level":"info","message":"52wk-low HIT: ZYDUSLIFE.NS — close=903.70, 52wkLow=822.10, pctAbove=9.9%, date=Wed Mar 25 2026 15:30:01 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:38"}
+{"level":"info","message":"52wk-low HIT: KALYANKJIL.NS — close=391.85, 52wkLow=361.65, pctAbove=8.4%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:44"}
+{"level":"info","message":"52wk-low HIT: SENCO.NS — close=295.50, 52wkLow=272.35, pctAbove=8.5%, date=Wed Mar 25 2026 15:30:01 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:45"}
+{"level":"info","message":"52wk-low HIT: CAMPUS.NS — close=233.30, 52wkLow=219.15, pctAbove=6.5%, date=Wed Mar 25 2026 15:29:51 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:50"}
+{"level":"warn","message":"fetchHistory(BATA.NS): Failed Yahoo Schema validation","timestamp":"2026-03-26 23:06:51"}
+{"level":"info","message":"52wk-low HIT: RELAXO.NS — close=265.75, 52wkLow=254.85, pctAbove=4.3%, date=Wed Mar 25 2026 15:30:01 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:51"}
+{"level":"info","message":"Progress: 100/155 — last: VIPIND.NS","timestamp":"2026-03-26 23:06:51"}
+{"level":"info","message":"52wk-low HIT: HAL.NS — close=3669.40, 52wkLow=3634.60, pctAbove=1.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:57"}
+{"level":"info","message":"52wk-low HIT: GAIL.NS — close=139.20, 52wkLow=135.40, pctAbove=2.8%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:57"}
+{"level":"info","message":"52wk-low HIT: IOC.NS — close=138.70, 52wkLow=127.70, pctAbove=8.6%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:06:58"}
+{"level":"info","message":"52wk-low HIT: HINDPETRO.NS — close=344.00, 52wkLow=319.15, pctAbove=7.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:03"}
+{"level":"info","message":"52wk-low HIT: IDFCFIRSTB.NS — close=60.24, 52wkLow=54.96, pctAbove=9.6%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:09"}
+{"level":"info","message":"52wk-low HIT: BANDHANBNK.NS — close=148.34, 52wkLow=135.47, pctAbove=9.5%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:10"}
+{"level":"info","message":"52wk-low HIT: MOIL.NS — close=248.05, 52wkLow=248.05, pctAbove=0.0%, date=Mon Mar 16 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:16"}
+{"level":"info","message":"Progress: 120/155 — last: MOIL.NS","timestamp":"2026-03-26 23:07:16"}
+{"level":"warn","message":"fetchHistory(GMRINFRA.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 23:07:22"}
+{"level":"info","message":"52wk-low HIT: IRB.NS — close=41.13, 52wkLow=38.99, pctAbove=5.5%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:22"}
+{"level":"info","message":"52wk-low HIT: ASHOKA.NS — close=114.90, 52wkLow=106.30, pctAbove=8.1%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:22"}
+{"level":"info","message":"52wk-low HIT: KEC.NS — close=549.85, 52wkLow=514.85, pctAbove=6.8%, date=Wed Mar 25 2026 15:29:58 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:23"}
+{"level":"info","message":"52wk-low HIT: BAJAJHLDNG.NS — close=9554.00, 52wkLow=9162.00, pctAbove=4.3%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:29"}
+{"level":"warn","message":"fetchHistory(AMARAJABAT.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 23:07:29"}
+{"level":"info","message":"52wk-low HIT: EXIDEIND.NS — close=307.15, 52wkLow=290.75, pctAbove=5.6%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:29"}
+{"level":"info","message":"52wk-low HIT: DABUR.NS — close=431.00, 52wkLow=417.35, pctAbove=3.3%, date=Wed Mar 25 2026 15:30:02 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:36"}
+{"level":"info","message":"52wk-low HIT: GODREJCP.NS — close=1039.60, 52wkLow=1002.40, pctAbove=3.7%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:42"}
+{"level":"info","message":"52wk-low HIT: VBL.NS — close=401.45, 52wkLow=382.20, pctAbove=5.0%, date=Wed Mar 25 2026 15:30:01 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:42"}
+{"level":"info","message":"52wk-low HIT: COLPAL.NS — close=1920.40, 52wkLow=1849.20, pctAbove=3.9%, date=Wed Mar 25 2026 15:30:02 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:42"}
+{"level":"info","message":"52wk-low HIT: EMAMILTD.NS — close=410.45, 52wkLow=401.70, pctAbove=2.2%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:42"}
+{"level":"info","message":"Progress: 140/155 — last: EMAMILTD.NS","timestamp":"2026-03-26 23:07:42"}
+{"level":"warn","message":"fetchHistory(MCDOWELL-N.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 23:07:48"}
+{"level":"info","message":"52wk-low HIT: DEVYANI.NS — close=102.00, 52wkLow=101.16, pctAbove=0.8%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:50"}
+{"level":"info","message":"52wk-low HIT: JUBLFOOD.NS — close=462.35, 52wkLow=438.05, pctAbove=5.5%, date=Wed Mar 25 2026 15:29:57 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:50"}
+{"level":"info","message":"52wk-low HIT: SAPPHIRE.NS — close=159.96, 52wkLow=154.48, pctAbove=3.5%, date=Wed Mar 25 2026 15:29:55 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:55"}
+{"level":"info","message":"52wk-low HIT: DLF.NS — close=534.35, 52wkLow=514.75, pctAbove=3.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:56"}
+{"level":"info","message":"52wk-low HIT: GODREJPROP.NS — close=1564.90, 52wkLow=1497.20, pctAbove=4.5%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:07:56"}
+{"level":"info","message":"52wk-low HIT: OBEROIRLTY.NS — close=1499.70, 52wkLow=1411.50, pctAbove=6.2%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:08:01"}
+{"level":"info","message":"52wk-low HIT: BRIGADE.NS — close=670.85, 52wkLow=634.70, pctAbove=5.7%, date=Wed Mar 25 2026 15:29:57 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:08:02"}
+{"level":"info","message":"Progress: 155/155 — last: MAHLIFE.NS","timestamp":"2026-03-26 23:08:03"}
+{"level":"info","message":"Scan complete — multi-year: 8, 52wk-high: 0, 52wk-low: 76, errors: 0, time: 205.7s","timestamp":"2026-03-26 23:08:09"}
+{"level":"info","message":"Saved scan result: D:\\Coding\\Projects\\radex\\radex-engine\\results\\scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:08:09"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:14:34"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:14:34"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:14:34"}
+{"level":"info","message":"Scan started — 595 tickers, concurrency=5","timestamp":"2026-03-26 23:14:34"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:14:34"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:34"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:34"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:34"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:35"}
+{"level":"info","message":"52wk-low HIT: HINDUNILVR.NS — close=2134.80, 52wkLow=2052.20, pctAbove=4.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:41"}
+{"level":"info","message":"52wk-low HIT: ITC.NS — close=295.70, 52wkLow=290.45, pctAbove=1.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:41"}
+{"level":"info","message":"52wk-low HIT: BHARTIARTL.NS — close=1834.90, 52wkLow=1686.65, pctAbove=8.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:41"}
+{"level":"info","message":"52wk-low HIT: KOTAKBANK.NS — close=371.10, 52wkLow=356.55, pctAbove=4.1%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:42"}
+{"level":"info","message":"52wk-low HIT: BAJFINANCE.NS — close=882.75, 52wkLow=812.60, pctAbove=8.6%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:47"}
+{"level":"info","message":"52wk-low HIT: MARUTI.NS — close=12355.00, 52wkLow=11329.75, pctAbove=9.0%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:48"}
+{"level":"info","message":"52wk-low HIT: LT.NS — close=3342.40, 52wkLow=3054.15, pctAbove=9.4%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:48"}
+{"level":"info","message":"52wk-low HIT: ASIANPAINT.NS — close=2270.20, 52wkLow=2121.30, pctAbove=7.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:54"}
+{"level":"info","message":"52wk-low HIT: SUNPHARMA.NS — close=1713.40, 52wkLow=1563.30, pctAbove=9.6%, date=Thu Feb 19 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:54"}
+{"level":"info","message":"52wk-low HIT: NESTLEIND.NS — close=1183.20, 52wkLow=1089.40, pctAbove=8.6%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:54"}
+{"level":"info","message":"52wk-low HIT: WIPRO.NS — close=189.05, 52wkLow=187.54, pctAbove=0.8%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:54"}
+{"level":"info","message":"52wk-low HIT: ULTRACEMCO.NS — close=11204.00, 52wkLow=10362.00, pctAbove=8.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:14:54"}
+{"level":"info","message":"Progress: 20/595 — last: ULTRACEMCO.NS","timestamp":"2026-03-26 23:14:54"}
+{"level":"info","message":"52wk-low HIT: TECHM.NS — close=1384.00, 52wkLow=1272.75, pctAbove=8.7%, date=Mon Mar 23 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:00"}
+{"level":"info","message":"52wk-low HIT: HCLTECH.NS — close=1381.30, 52wkLow=1311.80, pctAbove=5.3%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:00"}
+{"level":"info","message":"52wk-low HIT: ADANIENT.NS — close=1886.60, 52wkLow=1817.90, pctAbove=3.8%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:07"}
+{"level":"info","message":"52wk-low HIT: CIPLA.NS — close=1244.40, 52wkLow=1219.40, pctAbove=2.1%, date=Wed Mar 25 2026 15:30:03 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:13"}
+{"level":"info","message":"52wk-low HIT: BPCL.NS — close=284.55, 52wkLow=271.30, pctAbove=4.9%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:19"}
+{"level":"info","message":"52wk-low HIT: GRASIM.NS — close=2647.80, 52wkLow=2469.40, pctAbove=7.2%, date=Wed Mar 25 2026 15:30:04 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:19"}
+{"level":"info","message":"52wk-low HIT: TATACONSUM.NS — close=1053.10, 52wkLow=959.65, pctAbove=9.7%, date=Tue Mar 24 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:19"}
+{"level":"info","message":"Progress: 40/595 — last: TATACONSUM.NS","timestamp":"2026-03-26 23:15:19"}
+{"level":"info","message":"52wk-low HIT: LTIM.NS — close=4292.90, 52wkLow=4057.15, pctAbove=5.8%, date=Wed Mar 25 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:25"}
+{"level":"info","message":"52wk-low HIT: TATAELXSI.NS — close=4213.40, 52wkLow=4039.30, pctAbove=4.3%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:25"}
+{"level":"info","message":"52wk-low HIT: TATAPOWER.NS — close=372.90, 52wkLow=345.25, pctAbove=8.0%, date=Mon Mar 09 2026 09:15:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:25"}
+{"level":"warn","message":"fetchHistory(TATAMOTORS.NS): No data found, symbol may be delisted","timestamp":"2026-03-26 23:15:25"}
+{"level":"info","message":"52wk-low HIT: BAJAJFINSV.NS — close=1746.20, 52wkLow=1675.50, pctAbove=4.2%, date=Wed Mar 25 2026 15:29:58 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:32"}
+{"level":"info","message":"52wk-low HIT: HDFCLIFE.NS — close=612.90, 52wkLow=592.10, pctAbove=3.5%, date=Wed Mar 25 2026 15:29:58 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:32"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:15:33"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:15:34"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:15:34"}
+{"level":"info","message":"Scan started — 594 tickers, concurrency=5","timestamp":"2026-03-26 23:15:34"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:15:34"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:34"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:34"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:34"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:34"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:15:39"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:15:40"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:15:40"}
+{"level":"info","message":"Scan started — 592 tickers, concurrency=5","timestamp":"2026-03-26 23:15:40"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:15:40"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:40"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:40"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:40"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:40"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:15:45"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:15:45"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:15:45"}
+{"level":"info","message":"Scan started — 591 tickers, concurrency=5","timestamp":"2026-03-26 23:15:45"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:15:45"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:46"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:46"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:46"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:46"}
+{"level":"info","message":"52wk-low HIT: BHARTIARTL.NS — close=1834.90, 52wkLow=1686.65, pctAbove=8.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:53"}
+{"level":"info","message":"52wk-low HIT: HINDUNILVR.NS — close=2134.80, 52wkLow=2052.20, pctAbove=4.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:53"}
+{"level":"info","message":"52wk-low HIT: ITC.NS — close=295.70, 52wkLow=290.45, pctAbove=1.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:53"}
+{"level":"info","message":"52wk-low HIT: KOTAKBANK.NS — close=371.10, 52wkLow=356.55, pctAbove=4.1%, date=Wed Mar 25 2026 15:29:59 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:53"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:15:57"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:15:57"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:15:57"}
+{"level":"info","message":"Scan started — 590 tickers, concurrency=5","timestamp":"2026-03-26 23:15:57"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:15:57"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:58"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:58"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:58"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:15:58"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:16:03"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:16:04"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:16:04"}
+{"level":"info","message":"Scan started — 589 tickers, concurrency=5","timestamp":"2026-03-26 23:16:04"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:16:04"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:04"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:04"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:04"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:04"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:16:11"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:16:12"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:16:12"}
+{"level":"info","message":"Scan started — 588 tickers, concurrency=5","timestamp":"2026-03-26 23:16:12"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:16:12"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:12"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:12"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:12"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:12"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:16:18"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:16:18"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:16:18"}
+{"level":"info","message":"Scan started — 587 tickers, concurrency=5","timestamp":"2026-03-26 23:16:18"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:16:18"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:18"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:18"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:18"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:19"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:16:23"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:16:24"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:16:24"}
+{"level":"info","message":"Scan started — 586 tickers, concurrency=5","timestamp":"2026-03-26 23:16:24"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:16:24"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:24"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:24"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:24"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:24"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:16:31"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:16:31"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:16:31"}
+{"level":"info","message":"Scan started — 585 tickers, concurrency=5","timestamp":"2026-03-26 23:16:31"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:16:31"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:16:39"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:16:40"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:16:40"}
+{"level":"info","message":"Scan started — 584 tickers, concurrency=5","timestamp":"2026-03-26 23:16:40"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:16:40"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:40"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:40"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:40"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:40"}
+{"level":"info","message":"Loaded cached scan from disk: scan_2026-03-26T17-38-09-197Z.json","timestamp":"2026-03-26 23:16:45"}
+{"level":"info","message":"Scheduler started — cron: \"30 10 * * 1-5\" (IST)","timestamp":"2026-03-26 23:16:45"}
+{"level":"info","message":"Running initial scan on startup…","timestamp":"2026-03-26 23:16:45"}
+{"level":"info","message":"Scan started — 582 tickers, concurrency=5","timestamp":"2026-03-26 23:16:45"}
+{"level":"info","message":"BreakoutRadar backend running on http://0.0.0.0:4000","timestamp":"2026-03-26 23:16:45"}
+{"level":"info","message":"52wk-low HIT: ICICIBANK.NS — close=1259.70, 52wkLow=1222.70, pctAbove=3.0%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:46"}
+{"level":"info","message":"52wk-low HIT: HDFCBANK.NS — close=782.30, 52wkLow=744.15, pctAbove=5.1%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:46"}
+{"level":"info","message":"52wk-low HIT: TCS.NS — close=2377.40, 52wkLow=2356.00, pctAbove=0.9%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:46"}
+{"level":"info","message":"52wk-low HIT: INFY.NS — close=1279.10, 52wkLow=1220.80, pctAbove=4.8%, date=Wed Mar 25 2026 15:30:00 GMT+0530 (India Standard Time)","timestamp":"2026-03-26 23:16:46"}

@@ -1,0 +1,6161 @@
+{
+  "scanDate": "26/3/2026",
+  "scanTimestamp": "2026-03-26T17:46:50.877Z",
+  "totalScanned": 581,
+  "multiYearBreakouts": [
+    {
+      "ticker": "PCBL.NS",
+      "companyName": "PCBL Chemical Limited",
+      "currentPrice": 269.75,
+      "volumeToday": 65845376,
+      "avgVolume20d": 4380101,
+      "volumeRatio": 15.03,
+      "sector": "Unknown",
+      "marketCap": "₹106.1B",
+      "marketCapRaw": 106136535040,
+      "rsi14": 50.1,
+      "notes": [
+        "Resistance tested 5× over 1.1y",
+        "🔥 Exceptional volume: 15.0× avg",
+        "RSI(14): 50.1"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 133.46,
+      "pctAboveBreakout": 102.12,
+      "resistanceYears": 1.1
+    },
+    {
+      "ticker": "RPSGVENT.NS",
+      "companyName": "RPSG Ventures Limited",
+      "currentPrice": 720.9000244140625,
+      "volumeToday": 1925514,
+      "avgVolume20d": 131788,
+      "volumeRatio": 14.61,
+      "sector": "Unknown",
+      "marketCap": "₹23.9B",
+      "marketCapRaw": 23851993088,
+      "rsi14": 62.5,
+      "notes": [
+        "Resistance tested 4× over 1.9y",
+        "🔥 Exceptional volume: 14.6× avg",
+        "RSI(14): 62.5 — bullish momentum"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 682.93,
+      "pctAboveBreakout": 5.56,
+      "resistanceYears": 1.9
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "companyName": "Triveni Engineering & Industries Limited",
+      "currentPrice": 407.3999938964844,
+      "volumeToday": 15847200,
+      "avgVolume20d": 1264071,
+      "volumeRatio": 12.54,
+      "sector": "Unknown",
+      "marketCap": "₹89.2B",
+      "marketCapRaw": 89224732672,
+      "rsi14": 64.5,
+      "notes": [
+        "Resistance tested 12× over 1.9y",
+        "🔥 Exceptional volume: 12.5× avg",
+        "RSI(14): 64.5 — bullish momentum"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 364.26,
+      "pctAboveBreakout": 11.84,
+      "resistanceYears": 1.9
+    },
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "companyName": "Deepak Fertilisers And Petrochemicals Corporation Limited",
+      "currentPrice": 999.0499877929688,
+      "volumeToday": 6810588,
+      "avgVolume20d": 634891,
+      "volumeRatio": 10.73,
+      "sector": "Unknown",
+      "marketCap": "₹126.2B",
+      "marketCapRaw": 126245281792,
+      "rsi14": 53.6,
+      "notes": [
+        "Resistance tested 6× over 1.7y",
+        "🔥 Exceptional volume: 10.7× avg",
+        "RSI(14): 53.6"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 718.59,
+      "pctAboveBreakout": 39.03,
+      "resistanceYears": 1.7
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "companyName": "Godfrey Phillips India Limited",
+      "currentPrice": 2054.5,
+      "volumeToday": 9392038,
+      "avgVolume20d": 990662,
+      "volumeRatio": 9.48,
+      "sector": "Unknown",
+      "marketCap": "₹320.5B",
+      "marketCapRaw": 320464519168,
+      "rsi14": 49.7,
+      "notes": [
+        "Resistance tested 4× over 1.0y",
+        "🔥 Exceptional volume: 9.5× avg",
+        "RSI(14): 49.7"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 697.76,
+      "pctAboveBreakout": 194.44,
+      "resistanceYears": 1
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "companyName": "Granules India Limited",
+      "currentPrice": 629.0499877929688,
+      "volumeToday": 2987375,
+      "avgVolume20d": 868816,
+      "volumeRatio": 3.44,
+      "sector": "Unknown",
+      "marketCap": "₹155.9B",
+      "marketCapRaw": 155876655104,
+      "rsi14": 62.3,
+      "notes": [
+        "Resistance tested 9× over 1.4y",
+        "⚡ Strong volume: 3.4× avg",
+        "RSI(14): 62.3 — bullish momentum"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 597.52,
+      "pctAboveBreakout": 5.28,
+      "resistanceYears": 1.4
+    },
+    {
+      "ticker": "AETHER.NS",
+      "companyName": "Aether Industries Limited",
+      "currentPrice": 1158.550048828125,
+      "volumeToday": 1512732,
+      "avgVolume20d": 465957,
+      "volumeRatio": 3.25,
+      "sector": "Unknown",
+      "marketCap": "₹153.7B",
+      "marketCapRaw": 153709887488,
+      "rsi14": 61.7,
+      "notes": [
+        "Resistance tested 18× over 2.9y",
+        "⚡ Strong volume: 3.2× avg",
+        "RSI(14): 61.7 — bullish momentum"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 923.25,
+      "pctAboveBreakout": 25.49,
+      "resistanceYears": 2.9
+    },
+    {
+      "ticker": "RALLIS.NS",
+      "companyName": "Rallis India Limited",
+      "currentPrice": 236.35000610351562,
+      "volumeToday": 844984,
+      "avgVolume20d": 308707,
+      "volumeRatio": 2.74,
+      "sector": "Unknown",
+      "marketCap": "₹46.0B",
+      "marketCapRaw": 45962723328,
+      "rsi14": 38.1,
+      "notes": [
+        "Resistance tested 7× over 1.6y",
+        "✅ Volume surge: 2.7× avg",
+        "RSI(14): 38.1"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 225.83,
+      "pctAboveBreakout": 4.66,
+      "resistanceYears": 1.6
+    },
+    {
+      "ticker": "IPCALAB.NS",
+      "companyName": "Ipca Laboratories Limited",
+      "currentPrice": 1570,
+      "volumeToday": 657174,
+      "avgVolume20d": 244459,
+      "volumeRatio": 2.69,
+      "sector": "Unknown",
+      "marketCap": "₹399.8B",
+      "marketCapRaw": 399761342464,
+      "rsi14": 59.1,
+      "notes": [
+        "Resistance tested 11× over 1.4y",
+        "✅ Volume surge: 2.7× avg",
+        "RSI(14): 59.1"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 1506.37,
+      "pctAboveBreakout": 4.22,
+      "resistanceYears": 1.4
+    },
+    {
+      "ticker": "GPIL.NS",
+      "companyName": "Godawari Power & Ispat Limited",
+      "currentPrice": 277.29998779296875,
+      "volumeToday": 5692279,
+      "avgVolume20d": 2175456,
+      "volumeRatio": 2.62,
+      "sector": "Unknown",
+      "marketCap": "₹179.9B",
+      "marketCapRaw": 179930234880,
+      "rsi14": 59.9,
+      "notes": [
+        "Resistance tested 7× over 1.1y",
+        "✅ Volume surge: 2.6× avg",
+        "RSI(14): 59.9"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 192.06,
+      "pctAboveBreakout": 44.38,
+      "resistanceYears": 1.1
+    },
+    {
+      "ticker": "MOTILALOFS.NS",
+      "companyName": "Motilal Oswal Financial Services Limited",
+      "currentPrice": 684.2000122070312,
+      "volumeToday": 2004724,
+      "avgVolume20d": 873983,
+      "volumeRatio": 2.29,
+      "sector": "Unknown",
+      "marketCap": "₹412.3B",
+      "marketCapRaw": 412284387328,
+      "rsi14": 44.6,
+      "notes": [
+        "Resistance tested 7× over 2.2y",
+        "✅ Volume surge: 2.3× avg",
+        "RSI(14): 44.6"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 669.58,
+      "pctAboveBreakout": 2.18,
+      "resistanceYears": 2.2
+    },
+    {
+      "ticker": "SUNTV.NS",
+      "companyName": "Sun TV Network Limited",
+      "currentPrice": 609.2999877929688,
+      "volumeToday": 1355690,
+      "avgVolume20d": 599279,
+      "volumeRatio": 2.26,
+      "sector": "Unknown",
+      "marketCap": "₹240.1B",
+      "marketCapRaw": 240115744768,
+      "rsi14": 56.4,
+      "notes": [
+        "Resistance tested 10× over 1.1y",
+        "✅ Volume surge: 2.3× avg",
+        "RSI(14): 56.4"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 447.59,
+      "pctAboveBreakout": 36.13,
+      "resistanceYears": 1.1
+    },
+    {
+      "ticker": "TECHM.NS",
+      "companyName": "Tech Mahindra Limited",
+      "currentPrice": 1408.5,
+      "volumeToday": 4938196,
+      "avgVolume20d": 2208837,
+      "volumeRatio": 2.24,
+      "sector": "Unknown",
+      "marketCap": "₹1.2T",
+      "marketCapRaw": 1248026296320,
+      "rsi14": 49.6,
+      "notes": [
+        "Resistance tested 8× over 2.0y",
+        "✅ Volume surge: 2.2× avg",
+        "RSI(14): 49.6"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 1318.88,
+      "pctAboveBreakout": 6.8,
+      "resistanceYears": 2
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "companyName": "Kotak Mahindra Bank Limited",
+      "currentPrice": 371.1000061035156,
+      "volumeToday": 42435663,
+      "avgVolume20d": 20425183,
+      "volumeRatio": 2.08,
+      "sector": "Unknown",
+      "marketCap": "₹3.7T",
+      "marketCapRaw": 3690772299776,
+      "rsi14": 37.9,
+      "notes": [
+        "Resistance tested 19× over 2.7y",
+        "✅ Volume surge: 2.1× avg",
+        "RSI(14): 37.9"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 367.16,
+      "pctAboveBreakout": 1.07,
+      "resistanceYears": 2.7
+    },
+    {
+      "ticker": "WINDLAS.NS",
+      "companyName": "Windlas Biotech Limited",
+      "currentPrice": 780.1500244140625,
+      "volumeToday": 65282,
+      "avgVolume20d": 31451,
+      "volumeRatio": 2.08,
+      "sector": "Unknown",
+      "marketCap": "₹16.4B",
+      "marketCapRaw": 16448855040,
+      "rsi14": 57.5,
+      "notes": [
+        "Resistance tested 4× over 1.1y",
+        "✅ Volume surge: 2.1× avg",
+        "RSI(14): 57.5"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 283.53,
+      "pctAboveBreakout": 175.16,
+      "resistanceYears": 1.1
+    },
+    {
+      "ticker": "SOLARA.NS",
+      "companyName": "Solara Active Pharma Sciences Limited",
+      "currentPrice": 456.6499938964844,
+      "volumeToday": 175212,
+      "avgVolume20d": 85535,
+      "volumeRatio": 2.05,
+      "sector": "Unknown",
+      "marketCap": "₹22.0B",
+      "marketCapRaw": 21997543424,
+      "rsi14": 48.2,
+      "notes": [
+        "Resistance tested 10× over 2.0y",
+        "✅ Volume surge: 2.0× avg",
+        "RSI(14): 48.2"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 446.21,
+      "pctAboveBreakout": 2.34,
+      "resistanceYears": 2
+    },
+    {
+      "ticker": "WHEELS.NS",
+      "companyName": "Wheels India Limited",
+      "currentPrice": 1089.550048828125,
+      "volumeToday": 178885,
+      "avgVolume20d": 92951,
+      "volumeRatio": 1.92,
+      "sector": "Unknown",
+      "marketCap": "₹26.6B",
+      "marketCapRaw": 26620989440,
+      "rsi14": 73.1,
+      "notes": [
+        "Resistance tested 8× over 3.0y",
+        "✅ Volume surge: 1.9× avg",
+        "RSI(14): 73.1 — overbought zone"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 764.11,
+      "pctAboveBreakout": 42.59,
+      "resistanceYears": 3
+    },
+    {
+      "ticker": "GLAXO.NS",
+      "companyName": "GlaxoSmithKline Pharmaceuticals Limited",
+      "currentPrice": 2321.60009765625,
+      "volumeToday": 87636,
+      "avgVolume20d": 48882,
+      "volumeRatio": 1.79,
+      "sector": "Unknown",
+      "marketCap": "₹393.3B",
+      "marketCapRaw": 393293070336,
+      "rsi14": 35.6,
+      "notes": [
+        "Resistance tested 4× over 1.4y",
+        "✅ Volume surge: 1.8× avg",
+        "RSI(14): 35.6"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 1571.7,
+      "pctAboveBreakout": 47.71,
+      "resistanceYears": 1.4
+    },
+    {
+      "ticker": "RAMCOCEM.NS",
+      "companyName": "The Ramco Cements Limited",
+      "currentPrice": 928.2999877929688,
+      "volumeToday": 344918,
+      "avgVolume20d": 195443,
+      "volumeRatio": 1.76,
+      "sector": "Unknown",
+      "marketCap": "₹219.4B",
+      "marketCapRaw": 219350220800,
+      "rsi14": 37.7,
+      "notes": [
+        "Resistance tested 7× over 1.0y",
+        "✅ Volume surge: 1.8× avg",
+        "RSI(14): 37.7"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 890.59,
+      "pctAboveBreakout": 4.23,
+      "resistanceYears": 1
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "companyName": "Affle 3i Limited",
+      "currentPrice": 1393.699951171875,
+      "volumeToday": 621137,
+      "avgVolume20d": 354695,
+      "volumeRatio": 1.75,
+      "sector": "Unknown",
+      "marketCap": "₹196.0B",
+      "marketCapRaw": 195998023680,
+      "rsi14": 49.7,
+      "notes": [
+        "Resistance tested 10× over 1.7y",
+        "✅ Volume surge: 1.8× avg",
+        "RSI(14): 49.7"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 1116.34,
+      "pctAboveBreakout": 24.85,
+      "resistanceYears": 1.7
+    },
+    {
+      "ticker": "ICICIPRULI.NS",
+      "companyName": "ICICI Prudential Life Insurance Company Limited",
+      "currentPrice": 540.5999755859375,
+      "volumeToday": 1901417,
+      "avgVolume20d": 1115293,
+      "volumeRatio": 1.7,
+      "sector": "Unknown",
+      "marketCap": "₹783.1B",
+      "marketCapRaw": 783135211520,
+      "rsi14": 24,
+      "notes": [
+        "Resistance tested 4× over 1.7y",
+        "✅ Volume surge: 1.7× avg",
+        "RSI(14): 24.0"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 532.55,
+      "pctAboveBreakout": 1.51,
+      "resistanceYears": 1.7
+    },
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "companyName": "Gujarat Fluorochemicals Limited",
+      "currentPrice": 3256.60009765625,
+      "volumeToday": 144710,
+      "avgVolume20d": 85533,
+      "volumeRatio": 1.69,
+      "sector": "Unknown",
+      "marketCap": "₹357.7B",
+      "marketCapRaw": 357737529344,
+      "rsi14": 50.1,
+      "notes": [
+        "Resistance tested 5× over 1.4y",
+        "✅ Volume surge: 1.7× avg",
+        "RSI(14): 50.1"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 3099.91,
+      "pctAboveBreakout": 5.05,
+      "resistanceYears": 1.4
+    },
+    {
+      "ticker": "NIACL.NS",
+      "companyName": "The New India Assurance Company Limited",
+      "currentPrice": 128.27999877929688,
+      "volumeToday": 856985,
+      "avgVolume20d": 527729,
+      "volumeRatio": 1.62,
+      "sector": "Unknown",
+      "marketCap": "₹211.6B",
+      "marketCapRaw": 211581812736,
+      "rsi14": 35.8,
+      "notes": [
+        "Resistance tested 7× over 1.3y",
+        "✅ Volume surge: 1.6× avg",
+        "RSI(14): 35.8"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 125.28,
+      "pctAboveBreakout": 2.4,
+      "resistanceYears": 1.3
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "companyName": "Caplin Point Laboratories Limited",
+      "currentPrice": 1595.5999755859375,
+      "volumeToday": 107131,
+      "avgVolume20d": 66334,
+      "volumeRatio": 1.62,
+      "sector": "Unknown",
+      "marketCap": "₹121.5B",
+      "marketCapRaw": 121488801792,
+      "rsi14": 35.5,
+      "notes": [
+        "Resistance tested 6× over 1.2y",
+        "✅ Volume surge: 1.6× avg",
+        "RSI(14): 35.5"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 821.76,
+      "pctAboveBreakout": 94.17,
+      "resistanceYears": 1.2
+    },
+    {
+      "ticker": "GILLETTE.NS",
+      "companyName": "Gillette India Limited",
+      "currentPrice": 7682.5,
+      "volumeToday": 33808,
+      "avgVolume20d": 21337,
+      "volumeRatio": 1.58,
+      "sector": "Unknown",
+      "marketCap": "₹250.3B",
+      "marketCapRaw": 250335920128,
+      "rsi14": 31.9,
+      "notes": [
+        "Resistance tested 4× over 1.1y",
+        "✅ Volume surge: 1.6× avg",
+        "RSI(14): 31.9"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 5608.99,
+      "pctAboveBreakout": 36.97,
+      "resistanceYears": 1.1
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "companyName": "Bajaj Finance Limited",
+      "currentPrice": 882.75,
+      "volumeToday": 15995173,
+      "avgVolume20d": 10164846,
+      "volumeRatio": 1.57,
+      "sector": "Unknown",
+      "marketCap": "₹5.5T",
+      "marketCapRaw": 5487479226368,
+      "rsi14": 44.4,
+      "notes": [
+        "Resistance tested 14× over 2.7y",
+        "✅ Volume surge: 1.6× avg",
+        "RSI(14): 44.4"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 745,
+      "pctAboveBreakout": 18.49,
+      "resistanceYears": 2.7
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "companyName": "Syrma SGS Technology Limited",
+      "currentPrice": 817.75,
+      "volumeToday": 2035462,
+      "avgVolume20d": 1306210,
+      "volumeRatio": 1.56,
+      "sector": "Unknown",
+      "marketCap": "₹157.6B",
+      "marketCapRaw": 157582131200,
+      "rsi14": 56.5,
+      "notes": [
+        "Resistance tested 8× over 1.7y",
+        "✅ Volume surge: 1.6× avg",
+        "RSI(14): 56.5"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 577.48,
+      "pctAboveBreakout": 41.61,
+      "resistanceYears": 1.7
+    },
+    {
+      "ticker": "SUVEN.NS",
+      "companyName": "Suven Life Sciences Limited",
+      "currentPrice": 133.8699951171875,
+      "volumeToday": 520812,
+      "avgVolume20d": 344817,
+      "volumeRatio": 1.51,
+      "sector": "Unknown",
+      "marketCap": "₹35.3B",
+      "marketCapRaw": 35304271872,
+      "rsi14": 42.8,
+      "notes": [
+        "Resistance tested 14× over 1.1y",
+        "✅ Volume surge: 1.5× avg",
+        "RSI(14): 42.8"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 68.09,
+      "pctAboveBreakout": 96.6,
+      "resistanceYears": 1.1
+    },
+    {
+      "ticker": "BALRAMCHIN.NS",
+      "companyName": "Balrampur Chini Mills Limited",
+      "currentPrice": 508.5,
+      "volumeToday": 1900127,
+      "avgVolume20d": 1266177,
+      "volumeRatio": 1.5,
+      "sector": "Unknown",
+      "marketCap": "₹102.8B",
+      "marketCapRaw": 102761119744,
+      "rsi14": 61.3,
+      "notes": [
+        "Resistance tested 11× over 1.8y",
+        "✅ Volume surge: 1.5× avg",
+        "RSI(14): 61.3 — bullish momentum"
+      ],
+      "breakoutType": "MULTI_YEAR",
+      "breakoutLevel": 413.85,
+      "pctAboveBreakout": 22.87,
+      "resistanceYears": 1.8
+    }
+  ],
+  "week52Breakouts": [],
+  "week52LowBreakouts": [
+    {
+      "ticker": "PCBL.NS",
+      "companyName": "PCBL Chemical Limited",
+      "currentPrice": 269.75,
+      "volumeToday": 65845376,
+      "avgVolume20d": 4380101,
+      "volumeRatio": 15.03,
+      "sector": "Unknown",
+      "marketCap": "₹106.1B",
+      "marketCapRaw": 106136535040,
+      "rsi14": 50.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 232.15,
+      "pctAboveBreakout": 0.43,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "🔥 Panic volume: 15.0× avg",
+        "RSI(14): 50.1"
+      ]
+    },
+    {
+      "ticker": "RPSGVENT.NS",
+      "companyName": "RPSG Ventures Limited",
+      "currentPrice": 720.9000244140625,
+      "volumeToday": 1925514,
+      "avgVolume20d": 131788,
+      "volumeRatio": 14.61,
+      "sector": "Unknown",
+      "marketCap": "₹23.9B",
+      "marketCapRaw": 23851993088,
+      "rsi14": 62.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 559.85,
+      "pctAboveBreakout": 7.31,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "🔥 Panic volume: 14.6× avg",
+        "RSI(14): 62.5"
+      ]
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "companyName": "Triveni Engineering & Industries Limited",
+      "currentPrice": 407.3999938964844,
+      "volumeToday": 15847200,
+      "avgVolume20d": 1264071,
+      "volumeRatio": 12.54,
+      "sector": "Unknown",
+      "marketCap": "₹89.2B",
+      "marketCapRaw": 89224732672,
+      "rsi14": 64.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 327.55,
+      "pctAboveBreakout": 6.15,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "🔥 Panic volume: 12.5× avg",
+        "RSI(14): 64.5"
+      ]
+    },
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "companyName": "Deepak Fertilisers And Petrochemicals Corporation Limited",
+      "currentPrice": 999.0499877929688,
+      "volumeToday": 6810588,
+      "avgVolume20d": 634891,
+      "volumeRatio": 10.73,
+      "sector": "Unknown",
+      "marketCap": "₹126.2B",
+      "marketCapRaw": 126245281792,
+      "rsi14": 53.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 872.1,
+      "pctAboveBreakout": 5.61,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "🔥 Panic volume: 10.7× avg",
+        "RSI(14): 53.6"
+      ]
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "companyName": "Godfrey Phillips India Limited",
+      "currentPrice": 2054.5,
+      "volumeToday": 9392038,
+      "avgVolume20d": 990662,
+      "volumeRatio": 9.48,
+      "sector": "Unknown",
+      "marketCap": "₹320.5B",
+      "marketCapRaw": 320464519168,
+      "rsi14": 49.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1844,
+      "pctAboveBreakout": 2.9,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "🔥 Panic volume: 9.5× avg",
+        "RSI(14): 49.7"
+      ]
+    },
+    {
+      "ticker": "LODHA.NS",
+      "companyName": "Lodha Developers Limited",
+      "currentPrice": 733.8499755859375,
+      "volumeToday": 14937843,
+      "avgVolume20d": 2963664,
+      "volumeRatio": 5.04,
+      "sector": "Unknown",
+      "marketCap": "₹732.9B",
+      "marketCapRaw": 732930572288,
+      "rsi14": 18.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 726.4,
+      "pctAboveBreakout": 1.03,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "🔥 Panic volume: 5.0× avg",
+        "RSI(14): 18.2 — oversold"
+      ]
+    },
+    {
+      "ticker": "GATEWAY.NS",
+      "companyName": "Gateway Distriparks Limited",
+      "currentPrice": 55.08000183105469,
+      "volumeToday": 4420501,
+      "avgVolume20d": 1099135,
+      "volumeRatio": 4.02,
+      "sector": "Unknown",
+      "marketCap": "₹27.5B",
+      "marketCapRaw": 27524997120,
+      "rsi14": 49.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 48.48,
+      "pctAboveBreakout": 5.75,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "⚠️ Heavy selling: 4.0× avg",
+        "RSI(14): 49.7"
+      ]
+    },
+    {
+      "ticker": "FIVESTAR.NS",
+      "companyName": "Five-Star Business Finance Limited",
+      "currentPrice": 382.6000061035156,
+      "volumeToday": 5852702,
+      "avgVolume20d": 1470115,
+      "volumeRatio": 3.98,
+      "sector": "Unknown",
+      "marketCap": "₹113.0B",
+      "marketCapRaw": 112993091584,
+      "rsi14": 45.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 347.3,
+      "pctAboveBreakout": 4.97,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "⚠️ Heavy selling: 4.0× avg",
+        "RSI(14): 45.4"
+      ]
+    },
+    {
+      "ticker": "EASEMYTRIP.NS",
+      "companyName": "Easy Trip Planners Limited",
+      "currentPrice": 6.679999828338623,
+      "volumeToday": 84926190,
+      "avgVolume20d": 24097954,
+      "volumeRatio": 3.52,
+      "sector": "Unknown",
+      "marketCap": "₹24.3B",
+      "marketCapRaw": 24294178816,
+      "rsi14": 38.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 6.22,
+      "pctAboveBreakout": 7.4,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "⚠️ Heavy selling: 3.5× avg",
+        "RSI(14): 38.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "MEDANTA.NS",
+      "companyName": "Global Health Limited",
+      "currentPrice": 1011.2999877929688,
+      "volumeToday": 631469,
+      "avgVolume20d": 185054,
+      "volumeRatio": 3.41,
+      "sector": "Unknown",
+      "marketCap": "₹271.7B",
+      "marketCapRaw": 271733129216,
+      "rsi14": 36.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 969.6,
+      "pctAboveBreakout": 4.3,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "⚠️ Heavy selling: 3.4× avg",
+        "RSI(14): 36.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "EMUDHRA.NS",
+      "companyName": "eMudhra Limited",
+      "currentPrice": 391,
+      "volumeToday": 815110,
+      "avgVolume20d": 247533,
+      "volumeRatio": 3.29,
+      "sector": "Unknown",
+      "marketCap": "₹32.1B",
+      "marketCapRaw": 32059992064,
+      "rsi14": 32.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 383.2,
+      "pctAboveBreakout": 2.04,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "⚠️ Heavy selling: 3.3× avg",
+        "RSI(14): 32.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ROSSARI.NS",
+      "companyName": "Rossari Biotech Limited",
+      "currentPrice": 415.3500061035156,
+      "volumeToday": 200123,
+      "avgVolume20d": 63132,
+      "volumeRatio": 3.17,
+      "sector": "Unknown",
+      "marketCap": "₹23.0B",
+      "marketCapRaw": 23003482112,
+      "rsi14": 32.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 388.75,
+      "pctAboveBreakout": 6.84,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "⚠️ Heavy selling: 3.2× avg",
+        "RSI(14): 32.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "APTUS.NS",
+      "companyName": "Aptus Value Housing Finance India Limited",
+      "currentPrice": 207.25,
+      "volumeToday": 7166986,
+      "avgVolume20d": 2280885,
+      "volumeRatio": 3.14,
+      "sector": "Unknown",
+      "marketCap": "₹103.8B",
+      "marketCapRaw": 103778926592,
+      "rsi14": 31.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 200.31,
+      "pctAboveBreakout": 3.46,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "⚠️ Heavy selling: 3.1× avg",
+        "RSI(14): 31.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GRINDWELL.NS",
+      "companyName": "Grindwell Norton Limited",
+      "currentPrice": 1398.800048828125,
+      "volumeToday": 199723,
+      "avgVolume20d": 68163,
+      "volumeRatio": 2.93,
+      "sector": "Unknown",
+      "marketCap": "₹154.9B",
+      "marketCapRaw": 154875133952,
+      "rsi14": 31.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1364.2,
+      "pctAboveBreakout": 2.54,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.9× avg",
+        "RSI(14): 31.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "DMART.NS",
+      "companyName": "Avenue Supermarts Limited",
+      "currentPrice": 3910.800048828125,
+      "volumeToday": 1335642,
+      "avgVolume20d": 483851,
+      "volumeRatio": 2.76,
+      "sector": "Unknown",
+      "marketCap": "₹2.5T",
+      "marketCapRaw": 2544886874112,
+      "rsi14": 55,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 3646.3,
+      "pctAboveBreakout": 7.25,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.8× avg",
+        "RSI(14): 55.0"
+      ]
+    },
+    {
+      "ticker": "ZEEL.NS",
+      "companyName": "Zee Entertainment Enterprises Limited",
+      "currentPrice": 75.95999908447266,
+      "volumeToday": 27692927,
+      "avgVolume20d": 10337261,
+      "volumeRatio": 2.68,
+      "sector": "Unknown",
+      "marketCap": "₹73.0B",
+      "marketCapRaw": 72961056768,
+      "rsi14": 42,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 68.39,
+      "pctAboveBreakout": 4.56,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 2.7× avg",
+        "RSI(14): 42.0"
+      ]
+    },
+    {
+      "ticker": "SHYAMMETL.NS",
+      "companyName": "Shyam Metalics and Energy Limited",
+      "currentPrice": 794.75,
+      "volumeToday": 542047,
+      "avgVolume20d": 209094,
+      "volumeRatio": 2.59,
+      "sector": "Unknown",
+      "marketCap": "₹221.1B",
+      "marketCapRaw": 221122035712,
+      "rsi14": 46.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 761.45,
+      "pctAboveBreakout": 4.37,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.6× avg",
+        "RSI(14): 46.1"
+      ]
+    },
+    {
+      "ticker": "FINOPB.NS",
+      "companyName": "Fino Payments Bank Limited",
+      "currentPrice": 123.69999694824219,
+      "volumeToday": 4393055,
+      "avgVolume20d": 1782882,
+      "volumeRatio": 2.46,
+      "sector": "Unknown",
+      "marketCap": "₹10.3B",
+      "marketCapRaw": 10298048512,
+      "rsi14": 27.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 112.46,
+      "pctAboveBreakout": 9.99,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.5× avg",
+        "RSI(14): 27.2 — oversold"
+      ]
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "companyName": "Kalyan Jewellers India Limited",
+      "currentPrice": 391.8500061035156,
+      "volumeToday": 7261143,
+      "avgVolume20d": 3143390,
+      "volumeRatio": 2.31,
+      "sector": "Unknown",
+      "marketCap": "₹404.9B",
+      "marketCapRaw": 404857290752,
+      "rsi14": 49.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 361.65,
+      "pctAboveBreakout": 8.35,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.3× avg",
+        "RSI(14): 49.5"
+      ]
+    },
+    {
+      "ticker": "SUNTV.NS",
+      "companyName": "Sun TV Network Limited",
+      "currentPrice": 609.2999877929688,
+      "volumeToday": 1355690,
+      "avgVolume20d": 599279,
+      "volumeRatio": 2.26,
+      "sector": "Unknown",
+      "marketCap": "₹240.1B",
+      "marketCapRaw": 240115744768,
+      "rsi14": 56.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 523.45,
+      "pctAboveBreakout": 8.42,
+      "breakoutDate": "2026-03-17",
+      "notes": [
+        "📉 Volume surge: 2.3× avg",
+        "RSI(14): 56.4"
+      ]
+    },
+    {
+      "ticker": "TECHM.NS",
+      "companyName": "Tech Mahindra Limited",
+      "currentPrice": 1408.5,
+      "volumeToday": 4938196,
+      "avgVolume20d": 2208837,
+      "volumeRatio": 2.24,
+      "sector": "Unknown",
+      "marketCap": "₹1.2T",
+      "marketCapRaw": 1248026296320,
+      "rsi14": 49.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1272.75,
+      "pctAboveBreakout": 8.74,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 2.2× avg",
+        "RSI(14): 49.6"
+      ]
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "companyName": "Kaynes Technology India Limited",
+      "currentPrice": 3717.89990234375,
+      "volumeToday": 2874754,
+      "avgVolume20d": 1296478,
+      "volumeRatio": 2.22,
+      "sector": "Unknown",
+      "marketCap": "₹249.4B",
+      "marketCapRaw": 249417564160,
+      "rsi14": 50.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 3333,
+      "pctAboveBreakout": 5.44,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 2.2× avg",
+        "RSI(14): 50.7"
+      ]
+    },
+    {
+      "ticker": "TAJGVK.NS",
+      "companyName": "TAJGVK Hotels & Resorts Limited",
+      "currentPrice": 312.79998779296875,
+      "volumeToday": 357889,
+      "avgVolume20d": 165388,
+      "volumeRatio": 2.16,
+      "sector": "Unknown",
+      "marketCap": "₹19.6B",
+      "marketCapRaw": 19613026304,
+      "rsi14": 44.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 284.95,
+      "pctAboveBreakout": 9.77,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.2× avg",
+        "RSI(14): 44.9"
+      ]
+    },
+    {
+      "ticker": "HUDCO.NS",
+      "companyName": "Housing and Urban Development Corporation Limited",
+      "currentPrice": 177.08999633789062,
+      "volumeToday": 7775524,
+      "avgVolume20d": 3617598,
+      "volumeRatio": 2.15,
+      "sector": "Unknown",
+      "marketCap": "₹354.5B",
+      "marketCapRaw": 354516467712,
+      "rsi14": 46.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 165.11,
+      "pctAboveBreakout": 7.26,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.1× avg",
+        "RSI(14): 46.5"
+      ]
+    },
+    {
+      "ticker": "CAMPUS.NS",
+      "companyName": "Campus Activewear Limited",
+      "currentPrice": 233.3000030517578,
+      "volumeToday": 574020,
+      "avgVolume20d": 268058,
+      "volumeRatio": 2.14,
+      "sector": "Unknown",
+      "marketCap": "₹71.3B",
+      "marketCapRaw": 71294902272,
+      "rsi14": 42,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 219.15,
+      "pctAboveBreakout": 6.46,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.1× avg",
+        "RSI(14): 42.0"
+      ]
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "companyName": "Kotak Mahindra Bank Limited",
+      "currentPrice": 371.1000061035156,
+      "volumeToday": 42435663,
+      "avgVolume20d": 20425183,
+      "volumeRatio": 2.08,
+      "sector": "Unknown",
+      "marketCap": "₹3.7T",
+      "marketCapRaw": 3690772299776,
+      "rsi14": 37.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 356.55,
+      "pctAboveBreakout": 4.08,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.1× avg",
+        "RSI(14): 37.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "WINDLAS.NS",
+      "companyName": "Windlas Biotech Limited",
+      "currentPrice": 780.1500244140625,
+      "volumeToday": 65282,
+      "avgVolume20d": 31451,
+      "volumeRatio": 2.08,
+      "sector": "Unknown",
+      "marketCap": "₹16.4B",
+      "marketCapRaw": 16448855040,
+      "rsi14": 57.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 705.75,
+      "pctAboveBreakout": 8.14,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 2.1× avg",
+        "RSI(14): 57.5"
+      ]
+    },
+    {
+      "ticker": "SOLARA.NS",
+      "companyName": "Solara Active Pharma Sciences Limited",
+      "currentPrice": 456.6499938964844,
+      "volumeToday": 175212,
+      "avgVolume20d": 85535,
+      "volumeRatio": 2.05,
+      "sector": "Unknown",
+      "marketCap": "₹22.0B",
+      "marketCapRaw": 21997543424,
+      "rsi14": 48.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 428.5,
+      "pctAboveBreakout": 6.57,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.0× avg",
+        "RSI(14): 48.2"
+      ]
+    },
+    {
+      "ticker": "NOCIL.NS",
+      "companyName": "NOCIL Limited",
+      "currentPrice": 160.10000610351562,
+      "volumeToday": 20963616,
+      "avgVolume20d": 10299114,
+      "volumeRatio": 2.04,
+      "sector": "Unknown",
+      "marketCap": "₹26.7B",
+      "marketCapRaw": 26740692992,
+      "rsi14": 63.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 128.23,
+      "pctAboveBreakout": 9.2,
+      "breakoutDate": "2026-03-19",
+      "notes": [
+        "📉 Volume surge: 2.0× avg",
+        "RSI(14): 63.8"
+      ]
+    },
+    {
+      "ticker": "ALKYLAMINE.NS",
+      "companyName": "Alkyl Amines Chemicals Limited",
+      "currentPrice": 1378.300048828125,
+      "volumeToday": 397578,
+      "avgVolume20d": 198216,
+      "volumeRatio": 2.01,
+      "sector": "Unknown",
+      "marketCap": "₹70.5B",
+      "marketCapRaw": 70491848704,
+      "rsi14": 49.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1239.4,
+      "pctAboveBreakout": 0,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 2.0× avg",
+        "RSI(14): 49.1"
+      ]
+    },
+    {
+      "ticker": "CYIENT.NS",
+      "companyName": "Cyient Limited",
+      "currentPrice": 815.7000122070312,
+      "volumeToday": 585779,
+      "avgVolume20d": 299351,
+      "volumeRatio": 1.96,
+      "sector": "Unknown",
+      "marketCap": "₹90.1B",
+      "marketCapRaw": 90065174528,
+      "rsi14": 31.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 791.4,
+      "pctAboveBreakout": 3.07,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.0× avg",
+        "RSI(14): 31.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "MGL.NS",
+      "companyName": "Mahanagar Gas Limited",
+      "currentPrice": 939.0999755859375,
+      "volumeToday": 1131646,
+      "avgVolume20d": 576154,
+      "volumeRatio": 1.96,
+      "sector": "Unknown",
+      "marketCap": "₹92.8B",
+      "marketCapRaw": 92762210304,
+      "rsi14": 30.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 908.4,
+      "pctAboveBreakout": 3.38,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 2.0× avg",
+        "RSI(14): 30.1 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "companyName": "Mphasis Limited",
+      "currentPrice": 2132.10009765625,
+      "volumeToday": 1105590,
+      "avgVolume20d": 577592,
+      "volumeRatio": 1.91,
+      "sector": "Unknown",
+      "marketCap": "₹406.5B",
+      "marketCapRaw": 406519152640,
+      "rsi14": 38,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2047.4,
+      "pctAboveBreakout": 4.14,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.9× avg",
+        "RSI(14): 38.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "companyName": "Syngene International Limited",
+      "currentPrice": 418.75,
+      "volumeToday": 2746862,
+      "avgVolume20d": 1467809,
+      "volumeRatio": 1.87,
+      "sector": "Unknown",
+      "marketCap": "₹168.3B",
+      "marketCapRaw": 168311029760,
+      "rsi14": 46.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 397.85,
+      "pctAboveBreakout": 5.25,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.9× avg",
+        "RSI(14): 46.1"
+      ]
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "companyName": "Inox Wind Limited",
+      "currentPrice": 81.91999816894531,
+      "volumeToday": 22839415,
+      "avgVolume20d": 12486520,
+      "volumeRatio": 1.83,
+      "sector": "Unknown",
+      "marketCap": "₹141.7B",
+      "marketCapRaw": 141657473024,
+      "rsi14": 41.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 76.15,
+      "pctAboveBreakout": 7.58,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.8× avg",
+        "RSI(14): 41.6"
+      ]
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "companyName": "Reliance Power Limited",
+      "currentPrice": 22.670000076293945,
+      "volumeToday": 95703367,
+      "avgVolume20d": 52842256,
+      "volumeRatio": 1.81,
+      "sector": "Unknown",
+      "marketCap": "₹93.8B",
+      "marketCapRaw": 93757923328,
+      "rsi14": 43.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 20.97,
+      "pctAboveBreakout": 8.11,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.8× avg",
+        "RSI(14): 43.6"
+      ]
+    },
+    {
+      "ticker": "SAGILITY.NS",
+      "companyName": "Sagility Limited",
+      "currentPrice": 39.88999938964844,
+      "volumeToday": 78230074,
+      "avgVolume20d": 43378063,
+      "volumeRatio": 1.8,
+      "sector": "Unknown",
+      "marketCap": "₹186.7B",
+      "marketCapRaw": 186738196480,
+      "rsi14": 47.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 36.35,
+      "pctAboveBreakout": 9.74,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.8× avg",
+        "RSI(14): 47.2"
+      ]
+    },
+    {
+      "ticker": "GLAXO.NS",
+      "companyName": "GlaxoSmithKline Pharmaceuticals Limited",
+      "currentPrice": 2321.60009765625,
+      "volumeToday": 87636,
+      "avgVolume20d": 48882,
+      "volumeRatio": 1.79,
+      "sector": "Unknown",
+      "marketCap": "₹393.3B",
+      "marketCapRaw": 393293070336,
+      "rsi14": 35.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2272.6,
+      "pctAboveBreakout": 2.16,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.8× avg",
+        "RSI(14): 35.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "VMART.NS",
+      "companyName": "V-Mart Retail Limited",
+      "currentPrice": 504.95001220703125,
+      "volumeToday": 201679,
+      "avgVolume20d": 112547,
+      "volumeRatio": 1.79,
+      "sector": "Unknown",
+      "marketCap": "₹40.3B",
+      "marketCapRaw": 40341221376,
+      "rsi14": 35.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 497.7,
+      "pctAboveBreakout": 1.46,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.8× avg",
+        "RSI(14): 35.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "JKCEMENT.NS",
+      "companyName": "J.K. Cement Limited",
+      "currentPrice": 5262,
+      "volumeToday": 132207,
+      "avgVolume20d": 74088,
+      "volumeRatio": 1.78,
+      "sector": "Unknown",
+      "marketCap": "₹406.6B",
+      "marketCapRaw": 406585507840,
+      "rsi14": 48.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 4712.45,
+      "pctAboveBreakout": 8.7,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 1.8× avg",
+        "RSI(14): 48.4"
+      ]
+    },
+    {
+      "ticker": "WHIRLPOOL.NS",
+      "companyName": "Whirlpool of India Limited",
+      "currentPrice": 807.25,
+      "volumeToday": 599959,
+      "avgVolume20d": 337757,
+      "volumeRatio": 1.78,
+      "sector": "Unknown",
+      "marketCap": "₹102.5B",
+      "marketCapRaw": 102456451072,
+      "rsi14": 40.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 773.8,
+      "pctAboveBreakout": 4.32,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.8× avg",
+        "RSI(14): 40.6"
+      ]
+    },
+    {
+      "ticker": "PNBHOUSING.NS",
+      "companyName": "PNB Housing Finance Limited",
+      "currentPrice": 802.8499755859375,
+      "volumeToday": 1626365,
+      "avgVolume20d": 931880,
+      "volumeRatio": 1.75,
+      "sector": "Unknown",
+      "marketCap": "₹209.2B",
+      "marketCapRaw": 209182228480,
+      "rsi14": 49.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 750.75,
+      "pctAboveBreakout": 6.94,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.7× avg",
+        "RSI(14): 49.7"
+      ]
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "companyName": "Affle 3i Limited",
+      "currentPrice": 1393.699951171875,
+      "volumeToday": 621137,
+      "avgVolume20d": 354695,
+      "volumeRatio": 1.75,
+      "sector": "Unknown",
+      "marketCap": "₹196.0B",
+      "marketCapRaw": 195998023680,
+      "rsi14": 49.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1268.7,
+      "pctAboveBreakout": 9.85,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.8× avg",
+        "RSI(14): 49.7"
+      ]
+    },
+    {
+      "ticker": "ICICIPRULI.NS",
+      "companyName": "ICICI Prudential Life Insurance Company Limited",
+      "currentPrice": 540.5999755859375,
+      "volumeToday": 1901417,
+      "avgVolume20d": 1115293,
+      "volumeRatio": 1.7,
+      "sector": "Unknown",
+      "marketCap": "₹783.1B",
+      "marketCapRaw": 783135211520,
+      "rsi14": 24,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 531.25,
+      "pctAboveBreakout": 1.76,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.7× avg",
+        "RSI(14): 24.0 — oversold"
+      ]
+    },
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "companyName": "Gujarat Fluorochemicals Limited",
+      "currentPrice": 3256.60009765625,
+      "volumeToday": 144710,
+      "avgVolume20d": 85533,
+      "volumeRatio": 1.69,
+      "sector": "Unknown",
+      "marketCap": "₹357.7B",
+      "marketCapRaw": 357737529344,
+      "rsi14": 50.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2980.4,
+      "pctAboveBreakout": 9.27,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.7× avg",
+        "RSI(14): 50.1"
+      ]
+    },
+    {
+      "ticker": "TIMETECHNO.NS",
+      "companyName": "Time Technoplast Limited",
+      "currentPrice": 168.83999633789062,
+      "volumeToday": 3882600,
+      "avgVolume20d": 2316727,
+      "volumeRatio": 1.68,
+      "sector": "Unknown",
+      "marketCap": "₹83.3B",
+      "marketCapRaw": 83345399808,
+      "rsi14": 47.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 154.18,
+      "pctAboveBreakout": 9.51,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.7× avg",
+        "RSI(14): 47.1"
+      ]
+    },
+    {
+      "ticker": "LTIM.NS",
+      "companyName": "LTIM.NS",
+      "currentPrice": 4292.89990234375,
+      "volumeToday": 537105,
+      "avgVolume20d": 323855,
+      "volumeRatio": 1.66,
+      "sector": "Unknown",
+      "marketCap": "N/A",
+      "marketCapRaw": 0,
+      "rsi14": 38.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 4057.15,
+      "pctAboveBreakout": 5.81,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.7× avg",
+        "RSI(14): 38.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "TCS.NS",
+      "companyName": "Tata Consultancy Services Limited",
+      "currentPrice": 2377.39990234375,
+      "volumeToday": 5842807,
+      "avgVolume20d": 3591862,
+      "volumeRatio": 1.63,
+      "sector": "Unknown",
+      "marketCap": "₹8.6T",
+      "marketCapRaw": 8601640894464,
+      "rsi14": 28.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2356,
+      "pctAboveBreakout": 0.91,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 28.3 — oversold"
+      ]
+    },
+    {
+      "ticker": "NIACL.NS",
+      "companyName": "The New India Assurance Company Limited",
+      "currentPrice": 128.27999877929688,
+      "volumeToday": 856985,
+      "avgVolume20d": 527729,
+      "volumeRatio": 1.62,
+      "sector": "Unknown",
+      "marketCap": "₹211.6B",
+      "marketCapRaw": 211581812736,
+      "rsi14": 35.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 124.65,
+      "pctAboveBreakout": 2.91,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 35.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "companyName": "Caplin Point Laboratories Limited",
+      "currentPrice": 1595.5999755859375,
+      "volumeToday": 107131,
+      "avgVolume20d": 66334,
+      "volumeRatio": 1.62,
+      "sector": "Unknown",
+      "marketCap": "₹121.5B",
+      "marketCapRaw": 121488801792,
+      "rsi14": 35.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1560.3,
+      "pctAboveBreakout": 2.26,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 35.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GREENPANEL.NS",
+      "companyName": "Greenpanel Industries Limited",
+      "currentPrice": 182.0500030517578,
+      "volumeToday": 178173,
+      "avgVolume20d": 109821,
+      "volumeRatio": 1.62,
+      "sector": "Unknown",
+      "marketCap": "₹22.3B",
+      "marketCapRaw": 22337955840,
+      "rsi14": 32.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 178.68,
+      "pctAboveBreakout": 1.89,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 32.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "RELAXO.NS",
+      "companyName": "Relaxo Footwears Limited",
+      "currentPrice": 265.75,
+      "volumeToday": 228388,
+      "avgVolume20d": 141980,
+      "volumeRatio": 1.61,
+      "sector": "Unknown",
+      "marketCap": "₹66.2B",
+      "marketCapRaw": 66155429888,
+      "rsi14": 26,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 254.85,
+      "pctAboveBreakout": 4.28,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 26.0 — oversold"
+      ]
+    },
+    {
+      "ticker": "BLUESTARCO.NS",
+      "companyName": "Blue Star Limited",
+      "currentPrice": 1744.5999755859375,
+      "volumeToday": 902129,
+      "avgVolume20d": 570800,
+      "volumeRatio": 1.58,
+      "sector": "Unknown",
+      "marketCap": "₹358.7B",
+      "marketCapRaw": 358673743872,
+      "rsi14": 42.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1532.3,
+      "pctAboveBreakout": 8.72,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 42.5"
+      ]
+    },
+    {
+      "ticker": "GILLETTE.NS",
+      "companyName": "Gillette India Limited",
+      "currentPrice": 7682.5,
+      "volumeToday": 33808,
+      "avgVolume20d": 21337,
+      "volumeRatio": 1.58,
+      "sector": "Unknown",
+      "marketCap": "₹250.3B",
+      "marketCapRaw": 250335920128,
+      "rsi14": 31.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 7682.5,
+      "pctAboveBreakout": 0,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 31.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "companyName": "Bajaj Finance Limited",
+      "currentPrice": 882.75,
+      "volumeToday": 15995173,
+      "avgVolume20d": 10164846,
+      "volumeRatio": 1.57,
+      "sector": "Unknown",
+      "marketCap": "₹5.5T",
+      "marketCapRaw": 5487479226368,
+      "rsi14": 44.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 812.6,
+      "pctAboveBreakout": 8.63,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 44.4"
+      ]
+    },
+    {
+      "ticker": "MTNL.NS",
+      "companyName": "Mahanagar Telephone Nigam Limited",
+      "currentPrice": 24.68000030517578,
+      "volumeToday": 2431564,
+      "avgVolume20d": 1554766,
+      "volumeRatio": 1.56,
+      "sector": "Unknown",
+      "marketCap": "₹15.5B",
+      "marketCapRaw": 15548400640,
+      "rsi14": 37.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 23.25,
+      "pctAboveBreakout": 6.15,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 37.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ESCORTS.NS",
+      "companyName": "Escorts Kubota Limited",
+      "currentPrice": 2967.39990234375,
+      "volumeToday": 226225,
+      "avgVolume20d": 145864,
+      "volumeRatio": 1.55,
+      "sector": "Unknown",
+      "marketCap": "₹326.5B",
+      "marketCapRaw": 326488162304,
+      "rsi14": 38.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2871.6,
+      "pctAboveBreakout": 3.34,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.6× avg",
+        "RSI(14): 38.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "VAIBHAVGBL.NS",
+      "companyName": "Vaibhav Global Limited",
+      "currentPrice": 195.72999572753906,
+      "volumeToday": 633416,
+      "avgVolume20d": 409701,
+      "volumeRatio": 1.55,
+      "sector": "Unknown",
+      "marketCap": "₹32.7B",
+      "marketCapRaw": 32687017984,
+      "rsi14": 35.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 193.18,
+      "pctAboveBreakout": 1.32,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.5× avg",
+        "RSI(14): 35.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "AMBUJACEM.NS",
+      "companyName": "Ambuja Cements Limited",
+      "currentPrice": 421.79998779296875,
+      "volumeToday": 4840265,
+      "avgVolume20d": 3173184,
+      "volumeRatio": 1.53,
+      "sector": "Unknown",
+      "marketCap": "₹1.0T",
+      "marketCapRaw": 1042615042048,
+      "rsi14": 35.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 395.35,
+      "pctAboveBreakout": 6.69,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.5× avg",
+        "RSI(14): 35.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "companyName": "Devyani International Limited",
+      "currentPrice": 102,
+      "volumeToday": 4222338,
+      "avgVolume20d": 2773990,
+      "volumeRatio": 1.52,
+      "sector": "Unknown",
+      "marketCap": "₹125.8B",
+      "marketCapRaw": 125759856640,
+      "rsi14": 29.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 101.16,
+      "pctAboveBreakout": 0.83,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.5× avg",
+        "RSI(14): 29.1 — oversold"
+      ]
+    },
+    {
+      "ticker": "BLUEDART.NS",
+      "companyName": "Blue Dart Express Limited",
+      "currentPrice": 5056.5,
+      "volumeToday": 15683,
+      "avgVolume20d": 10468,
+      "volumeRatio": 1.5,
+      "sector": "Unknown",
+      "marketCap": "₹120.0B",
+      "marketCapRaw": 119980302336,
+      "rsi14": 37,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 4932.5,
+      "pctAboveBreakout": 2.51,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.5× avg",
+        "RSI(14): 37.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "PATANJALI.NS",
+      "companyName": "Patanjali Foods Limited",
+      "currentPrice": 485.1000061035156,
+      "volumeToday": 2614087,
+      "avgVolume20d": 1771440,
+      "volumeRatio": 1.48,
+      "sector": "Unknown",
+      "marketCap": "₹528.5B",
+      "marketCapRaw": 528495345664,
+      "rsi14": 43.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 463.3,
+      "pctAboveBreakout": 4.71,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.5× avg",
+        "RSI(14): 43.6"
+      ]
+    },
+    {
+      "ticker": "VGUARD.NS",
+      "companyName": "V-Guard Industries Limited",
+      "currentPrice": 327.75,
+      "volumeToday": 247946,
+      "avgVolume20d": 169610,
+      "volumeRatio": 1.46,
+      "sector": "Unknown",
+      "marketCap": "₹143.5B",
+      "marketCapRaw": 143464497152,
+      "rsi14": 55.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 300.35,
+      "pctAboveBreakout": 9.12,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.5× avg",
+        "RSI(14): 55.3"
+      ]
+    },
+    {
+      "ticker": "COLPAL.NS",
+      "companyName": "Colgate-Palmolive (India) Limited",
+      "currentPrice": 1920.4000244140625,
+      "volumeToday": 693486,
+      "avgVolume20d": 475730,
+      "volumeRatio": 1.46,
+      "sector": "Unknown",
+      "marketCap": "₹522.3B",
+      "marketCapRaw": 522321199104,
+      "rsi14": 36.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1849.2,
+      "pctAboveBreakout": 3.85,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.5× avg",
+        "RSI(14): 36.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "VBL.NS",
+      "companyName": "Varun Beverages Limited",
+      "currentPrice": 401.45001220703125,
+      "volumeToday": 9132087,
+      "avgVolume20d": 6254017,
+      "volumeRatio": 1.46,
+      "sector": "Unknown",
+      "marketCap": "₹1.4T",
+      "marketCapRaw": 1357741817856,
+      "rsi14": 38.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 382.2,
+      "pctAboveBreakout": 5.04,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.5× avg",
+        "RSI(14): 38.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "IRCON.NS",
+      "companyName": "Ircon International Limited",
+      "currentPrice": 123.81999969482422,
+      "volumeToday": 9952118,
+      "avgVolume20d": 6881043,
+      "volumeRatio": 1.45,
+      "sector": "Unknown",
+      "marketCap": "₹116.5B",
+      "marketCapRaw": 116454653952,
+      "rsi14": 38.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 115.24,
+      "pctAboveBreakout": 7.45,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 38.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GOKEX.NS",
+      "companyName": "Gokaldas Exports Limited",
+      "currentPrice": 621.1500244140625,
+      "volumeToday": 1103222,
+      "avgVolume20d": 769898,
+      "volumeRatio": 1.43,
+      "sector": "Unknown",
+      "marketCap": "₹45.5B",
+      "marketCapRaw": 45497520128,
+      "rsi14": 48.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 541.95,
+      "pctAboveBreakout": 9.83,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 48.1"
+      ]
+    },
+    {
+      "ticker": "IMAGICAA.NS",
+      "companyName": "Imagicaaworld Entertainment Limited",
+      "currentPrice": 38.7400016784668,
+      "volumeToday": 1242133,
+      "avgVolume20d": 866271,
+      "volumeRatio": 1.43,
+      "sector": "Unknown",
+      "marketCap": "₹21.9B",
+      "marketCapRaw": 21921472512,
+      "rsi14": 36.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 37.58,
+      "pctAboveBreakout": 3.09,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 36.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "PNCINFRA.NS",
+      "companyName": "PNC Infratech Limited",
+      "currentPrice": 178.19000244140625,
+      "volumeToday": 749371,
+      "avgVolume20d": 528943,
+      "volumeRatio": 1.42,
+      "sector": "Unknown",
+      "marketCap": "₹45.7B",
+      "marketCapRaw": 45712715776,
+      "rsi14": 32.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 173.62,
+      "pctAboveBreakout": 2.63,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 32.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "HAVELLS.NS",
+      "companyName": "Havells India Limited",
+      "currentPrice": 1268.4000244140625,
+      "volumeToday": 1256754,
+      "avgVolume20d": 893400,
+      "volumeRatio": 1.41,
+      "sector": "Unknown",
+      "marketCap": "₹795.7B",
+      "marketCapRaw": 795659337728,
+      "rsi14": 39.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1231,
+      "pctAboveBreakout": 3.04,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 39.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "companyName": "Piramal Pharma Limited",
+      "currentPrice": 141.07000732421875,
+      "volumeToday": 4257969,
+      "avgVolume20d": 3047350,
+      "volumeRatio": 1.4,
+      "sector": "Unknown",
+      "marketCap": "₹186.8B",
+      "marketCapRaw": 186785021952,
+      "rsi14": 41.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 133.27,
+      "pctAboveBreakout": 5.85,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 41.3"
+      ]
+    },
+    {
+      "ticker": "KAMATHOTEL.NS",
+      "companyName": "Kamat Hotels (India) Limited",
+      "currentPrice": 166.5800018310547,
+      "volumeToday": 102426,
+      "avgVolume20d": 73315,
+      "volumeRatio": 1.4,
+      "sector": "Unknown",
+      "marketCap": "₹4.9B",
+      "marketCapRaw": 4910790656,
+      "rsi14": 34.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 160.51,
+      "pctAboveBreakout": 3.78,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 34.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "LUXIND.NS",
+      "companyName": "Lux Industries Limited",
+      "currentPrice": 921.6500244140625,
+      "volumeToday": 82273,
+      "avgVolume20d": 58902,
+      "volumeRatio": 1.4,
+      "sector": "Unknown",
+      "marketCap": "₹27.7B",
+      "marketCapRaw": 27715565568,
+      "rsi14": 51,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 859.8,
+      "pctAboveBreakout": 7.19,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 51.0"
+      ]
+    },
+    {
+      "ticker": "SKFINDIA.NS",
+      "companyName": "SKF India Limited",
+      "currentPrice": 1523.199951171875,
+      "volumeToday": 71553,
+      "avgVolume20d": 51289,
+      "volumeRatio": 1.4,
+      "sector": "Unknown",
+      "marketCap": "₹75.3B",
+      "marketCapRaw": 75303903232,
+      "rsi14": 36.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1464.2,
+      "pctAboveBreakout": 4.03,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 36.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "LATENTVIEW.NS",
+      "companyName": "Latent View Analytics Limited",
+      "currentPrice": 271.1000061035156,
+      "volumeToday": 1124976,
+      "avgVolume20d": 808112,
+      "volumeRatio": 1.39,
+      "sector": "Unknown",
+      "marketCap": "₹56.1B",
+      "marketCapRaw": 56097361920,
+      "rsi14": 31.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 249.6,
+      "pctAboveBreakout": 8.61,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 31.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "IGL.NS",
+      "companyName": "Indraprastha Gas Limited",
+      "currentPrice": 149,
+      "volumeToday": 4439541,
+      "avgVolume20d": 3204334,
+      "volumeRatio": 1.39,
+      "sector": "Unknown",
+      "marketCap": "₹208.8B",
+      "marketCapRaw": 208793223168,
+      "rsi14": 34.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 147.98,
+      "pctAboveBreakout": 0.69,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 34.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "companyName": "Grasim Industries Limited",
+      "currentPrice": 2647.800048828125,
+      "volumeToday": 1656702,
+      "avgVolume20d": 1217755,
+      "volumeRatio": 1.36,
+      "sector": "Unknown",
+      "marketCap": "₹1.8T",
+      "marketCapRaw": 1795454009344,
+      "rsi14": 45.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2469.4,
+      "pctAboveBreakout": 7.22,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 45.3"
+      ]
+    },
+    {
+      "ticker": "SRF.NS",
+      "companyName": "SRF Limited",
+      "currentPrice": 2568.10009765625,
+      "volumeToday": 847204,
+      "avgVolume20d": 624856,
+      "volumeRatio": 1.36,
+      "sector": "Unknown",
+      "marketCap": "₹761.2B",
+      "marketCapRaw": 761248612352,
+      "rsi14": 48.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2391.5,
+      "pctAboveBreakout": 7.38,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 48.8"
+      ]
+    },
+    {
+      "ticker": "JUBLFOOD.NS",
+      "companyName": "Jubilant FoodWorks Limited",
+      "currentPrice": 462.3500061035156,
+      "volumeToday": 3256828,
+      "avgVolume20d": 2405718,
+      "volumeRatio": 1.35,
+      "sector": "Unknown",
+      "marketCap": "₹304.1B",
+      "marketCapRaw": 304078323712,
+      "rsi14": 40.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 438.05,
+      "pctAboveBreakout": 5.55,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.4× avg",
+        "RSI(14): 40.4"
+      ]
+    },
+    {
+      "ticker": "SPECIALITY.NS",
+      "companyName": "Speciality Restaurants Limited",
+      "currentPrice": 95.81999969482422,
+      "volumeToday": 61866,
+      "avgVolume20d": 45938,
+      "volumeRatio": 1.35,
+      "sector": "Unknown",
+      "marketCap": "₹4.6B",
+      "marketCapRaw": 4625226752,
+      "rsi14": 45.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 89.65,
+      "pctAboveBreakout": 6.88,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 45.1"
+      ]
+    },
+    {
+      "ticker": "AHLUCONT.NS",
+      "companyName": "Ahluwalia Contracts (India) Limited",
+      "currentPrice": 689.8499755859375,
+      "volumeToday": 156151,
+      "avgVolume20d": 117774,
+      "volumeRatio": 1.33,
+      "sector": "Unknown",
+      "marketCap": "₹46.2B",
+      "marketCapRaw": 46211366912,
+      "rsi14": 32.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 680.55,
+      "pctAboveBreakout": 1.37,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 32.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "HEIDELBERG.NS",
+      "companyName": "HeidelbergCement India Limited",
+      "currentPrice": 149.86000061035156,
+      "volumeToday": 135790,
+      "avgVolume20d": 102609,
+      "volumeRatio": 1.32,
+      "sector": "Unknown",
+      "marketCap": "₹34.0B",
+      "marketCapRaw": 34038761472,
+      "rsi14": 37,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 148.25,
+      "pctAboveBreakout": 1.09,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 37.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "RVNL.NS",
+      "companyName": "Rail Vikas Nigam Limited",
+      "currentPrice": 268.8500061035156,
+      "volumeToday": 9703720,
+      "avgVolume20d": 7370243,
+      "volumeRatio": 1.32,
+      "sector": "Unknown",
+      "marketCap": "₹560.7B",
+      "marketCapRaw": 560714547200,
+      "rsi14": 41.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 250.25,
+      "pctAboveBreakout": 7.43,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 41.4"
+      ]
+    },
+    {
+      "ticker": "LICHSGFIN.NS",
+      "companyName": "LIC Housing Finance Limited",
+      "currentPrice": 496.29998779296875,
+      "volumeToday": 2493657,
+      "avgVolume20d": 1902098,
+      "volumeRatio": 1.31,
+      "sector": "Unknown",
+      "marketCap": "₹273.0B",
+      "marketCapRaw": 272996253696,
+      "rsi14": 46.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 460.7,
+      "pctAboveBreakout": 7.73,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 46.8"
+      ]
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "companyName": "KFin Technologies Limited",
+      "currentPrice": 934.4500122070312,
+      "volumeToday": 965163,
+      "avgVolume20d": 735867,
+      "volumeRatio": 1.31,
+      "sector": "Unknown",
+      "marketCap": "₹161.2B",
+      "marketCapRaw": 161215102976,
+      "rsi14": 48.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 877.6,
+      "pctAboveBreakout": 6.48,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 48.7"
+      ]
+    },
+    {
+      "ticker": "SUPRAJIT.NS",
+      "companyName": "Suprajit Engineering Limited",
+      "currentPrice": 410.45001220703125,
+      "volumeToday": 106706,
+      "avgVolume20d": 81281,
+      "volumeRatio": 1.31,
+      "sector": "Unknown",
+      "marketCap": "₹56.3B",
+      "marketCapRaw": 56301899776,
+      "rsi14": 46.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 364.15,
+      "pctAboveBreakout": 9.9,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 46.3"
+      ]
+    },
+    {
+      "ticker": "BPCL.NS",
+      "companyName": "Bharat Petroleum Corporation Limited",
+      "currentPrice": 284.54998779296875,
+      "volumeToday": 18449016,
+      "avgVolume20d": 14202464,
+      "volumeRatio": 1.3,
+      "sector": "Unknown",
+      "marketCap": "₹1.2T",
+      "marketCapRaw": 1234521817088,
+      "rsi14": 27.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 271.3,
+      "pctAboveBreakout": 4.88,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 27.9 — oversold"
+      ]
+    },
+    {
+      "ticker": "TATACHEM.NS",
+      "companyName": "Tata Chemicals Limited",
+      "currentPrice": 625.2000122070312,
+      "volumeToday": 624057,
+      "avgVolume20d": 480367,
+      "volumeRatio": 1.3,
+      "sector": "Unknown",
+      "marketCap": "₹159.3B",
+      "marketCapRaw": 159273631744,
+      "rsi14": 28.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 608.1,
+      "pctAboveBreakout": 2.81,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 28.5 — oversold"
+      ]
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "companyName": "HCL Technologies Limited",
+      "currentPrice": 1381.300048828125,
+      "volumeToday": 4166965,
+      "avgVolume20d": 3233446,
+      "volumeRatio": 1.29,
+      "sector": "Unknown",
+      "marketCap": "₹3.7T",
+      "marketCapRaw": 3737317801984,
+      "rsi14": 46.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1311.8,
+      "pctAboveBreakout": 5.3,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 46.8"
+      ]
+    },
+    {
+      "ticker": "NSLNISP.NS",
+      "companyName": "NMDC Steel Limited",
+      "currentPrice": 35.2400016784668,
+      "volumeToday": 5472142,
+      "avgVolume20d": 4227857,
+      "volumeRatio": 1.29,
+      "sector": "Unknown",
+      "marketCap": "₹103.3B",
+      "marketCapRaw": 103297892352,
+      "rsi14": 36.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 33.04,
+      "pctAboveBreakout": 6.66,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 36.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GODREJCP.NS",
+      "companyName": "Godrej Consumer Products Limited",
+      "currentPrice": 1039.5999755859375,
+      "volumeToday": 1999537,
+      "avgVolume20d": 1554989,
+      "volumeRatio": 1.29,
+      "sector": "Unknown",
+      "marketCap": "₹1.1T",
+      "marketCapRaw": 1063765082112,
+      "rsi14": 37.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1002.4,
+      "pctAboveBreakout": 3.71,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 37.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "EMAMILTD.NS",
+      "companyName": "Emami Limited",
+      "currentPrice": 410.45001220703125,
+      "volumeToday": 838204,
+      "avgVolume20d": 652026,
+      "volumeRatio": 1.29,
+      "sector": "Unknown",
+      "marketCap": "₹179.2B",
+      "marketCapRaw": 179178373120,
+      "rsi14": 29.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 401.7,
+      "pctAboveBreakout": 2.18,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 29.9 — oversold"
+      ]
+    },
+    {
+      "ticker": "TRENT.NS",
+      "companyName": "Trent Limited",
+      "currentPrice": 3478.89990234375,
+      "volumeToday": 1086408,
+      "avgVolume20d": 845221,
+      "volumeRatio": 1.29,
+      "sector": "Unknown",
+      "marketCap": "₹1.2T",
+      "marketCapRaw": 1236705214464,
+      "rsi14": 38.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 3356.7,
+      "pctAboveBreakout": 3.64,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 38.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "companyName": "Adani Enterprises Limited",
+      "currentPrice": 1886.5999755859375,
+      "volumeToday": 2537548,
+      "avgVolume20d": 1989791,
+      "volumeRatio": 1.28,
+      "sector": "Unknown",
+      "marketCap": "₹2.6T",
+      "marketCapRaw": 2569423290368,
+      "rsi14": 36.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1817.9,
+      "pctAboveBreakout": 3.78,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 36.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "companyName": "Exide Industries Limited",
+      "currentPrice": 307.1499938964844,
+      "volumeToday": 1952702,
+      "avgVolume20d": 1521725,
+      "volumeRatio": 1.28,
+      "sector": "Unknown",
+      "marketCap": "₹261.1B",
+      "marketCapRaw": 261149573120,
+      "rsi14": 45.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 290.75,
+      "pctAboveBreakout": 5.64,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 45.2"
+      ]
+    },
+    {
+      "ticker": "VOLTAS.NS",
+      "companyName": "Voltas Limited",
+      "currentPrice": 1368.800048828125,
+      "volumeToday": 1350915,
+      "avgVolume20d": 1054450,
+      "volumeRatio": 1.28,
+      "sector": "Unknown",
+      "marketCap": "₹452.9B",
+      "marketCapRaw": 452915036160,
+      "rsi14": 44.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1203.6,
+      "pctAboveBreakout": 8.18,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 44.6"
+      ]
+    },
+    {
+      "ticker": "HATHWAY.NS",
+      "companyName": "Hathway Cable and Datacom Limited",
+      "currentPrice": 9.760000228881836,
+      "volumeToday": 3742185,
+      "avgVolume20d": 2922699,
+      "volumeRatio": 1.28,
+      "sector": "Unknown",
+      "marketCap": "₹17.3B",
+      "marketCapRaw": 17276219392,
+      "rsi14": 40.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 9.31,
+      "pctAboveBreakout": 4.83,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 40.1"
+      ]
+    },
+    {
+      "ticker": "HCC.NS",
+      "companyName": "Hindustan Construction Company Limited",
+      "currentPrice": 15.100000381469727,
+      "volumeToday": 28146328,
+      "avgVolume20d": 22033716,
+      "volumeRatio": 1.28,
+      "sector": "Unknown",
+      "marketCap": "₹39.6B",
+      "marketCapRaw": 39553970176,
+      "rsi14": 38.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 14.23,
+      "pctAboveBreakout": 6.11,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 38.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "LLOYDSME.NS",
+      "companyName": "Lloyds Metals and Energy Limited",
+      "currentPrice": 1307.699951171875,
+      "volumeToday": 985454,
+      "avgVolume20d": 776035,
+      "volumeRatio": 1.27,
+      "sector": "Unknown",
+      "marketCap": "₹735.8B",
+      "marketCapRaw": 735770902528,
+      "rsi14": 60.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1098.2,
+      "pctAboveBreakout": 7.94,
+      "breakoutDate": "2026-03-19",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 60.1"
+      ]
+    },
+    {
+      "ticker": "NIITLTD.NS",
+      "companyName": "NIIT Limited",
+      "currentPrice": 56.880001068115234,
+      "volumeToday": 927829,
+      "avgVolume20d": 728656,
+      "volumeRatio": 1.27,
+      "sector": "Unknown",
+      "marketCap": "₹7.8B",
+      "marketCapRaw": 7757508608,
+      "rsi14": 32.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 54.36,
+      "pctAboveBreakout": 4.64,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 32.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ALLCARGO.NS",
+      "companyName": "Allcargo Logistics Limited",
+      "currentPrice": 7.690000057220459,
+      "volumeToday": 7993348,
+      "avgVolume20d": 6311289,
+      "volumeRatio": 1.27,
+      "sector": "Unknown",
+      "marketCap": "₹11.5B",
+      "marketCapRaw": 11528980480,
+      "rsi14": 38.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 7.47,
+      "pctAboveBreakout": 2.95,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 38.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "PIDILITIND.NS",
+      "companyName": "Pidilite Industries Limited",
+      "currentPrice": 1362.800048828125,
+      "volumeToday": 885940,
+      "avgVolume20d": 705532,
+      "volumeRatio": 1.26,
+      "sector": "Unknown",
+      "marketCap": "₹1.4T",
+      "marketCapRaw": 1387011899392,
+      "rsi14": 44.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1308.9,
+      "pctAboveBreakout": 4.12,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 44.2"
+      ]
+    },
+    {
+      "ticker": "63MOONS.NS",
+      "companyName": "63 moons technologies limited",
+      "currentPrice": 505.1499938964844,
+      "volumeToday": 277954,
+      "avgVolume20d": 220187,
+      "volumeRatio": 1.26,
+      "sector": "Unknown",
+      "marketCap": "₹23.3B",
+      "marketCapRaw": 23277963264,
+      "rsi14": 35.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 484.3,
+      "pctAboveBreakout": 4.31,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.3× avg",
+        "RSI(14): 35.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "UTIAMC.NS",
+      "companyName": "UTI Asset Management Company Limited",
+      "currentPrice": 963.7999877929688,
+      "volumeToday": 106006,
+      "avgVolume20d": 85080,
+      "volumeRatio": 1.25,
+      "sector": "Unknown",
+      "marketCap": "₹124.1B",
+      "marketCapRaw": 124089491456,
+      "rsi14": 45.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 906.65,
+      "pctAboveBreakout": 6.3,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 45.9"
+      ]
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "companyName": "Bajaj Finserv Ltd.",
+      "currentPrice": 1746.199951171875,
+      "volumeToday": 1865254,
+      "avgVolume20d": 1511779,
+      "volumeRatio": 1.23,
+      "sector": "Unknown",
+      "marketCap": "₹2.8T",
+      "marketCapRaw": 2789549539328,
+      "rsi14": 37.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1675.5,
+      "pctAboveBreakout": 4.22,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 37.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "companyName": "Coforge Limited",
+      "currentPrice": 1163.0999755859375,
+      "volumeToday": 4459275,
+      "avgVolume20d": 3621744,
+      "volumeRatio": 1.23,
+      "sector": "Unknown",
+      "marketCap": "₹390.7B",
+      "marketCapRaw": 390695452672,
+      "rsi14": 42.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1073.9,
+      "pctAboveBreakout": 8.31,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 42.4"
+      ]
+    },
+    {
+      "ticker": "GICRE.NS",
+      "companyName": "General Insurance Corporation of India",
+      "currentPrice": 367.29998779296875,
+      "volumeToday": 375195,
+      "avgVolume20d": 307443,
+      "volumeRatio": 1.22,
+      "sector": "Unknown",
+      "marketCap": "₹644.4B",
+      "marketCapRaw": 644391108608,
+      "rsi14": 48.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 357.3,
+      "pctAboveBreakout": 2.8,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 48.2"
+      ]
+    },
+    {
+      "ticker": "CDSL.NS",
+      "companyName": "Central Depository Services (India) Limited",
+      "currentPrice": 1212.800048828125,
+      "volumeToday": 2458918,
+      "avgVolume20d": 2017443,
+      "volumeRatio": 1.22,
+      "sector": "Unknown",
+      "marketCap": "₹253.5B",
+      "marketCapRaw": 253475209216,
+      "rsi14": 45.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1133.8,
+      "pctAboveBreakout": 6.97,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 45.7"
+      ]
+    },
+    {
+      "ticker": "LXCHEM.NS",
+      "companyName": "Laxmi Organic Industries Limited",
+      "currentPrice": 118.44999694824219,
+      "volumeToday": 1212475,
+      "avgVolume20d": 992920,
+      "volumeRatio": 1.22,
+      "sector": "Unknown",
+      "marketCap": "₹32.8B",
+      "marketCapRaw": 32828164096,
+      "rsi14": 43.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 112.9,
+      "pctAboveBreakout": 4.92,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 43.1"
+      ]
+    },
+    {
+      "ticker": "DABUR.NS",
+      "companyName": "Dabur India Limited",
+      "currentPrice": 431,
+      "volumeToday": 2328748,
+      "avgVolume20d": 1909271,
+      "volumeRatio": 1.22,
+      "sector": "Unknown",
+      "marketCap": "₹764.5B",
+      "marketCapRaw": 764460466176,
+      "rsi14": 31.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 417.35,
+      "pctAboveBreakout": 3.27,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 31.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "MARKSANS.NS",
+      "companyName": "Marksans Pharma Limited",
+      "currentPrice": 165.1999969482422,
+      "volumeToday": 813758,
+      "avgVolume20d": 665391,
+      "volumeRatio": 1.22,
+      "sector": "Unknown",
+      "marketCap": "₹74.9B",
+      "marketCapRaw": 74862649344,
+      "rsi14": 44.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 160.2,
+      "pctAboveBreakout": 3.12,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 44.8"
+      ]
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "companyName": "Bharti Airtel Limited",
+      "currentPrice": 1834.9000244140625,
+      "volumeToday": 12473096,
+      "avgVolume20d": 10416499,
+      "volumeRatio": 1.2,
+      "sector": "Unknown",
+      "marketCap": "₹11.2T",
+      "marketCapRaw": 11177242394624,
+      "rsi14": 43,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1686.65,
+      "pctAboveBreakout": 8.79,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 43.0"
+      ]
+    },
+    {
+      "ticker": "SUNTECK.NS",
+      "companyName": "Sunteck Realty Limited",
+      "currentPrice": 303.45001220703125,
+      "volumeToday": 234327,
+      "avgVolume20d": 196576,
+      "volumeRatio": 1.19,
+      "sector": "Unknown",
+      "marketCap": "₹44.6B",
+      "marketCapRaw": 44559216640,
+      "rsi14": 32.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 287.7,
+      "pctAboveBreakout": 5.47,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 32.1 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "companyName": "Sonata Software Limited",
+      "currentPrice": 227.75,
+      "volumeToday": 1169416,
+      "avgVolume20d": 991719,
+      "volumeRatio": 1.18,
+      "sector": "Unknown",
+      "marketCap": "₹63.2B",
+      "marketCapRaw": 63196856320,
+      "rsi14": 30.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 225,
+      "pctAboveBreakout": 1.22,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 30.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "CHOLAFIN.NS",
+      "companyName": "Cholamandalam Investment and Finance Company Limited",
+      "currentPrice": 1473.800048828125,
+      "volumeToday": 2569686,
+      "avgVolume20d": 2180190,
+      "volumeRatio": 1.18,
+      "sector": "Unknown",
+      "marketCap": "₹1.3T",
+      "marketCapRaw": 1255732412416,
+      "rsi14": 38.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1380.9,
+      "pctAboveBreakout": 6.73,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 38.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "companyName": "UltraTech Cement Limited",
+      "currentPrice": 11204,
+      "volumeToday": 456429,
+      "avgVolume20d": 391636,
+      "volumeRatio": 1.17,
+      "sector": "Unknown",
+      "marketCap": "₹3.3T",
+      "marketCapRaw": 3295924191232,
+      "rsi14": 44.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 10362,
+      "pctAboveBreakout": 8.13,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 44.3"
+      ]
+    },
+    {
+      "ticker": "RITES.NS",
+      "companyName": "RITES Limited",
+      "currentPrice": 191.30999755859375,
+      "volumeToday": 712787,
+      "avgVolume20d": 612513,
+      "volumeRatio": 1.16,
+      "sector": "Unknown",
+      "marketCap": "₹91.9B",
+      "marketCapRaw": 91944304640,
+      "rsi14": 38.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 183.98,
+      "pctAboveBreakout": 3.98,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 38.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ANANTRAJ.NS",
+      "companyName": "Anant Raj Limited",
+      "currentPrice": 455.75,
+      "volumeToday": 2133828,
+      "avgVolume20d": 1832305,
+      "volumeRatio": 1.16,
+      "sector": "Unknown",
+      "marketCap": "₹164.1B",
+      "marketCapRaw": 164103815168,
+      "rsi14": 40.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 415.4,
+      "pctAboveBreakout": 9.71,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 40.4"
+      ]
+    },
+    {
+      "ticker": "GIPCL.NS",
+      "companyName": "Gujarat Industries Power Company Limited",
+      "currentPrice": 132.0500030517578,
+      "volumeToday": 413826,
+      "avgVolume20d": 355473,
+      "volumeRatio": 1.16,
+      "sector": "Unknown",
+      "marketCap": "₹20.5B",
+      "marketCapRaw": 20501499904,
+      "rsi14": 45.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 126.78,
+      "pctAboveBreakout": 4.16,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 45.8"
+      ]
+    },
+    {
+      "ticker": "DONEAR.NS",
+      "companyName": "Donear Industries Limited",
+      "currentPrice": 83.69999694824219,
+      "volumeToday": 49031,
+      "avgVolume20d": 42115,
+      "volumeRatio": 1.16,
+      "sector": "Unknown",
+      "marketCap": "₹4.4B",
+      "marketCapRaw": 4352399872,
+      "rsi14": 41.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 78.72,
+      "pctAboveBreakout": 6.33,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.2× avg",
+        "RSI(14): 41.5"
+      ]
+    },
+    {
+      "ticker": "DLF.NS",
+      "companyName": "DLF Limited",
+      "currentPrice": 534.3499755859375,
+      "volumeToday": 5992672,
+      "avgVolume20d": 5216346,
+      "volumeRatio": 1.15,
+      "sector": "Unknown",
+      "marketCap": "₹1.3T",
+      "marketCapRaw": 1323163844608,
+      "rsi14": 37.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 514.75,
+      "pctAboveBreakout": 3.81,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 37.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "SUDARSCHEM.NS",
+      "companyName": "Sudarshan Chemical Industries Limited",
+      "currentPrice": 788.2999877929688,
+      "volumeToday": 138338,
+      "avgVolume20d": 121187,
+      "volumeRatio": 1.14,
+      "sector": "Unknown",
+      "marketCap": "₹62.0B",
+      "marketCapRaw": 61969788928,
+      "rsi14": 41.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 759.8,
+      "pctAboveBreakout": 3.75,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 41.6"
+      ]
+    },
+    {
+      "ticker": "ALEMBICLTD.NS",
+      "companyName": "Alembic Limited",
+      "currentPrice": 79.2699966430664,
+      "volumeToday": 342193,
+      "avgVolume20d": 300508,
+      "volumeRatio": 1.14,
+      "sector": "Unknown",
+      "marketCap": "₹20.4B",
+      "marketCapRaw": 20355094528,
+      "rsi14": 37.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 75.33,
+      "pctAboveBreakout": 5.23,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 37.1 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "EIDPARRY.NS",
+      "companyName": "E.I.D.- Parry (India) Limited",
+      "currentPrice": 808.2999877929688,
+      "volumeToday": 269874,
+      "avgVolume20d": 237619,
+      "volumeRatio": 1.14,
+      "sector": "Unknown",
+      "marketCap": "₹143.9B",
+      "marketCapRaw": 143871787008,
+      "rsi14": 43.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 738,
+      "pctAboveBreakout": 9.53,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 43.9"
+      ]
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "companyName": "HDFC Bank Limited",
+      "currentPrice": 782.2999877929688,
+      "volumeToday": 59223959,
+      "avgVolume20d": 52416504,
+      "volumeRatio": 1.13,
+      "sector": "Unknown",
+      "marketCap": "₹12.0T",
+      "marketCapRaw": 12042177085440,
+      "rsi14": 33.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 744.15,
+      "pctAboveBreakout": 5.13,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 33.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "companyName": "Tata Consumer Products Limited",
+      "currentPrice": 1056.0999755859375,
+      "volumeToday": 1566072,
+      "avgVolume20d": 1381167,
+      "volumeRatio": 1.13,
+      "sector": "Unknown",
+      "marketCap": "₹1.0T",
+      "marketCapRaw": 1045220818944,
+      "rsi14": 39.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 959.65,
+      "pctAboveBreakout": 9.74,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 39.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "QUICKHEAL.NS",
+      "companyName": "Quick Heal Technologies Limited",
+      "currentPrice": 141.60000610351562,
+      "volumeToday": 217138,
+      "avgVolume20d": 192049,
+      "volumeRatio": 1.13,
+      "sector": "Unknown",
+      "marketCap": "₹7.7B",
+      "marketCapRaw": 7679405568,
+      "rsi14": 35.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 135.97,
+      "pctAboveBreakout": 4.14,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 35.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GREAVESCOT.NS",
+      "companyName": "Greaves Cotton Limited",
+      "currentPrice": 135.27000427246094,
+      "volumeToday": 1453531,
+      "avgVolume20d": 1297764,
+      "volumeRatio": 1.12,
+      "sector": "Unknown",
+      "marketCap": "₹31.5B",
+      "marketCapRaw": 31521599488,
+      "rsi14": 38.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 128.01,
+      "pctAboveBreakout": 5.67,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 38.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "NETWORK18.NS",
+      "companyName": "Network18 Media & Investments Limited",
+      "currentPrice": 30.510000228881836,
+      "volumeToday": 5002485,
+      "avgVolume20d": 4484441,
+      "volumeRatio": 1.12,
+      "sector": "Unknown",
+      "marketCap": "₹47.1B",
+      "marketCapRaw": 47122321408,
+      "rsi14": 38.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 29.21,
+      "pctAboveBreakout": 4.45,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 38.1 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GNFC.NS",
+      "companyName": "Gujarat Narmada Valley Fertilizers & Chemicals Limited",
+      "currentPrice": 398.70001220703125,
+      "volumeToday": 319622,
+      "avgVolume20d": 285126,
+      "volumeRatio": 1.12,
+      "sector": "Unknown",
+      "marketCap": "₹58.6B",
+      "marketCapRaw": 58585255936,
+      "rsi14": 36.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 383.45,
+      "pctAboveBreakout": 3.98,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 36.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "VSTIND.NS",
+      "companyName": "VST Industries Limited",
+      "currentPrice": 216.80999755859375,
+      "volumeToday": 239743,
+      "avgVolume20d": 213172,
+      "volumeRatio": 1.12,
+      "sector": "Unknown",
+      "marketCap": "₹36.8B",
+      "marketCapRaw": 36758761472,
+      "rsi14": 41.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 211.82,
+      "pctAboveBreakout": 2.36,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 41.4"
+      ]
+    },
+    {
+      "ticker": "ITC.NS",
+      "companyName": "ITC Limited",
+      "currentPrice": 295.70001220703125,
+      "volumeToday": 26173874,
+      "avgVolume20d": 23508212,
+      "volumeRatio": 1.11,
+      "sector": "Unknown",
+      "marketCap": "₹3.7T",
+      "marketCapRaw": 3704963989504,
+      "rsi14": 36,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 290.45,
+      "pctAboveBreakout": 1.81,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 36.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "MANKIND.NS",
+      "companyName": "Mankind Pharma Limited",
+      "currentPrice": 2024,
+      "volumeToday": 835416,
+      "avgVolume20d": 750117,
+      "volumeRatio": 1.11,
+      "sector": "Unknown",
+      "marketCap": "₹835.6B",
+      "marketCapRaw": 835564535808,
+      "rsi14": 43.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1927.4,
+      "pctAboveBreakout": 5.01,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 43.2"
+      ]
+    },
+    {
+      "ticker": "HINDPETRO.NS",
+      "companyName": "Hindustan Petroleum Corporation Limited",
+      "currentPrice": 344,
+      "volumeToday": 13128235,
+      "avgVolume20d": 11820970,
+      "volumeRatio": 1.11,
+      "sector": "Unknown",
+      "marketCap": "₹732.0B",
+      "marketCapRaw": 731970928640,
+      "rsi14": 35.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 319.15,
+      "pctAboveBreakout": 7.79,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 35.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "BALAMINES.NS",
+      "companyName": "Balaji Amines Limited",
+      "currentPrice": 1059.5,
+      "volumeToday": 114723,
+      "avgVolume20d": 104652,
+      "volumeRatio": 1.1,
+      "sector": "Unknown",
+      "marketCap": "₹34.3B",
+      "marketCapRaw": 34328858624,
+      "rsi14": 50.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1000.4,
+      "pctAboveBreakout": 5.91,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 50.1"
+      ]
+    },
+    {
+      "ticker": "TANLA.NS",
+      "companyName": "Tanla Platforms Limited",
+      "currentPrice": 411.3999938964844,
+      "volumeToday": 495693,
+      "avgVolume20d": 455444,
+      "volumeRatio": 1.09,
+      "sector": "Unknown",
+      "marketCap": "₹54.4B",
+      "marketCapRaw": 54376214528,
+      "rsi14": 40.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 400,
+      "pctAboveBreakout": 2.85,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 40.4"
+      ]
+    },
+    {
+      "ticker": "HERANBA.NS",
+      "companyName": "Heranba Industries Limited",
+      "currentPrice": 178.00999450683594,
+      "volumeToday": 85289,
+      "avgVolume20d": 78419,
+      "volumeRatio": 1.09,
+      "sector": "Unknown",
+      "marketCap": "₹7.1B",
+      "marketCapRaw": 7122797056,
+      "rsi14": 40,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 169.9,
+      "pctAboveBreakout": 4.77,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 40.0"
+      ]
+    },
+    {
+      "ticker": "SPANDANA.NS",
+      "companyName": "Spandana Sphoorty Financial Limited",
+      "currentPrice": 206.85000610351562,
+      "volumeToday": 232732,
+      "avgVolume20d": 215626,
+      "volumeRatio": 1.08,
+      "sector": "Unknown",
+      "marketCap": "₹18.3B",
+      "marketCapRaw": 18348697600,
+      "rsi14": 36.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 196.95,
+      "pctAboveBreakout": 5.03,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 36.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ASHOKA.NS",
+      "companyName": "Ashoka Buildcon Limited",
+      "currentPrice": 114.9000015258789,
+      "volumeToday": 1701299,
+      "avgVolume20d": 1579732,
+      "volumeRatio": 1.08,
+      "sector": "Unknown",
+      "marketCap": "₹32.3B",
+      "marketCapRaw": 32272328704,
+      "rsi14": 38.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 106.3,
+      "pctAboveBreakout": 8.09,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 38.1 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "companyName": "Hindustan Unilever Limited",
+      "currentPrice": 2134.800048828125,
+      "volumeToday": 2069050,
+      "avgVolume20d": 1953019,
+      "volumeRatio": 1.06,
+      "sector": "Unknown",
+      "marketCap": "₹5.0T",
+      "marketCapRaw": 5016636096512,
+      "rsi14": 40.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2052.2,
+      "pctAboveBreakout": 4.02,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 40.1"
+      ]
+    },
+    {
+      "ticker": "NBCC.NS",
+      "companyName": "NBCC (India) Limited",
+      "currentPrice": 84.5199966430664,
+      "volumeToday": 12574563,
+      "avgVolume20d": 11889372,
+      "volumeRatio": 1.06,
+      "sector": "Unknown",
+      "marketCap": "₹228.2B",
+      "marketCapRaw": 228203986944,
+      "rsi14": 43.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 79.09,
+      "pctAboveBreakout": 6.87,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 43.2"
+      ]
+    },
+    {
+      "ticker": "RAILTEL.NS",
+      "companyName": "RailTel Corporation of India Limited",
+      "currentPrice": 268.79998779296875,
+      "volumeToday": 1276053,
+      "avgVolume20d": 1201790,
+      "volumeRatio": 1.06,
+      "sector": "Unknown",
+      "marketCap": "₹86.3B",
+      "marketCapRaw": 86268239872,
+      "rsi14": 39,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 253.3,
+      "pctAboveBreakout": 6.12,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 39.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GREENPLY.NS",
+      "companyName": "Greenply Industries Limited",
+      "currentPrice": 195.67999267578125,
+      "volumeToday": 248441,
+      "avgVolume20d": 237210,
+      "volumeRatio": 1.05,
+      "sector": "Unknown",
+      "marketCap": "₹24.4B",
+      "marketCapRaw": 24445534208,
+      "rsi14": 43.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 181.14,
+      "pctAboveBreakout": 8.03,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 43.2"
+      ]
+    },
+    {
+      "ticker": "NAUKRI.NS",
+      "companyName": "Info Edge (India) Limited",
+      "currentPrice": 998,
+      "volumeToday": 1878356,
+      "avgVolume20d": 1784197,
+      "volumeRatio": 1.05,
+      "sector": "Unknown",
+      "marketCap": "₹646.2B",
+      "marketCapRaw": 646205341696,
+      "rsi14": 42.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 949.6,
+      "pctAboveBreakout": 5.1,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.1× avg",
+        "RSI(14): 42.4"
+      ]
+    },
+    {
+      "ticker": "LT.NS",
+      "companyName": "Larsen & Toubro Limited",
+      "currentPrice": 3649.300048828125,
+      "volumeToday": 5089764,
+      "avgVolume20d": 4875544,
+      "volumeRatio": 1.04,
+      "sector": "Unknown",
+      "marketCap": "₹5.0T",
+      "marketCapRaw": 5020094300160,
+      "rsi14": 44.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 3054.15,
+      "pctAboveBreakout": 9.44,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 44.7"
+      ]
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "companyName": "Asian Paints Limited",
+      "currentPrice": 2270.199951171875,
+      "volumeToday": 1270623,
+      "avgVolume20d": 1225473,
+      "volumeRatio": 1.04,
+      "sector": "Unknown",
+      "marketCap": "₹2.2T",
+      "marketCapRaw": 2176200736768,
+      "rsi14": 47.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2121.3,
+      "pctAboveBreakout": 7.02,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 47.3"
+      ]
+    },
+    {
+      "ticker": "BRIGADE.NS",
+      "companyName": "Brigade Enterprises Limited",
+      "currentPrice": 670.8499755859375,
+      "volumeToday": 338986,
+      "avgVolume20d": 324617,
+      "volumeRatio": 1.04,
+      "sector": "Unknown",
+      "marketCap": "₹164.1B",
+      "marketCapRaw": 164085530624,
+      "rsi14": 45,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 634.7,
+      "pctAboveBreakout": 5.7,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 45.0"
+      ]
+    },
+    {
+      "ticker": "TNPL.NS",
+      "companyName": "Tamil Nadu Newsprint and Papers Limited",
+      "currentPrice": 130.10000610351562,
+      "volumeToday": 117245,
+      "avgVolume20d": 112468,
+      "volumeRatio": 1.04,
+      "sector": "Unknown",
+      "marketCap": "₹9.0B",
+      "marketCapRaw": 9004299264,
+      "rsi14": 40.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 120.69,
+      "pctAboveBreakout": 7.8,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 40.3"
+      ]
+    },
+    {
+      "ticker": "CROMPTON.NS",
+      "companyName": "Crompton Greaves Consumer Electricals Limited",
+      "currentPrice": 242.5500030517578,
+      "volumeToday": 1968265,
+      "avgVolume20d": 1905175,
+      "volumeRatio": 1.03,
+      "sector": "Unknown",
+      "marketCap": "₹158.5B",
+      "marketCapRaw": 158530158592,
+      "rsi14": 44.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 221.45,
+      "pctAboveBreakout": 9.53,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 44.5"
+      ]
+    },
+    {
+      "ticker": "NCC.NS",
+      "companyName": "NCC Limited",
+      "currentPrice": 140.19000244140625,
+      "volumeToday": 3316648,
+      "avgVolume20d": 3212912,
+      "volumeRatio": 1.03,
+      "sector": "Unknown",
+      "marketCap": "₹88.0B",
+      "marketCapRaw": 88017813504,
+      "rsi14": 44.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 132.29,
+      "pctAboveBreakout": 5.97,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 44.3"
+      ]
+    },
+    {
+      "ticker": "TRIDENT.NS",
+      "companyName": "Trident Limited",
+      "currentPrice": 24.719999313354492,
+      "volumeToday": 17016468,
+      "avgVolume20d": 16527313,
+      "volumeRatio": 1.03,
+      "sector": "Unknown",
+      "marketCap": "₹126.1B",
+      "marketCapRaw": 126099177472,
+      "rsi14": 50.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 22.06,
+      "pctAboveBreakout": 9.93,
+      "breakoutDate": "2026-03-20",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 50.8"
+      ]
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "companyName": "Angel One Limited",
+      "currentPrice": 241.6699981689453,
+      "volumeToday": 8877321,
+      "avgVolume20d": 8723519,
+      "volumeRatio": 1.02,
+      "sector": "Unknown",
+      "marketCap": "₹219.7B",
+      "marketCapRaw": 219691368448,
+      "rsi14": 54.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 212.49,
+      "pctAboveBreakout": 8.45,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 54.9"
+      ]
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "companyName": "Suzlon Energy Limited",
+      "currentPrice": 42.27000045776367,
+      "volumeToday": 76026860,
+      "avgVolume20d": 74640899,
+      "volumeRatio": 1.02,
+      "sector": "Unknown",
+      "marketCap": "₹579.7B",
+      "marketCapRaw": 579725819904,
+      "rsi14": 48.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 39.62,
+      "pctAboveBreakout": 6.69,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 48.3"
+      ]
+    },
+    {
+      "ticker": "AAVAS.NS",
+      "companyName": "Aavas Financiers Limited",
+      "currentPrice": 1135.5,
+      "volumeToday": 272638,
+      "avgVolume20d": 270235,
+      "volumeRatio": 1.01,
+      "sector": "Unknown",
+      "marketCap": "₹90.1B",
+      "marketCapRaw": 90061922304,
+      "rsi14": 37.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1073.9,
+      "pctAboveBreakout": 5.74,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 37.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "GAIL.NS",
+      "companyName": "GAIL (India) Limited",
+      "currentPrice": 139.1999969482422,
+      "volumeToday": 17025068,
+      "avgVolume20d": 16773630,
+      "volumeRatio": 1.01,
+      "sector": "Unknown",
+      "marketCap": "₹915.3B",
+      "marketCapRaw": 915251003392,
+      "rsi14": 33.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 135.4,
+      "pctAboveBreakout": 2.81,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 33.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "KPRMILL.NS",
+      "companyName": "K.P.R. Mill Limited",
+      "currentPrice": 855.4000244140625,
+      "volumeToday": 685488,
+      "avgVolume20d": 677645,
+      "volumeRatio": 1.01,
+      "sector": "Unknown",
+      "marketCap": "₹293.0B",
+      "marketCapRaw": 292993794048,
+      "rsi14": 48.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 810.9,
+      "pctAboveBreakout": 5.49,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 48.8"
+      ]
+    },
+    {
+      "ticker": "THOMASCOOK.NS",
+      "companyName": "Thomas Cook (India) Limited",
+      "currentPrice": 95.87999725341797,
+      "volumeToday": 1560380,
+      "avgVolume20d": 1544214,
+      "volumeRatio": 1.01,
+      "sector": "Unknown",
+      "marketCap": "₹44.7B",
+      "marketCapRaw": 44666077184,
+      "rsi14": 44.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 87.99,
+      "pctAboveBreakout": 8.97,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 44.2"
+      ]
+    },
+    {
+      "ticker": "PIIND.NS",
+      "companyName": "PI Industries Limited",
+      "currentPrice": 2905.39990234375,
+      "volumeToday": 224135,
+      "avgVolume20d": 224096,
+      "volumeRatio": 1,
+      "sector": "Unknown",
+      "marketCap": "₹440.8B",
+      "marketCapRaw": 440758566912,
+      "rsi14": 43.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2759,
+      "pctAboveBreakout": 5.31,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 43.6"
+      ]
+    },
+    {
+      "ticker": "INDHOTEL.NS",
+      "companyName": "The Indian Hotels Company Limited",
+      "currentPrice": 617.2999877929688,
+      "volumeToday": 2886809,
+      "avgVolume20d": 2891720,
+      "volumeRatio": 1,
+      "sector": "Unknown",
+      "marketCap": "₹878.7B",
+      "marketCapRaw": 878684667904,
+      "rsi14": 43.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 582.45,
+      "pctAboveBreakout": 5.98,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 43.9"
+      ]
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "companyName": "Welspun Corp Limited",
+      "currentPrice": 835.5499877929688,
+      "volumeToday": 516431,
+      "avgVolume20d": 514538,
+      "volumeRatio": 1,
+      "sector": "Unknown",
+      "marketCap": "₹220.3B",
+      "marketCapRaw": 220337815552,
+      "rsi14": 55.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 721.85,
+      "pctAboveBreakout": 6.8,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 55.9"
+      ]
+    },
+    {
+      "ticker": "ELECON.NS",
+      "companyName": "Elecon Engineering Company Limited",
+      "currentPrice": 387.25,
+      "volumeToday": 459357,
+      "avgVolume20d": 457739,
+      "volumeRatio": 1,
+      "sector": "Unknown",
+      "marketCap": "₹86.9B",
+      "marketCapRaw": 86898876416,
+      "rsi14": 43.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 368.45,
+      "pctAboveBreakout": 5.1,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 43.3"
+      ]
+    },
+    {
+      "ticker": "RENUKA.NS",
+      "companyName": "Shree Renuka Sugars Limited",
+      "currentPrice": 25.110000610351562,
+      "volumeToday": 8313502,
+      "avgVolume20d": 8328304,
+      "volumeRatio": 1,
+      "sector": "Unknown",
+      "marketCap": "₹53.5B",
+      "marketCapRaw": 53528195072,
+      "rsi14": 55.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 23.05,
+      "pctAboveBreakout": 8.94,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 55.5"
+      ]
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "companyName": "Cipla Limited",
+      "currentPrice": 1244.4000244140625,
+      "volumeToday": 1466600,
+      "avgVolume20d": 1485498,
+      "volumeRatio": 0.99,
+      "sector": "Unknown",
+      "marketCap": "₹1.0T",
+      "marketCapRaw": 1005204733952,
+      "rsi14": 35.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1219.4,
+      "pctAboveBreakout": 2.05,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 35.1 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "SAPPHIRE.NS",
+      "companyName": "Sapphire Foods India Limited",
+      "currentPrice": 159.9600067138672,
+      "volumeToday": 875752,
+      "avgVolume20d": 883400,
+      "volumeRatio": 0.99,
+      "sector": "Unknown",
+      "marketCap": "₹51.5B",
+      "marketCapRaw": 51468410880,
+      "rsi14": 32.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 154.48,
+      "pctAboveBreakout": 3.55,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 32.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "companyName": "Persistent Systems Limited",
+      "currentPrice": 4928.7998046875,
+      "volumeToday": 782960,
+      "avgVolume20d": 797006,
+      "volumeRatio": 0.98,
+      "sector": "Unknown",
+      "marketCap": "₹770.7B",
+      "marketCapRaw": 770696347648,
+      "rsi14": 49,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 4402.75,
+      "pctAboveBreakout": 7.31,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 49.0"
+      ]
+    },
+    {
+      "ticker": "JSWENERGY.NS",
+      "companyName": "JSW Energy Limited",
+      "currentPrice": 494.29998779296875,
+      "volumeToday": 3448486,
+      "avgVolume20d": 3511349,
+      "volumeRatio": 0.98,
+      "sector": "Unknown",
+      "marketCap": "₹868.1B",
+      "marketCapRaw": 868053352448,
+      "rsi14": 51,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 440.05,
+      "pctAboveBreakout": 9.99,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 51.0"
+      ]
+    },
+    {
+      "ticker": "BECTORFOOD.NS",
+      "companyName": "Mrs. Bectors Food Specialities Limited",
+      "currentPrice": 184.30999755859375,
+      "volumeToday": 566959,
+      "avgVolume20d": 584144,
+      "volumeRatio": 0.97,
+      "sector": "Unknown",
+      "marketCap": "₹56.5B",
+      "marketCapRaw": 56534712320,
+      "rsi14": 39,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 176.02,
+      "pctAboveBreakout": 4.71,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 39.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "KITEX.NS",
+      "companyName": "Kitex Garments Limited",
+      "currentPrice": 159.60000610351562,
+      "volumeToday": 818828,
+      "avgVolume20d": 856109,
+      "volumeRatio": 0.96,
+      "sector": "Unknown",
+      "marketCap": "₹31.9B",
+      "marketCapRaw": 31859482624,
+      "rsi14": 42.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 140.94,
+      "pctAboveBreakout": 6.58,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 1.0× avg",
+        "RSI(14): 42.6"
+      ]
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "companyName": "ICICI Bank Limited",
+      "currentPrice": 1259.699951171875,
+      "volumeToday": 17289356,
+      "avgVolume20d": 18264684,
+      "volumeRatio": 0.95,
+      "sector": "Unknown",
+      "marketCap": "₹9.0T",
+      "marketCapRaw": 9019245723648,
+      "rsi14": 38.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1222.7,
+      "pctAboveBreakout": 3.03,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 38.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ABBOTINDIA.NS",
+      "companyName": "Abbott India Limited",
+      "currentPrice": 26405,
+      "volumeToday": 9076,
+      "avgVolume20d": 9659,
+      "volumeRatio": 0.94,
+      "sector": "Unknown",
+      "marketCap": "₹561.1B",
+      "marketCapRaw": 561087840256,
+      "rsi14": 46.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 25485,
+      "pctAboveBreakout": 3.61,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 46.6"
+      ]
+    },
+    {
+      "ticker": "JUSTDIAL.NS",
+      "companyName": "Just Dial Limited",
+      "currentPrice": 516.0499877929688,
+      "volumeToday": 251593,
+      "avgVolume20d": 268860,
+      "volumeRatio": 0.94,
+      "sector": "Unknown",
+      "marketCap": "₹43.9B",
+      "marketCapRaw": 43896373248,
+      "rsi14": 34.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 500.75,
+      "pctAboveBreakout": 3.06,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 34.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "NAZARA.NS",
+      "companyName": "Nazara Technologies Limited",
+      "currentPrice": 227.35000610351562,
+      "volumeToday": 1629790,
+      "avgVolume20d": 1760599,
+      "volumeRatio": 0.93,
+      "sector": "Unknown",
+      "marketCap": "₹84.2B",
+      "marketCapRaw": 84225228800,
+      "rsi14": 38.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 217.65,
+      "pctAboveBreakout": 4.46,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 38.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "IFBIND.NS",
+      "companyName": "IFB Industries Limited",
+      "currentPrice": 983.0999755859375,
+      "volumeToday": 62028,
+      "avgVolume20d": 66353,
+      "volumeRatio": 0.93,
+      "sector": "Unknown",
+      "marketCap": "₹39.9B",
+      "marketCapRaw": 39915737088,
+      "rsi14": 37.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 923.9,
+      "pctAboveBreakout": 6.41,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 37.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "CASTROLIND.NS",
+      "companyName": "Castrol India Limited",
+      "currentPrice": 178.0399932861328,
+      "volumeToday": 1946503,
+      "avgVolume20d": 2096425,
+      "volumeRatio": 0.93,
+      "sector": "Unknown",
+      "marketCap": "₹176.1B",
+      "marketCapRaw": 176103342080,
+      "rsi14": 35.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 173.78,
+      "pctAboveBreakout": 2.45,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 35.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "SBICARD.NS",
+      "companyName": "SBI Cards and Payment Services Limited",
+      "currentPrice": 700.2000122070312,
+      "volumeToday": 1333886,
+      "avgVolume20d": 1449899,
+      "volumeRatio": 0.92,
+      "sector": "Unknown",
+      "marketCap": "₹666.3B",
+      "marketCapRaw": 666310541312,
+      "rsi14": 42.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 653.3,
+      "pctAboveBreakout": 7.18,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 42.8"
+      ]
+    },
+    {
+      "ticker": "QUESS.NS",
+      "companyName": "Quess Corp Limited",
+      "currentPrice": 176.64999389648438,
+      "volumeToday": 228445,
+      "avgVolume20d": 248260,
+      "volumeRatio": 0.92,
+      "sector": "Unknown",
+      "marketCap": "₹26.4B",
+      "marketCapRaw": 26379401216,
+      "rsi14": 38.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 169.87,
+      "pctAboveBreakout": 3.99,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 38.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "companyName": "Dr. Lal PathLabs Limited",
+      "currentPrice": 1346.5999755859375,
+      "volumeToday": 282604,
+      "avgVolume20d": 309249,
+      "volumeRatio": 0.91,
+      "sector": "Unknown",
+      "marketCap": "₹224.8B",
+      "marketCapRaw": 224846479360,
+      "rsi14": 45.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1199.7,
+      "pctAboveBreakout": 9.27,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 45.9"
+      ]
+    },
+    {
+      "ticker": "SJVN.NS",
+      "companyName": "SJVN Limited",
+      "currentPrice": 67.87999725341797,
+      "volumeToday": 4988763,
+      "avgVolume20d": 5461233,
+      "volumeRatio": 0.91,
+      "sector": "Unknown",
+      "marketCap": "₹266.8B",
+      "marketCapRaw": 266754473984,
+      "rsi14": 42.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 66.52,
+      "pctAboveBreakout": 2.04,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 42.3"
+      ]
+    },
+    {
+      "ticker": "PSB.NS",
+      "companyName": "Punjab & Sind Bank",
+      "currentPrice": 22.760000228881836,
+      "volumeToday": 2277346,
+      "avgVolume20d": 2494422,
+      "volumeRatio": 0.91,
+      "sector": "Unknown",
+      "marketCap": "₹161.7B",
+      "marketCapRaw": 161728806912,
+      "rsi14": 38.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 21.51,
+      "pctAboveBreakout": 5.81,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 38.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ORCHPHARMA.NS",
+      "companyName": "Orchid Pharma Limited",
+      "currentPrice": 531.6500244140625,
+      "volumeToday": 119599,
+      "avgVolume20d": 131884,
+      "volumeRatio": 0.91,
+      "sector": "Unknown",
+      "marketCap": "₹27.0B",
+      "marketCapRaw": 26971920384,
+      "rsi14": 40.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 498.95,
+      "pctAboveBreakout": 6.55,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 40.7"
+      ]
+    },
+    {
+      "ticker": "HUHTAMAKI.NS",
+      "companyName": "Huhtamaki India Limited",
+      "currentPrice": 165.13999938964844,
+      "volumeToday": 134736,
+      "avgVolume20d": 147927,
+      "volumeRatio": 0.91,
+      "sector": "Unknown",
+      "marketCap": "₹12.5B",
+      "marketCapRaw": 12471692288,
+      "rsi14": 45,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 153.6,
+      "pctAboveBreakout": 7.51,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 45.0"
+      ]
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "companyName": "HDFC Life Insurance Company Limited",
+      "currentPrice": 612.9000244140625,
+      "volumeToday": 2915510,
+      "avgVolume20d": 3251857,
+      "volumeRatio": 0.9,
+      "sector": "Unknown",
+      "marketCap": "₹1.3T",
+      "marketCapRaw": 1322196795392,
+      "rsi14": 31.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 592.1,
+      "pctAboveBreakout": 3.51,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 31.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "FINEORG.NS",
+      "companyName": "Fine Organic Industries Limited",
+      "currentPrice": 4231.5,
+      "volumeToday": 13348,
+      "avgVolume20d": 14813,
+      "volumeRatio": 0.9,
+      "sector": "Unknown",
+      "marketCap": "₹129.7B",
+      "marketCapRaw": 129737687040,
+      "rsi14": 45.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 3886.8,
+      "pctAboveBreakout": 8.87,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 45.4"
+      ]
+    },
+    {
+      "ticker": "IOC.NS",
+      "companyName": "Indian Oil Corporation Limited",
+      "currentPrice": 140.52000427246094,
+      "volumeToday": 22845077,
+      "avgVolume20d": 25312843,
+      "volumeRatio": 0.9,
+      "sector": "Unknown",
+      "marketCap": "₹2.0T",
+      "marketCapRaw": 1984316440576,
+      "rsi14": 28.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 127.7,
+      "pctAboveBreakout": 8.61,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 28.3 — oversold"
+      ]
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "companyName": "Maruti Suzuki India Limited",
+      "currentPrice": 12711,
+      "volumeToday": 540522,
+      "avgVolume20d": 609681,
+      "volumeRatio": 0.89,
+      "sector": "Unknown",
+      "marketCap": "₹4.0T",
+      "marketCapRaw": 3996370862080,
+      "rsi14": 34.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 11329.75,
+      "pctAboveBreakout": 9.05,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 34.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "IRFC.NS",
+      "companyName": "Indian Railway Finance Corporation Limited",
+      "currentPrice": 95.23999786376953,
+      "volumeToday": 17776455,
+      "avgVolume20d": 20045004,
+      "volumeRatio": 0.89,
+      "sector": "Unknown",
+      "marketCap": "₹1.2T",
+      "marketCapRaw": 1244885549056,
+      "rsi14": 38.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 89.45,
+      "pctAboveBreakout": 6.47,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 38.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ORIENTCEM.NS",
+      "companyName": "Orient Cement Limited",
+      "currentPrice": 131.64999389648438,
+      "volumeToday": 471936,
+      "avgVolume20d": 531617,
+      "volumeRatio": 0.89,
+      "sector": "Unknown",
+      "marketCap": "₹27.1B",
+      "marketCapRaw": 27061454848,
+      "rsi14": 35.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 124.38,
+      "pctAboveBreakout": 5.84,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 35.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "INFY.NS",
+      "companyName": "Infosys Limited",
+      "currentPrice": 1279.0999755859375,
+      "volumeToday": 10822872,
+      "avgVolume20d": 12348399,
+      "volumeRatio": 0.88,
+      "sector": "Unknown",
+      "marketCap": "₹5.2T",
+      "marketCapRaw": 5176015454208,
+      "rsi14": 41.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1220.8,
+      "pctAboveBreakout": 4.78,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 41.9"
+      ]
+    },
+    {
+      "ticker": "ZYDUSLIFE.NS",
+      "companyName": "Zydus Lifesciences Limited",
+      "currentPrice": 903.7000122070312,
+      "volumeToday": 574264,
+      "avgVolume20d": 651720,
+      "volumeRatio": 0.88,
+      "sector": "Unknown",
+      "marketCap": "₹909.6B",
+      "marketCapRaw": 909632012288,
+      "rsi14": 51.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 822.1,
+      "pctAboveBreakout": 9.93,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 51.2"
+      ]
+    },
+    {
+      "ticker": "PREMIERENE.NS",
+      "companyName": "PREMIER ENERGIES LIMITED",
+      "currentPrice": 916.9000244140625,
+      "volumeToday": 2747655,
+      "avgVolume20d": 3122989,
+      "volumeRatio": 0.88,
+      "sector": "Unknown",
+      "marketCap": "₹411.8B",
+      "marketCapRaw": 411791228928,
+      "rsi14": 77.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 683.1,
+      "pctAboveBreakout": 9.46,
+      "breakoutDate": "2026-03-10",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 77.5"
+      ]
+    },
+    {
+      "ticker": "NAVNETEDUL.NS",
+      "companyName": "Navneet Education Limited",
+      "currentPrice": 128.02000427246094,
+      "volumeToday": 163530,
+      "avgVolume20d": 186882,
+      "volumeRatio": 0.88,
+      "sector": "Unknown",
+      "marketCap": "₹28.4B",
+      "marketCapRaw": 28376920064,
+      "rsi14": 36.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 123.69,
+      "pctAboveBreakout": 3.5,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 36.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "PRINCEPIPE.NS",
+      "companyName": "Prince Pipes and Fittings Limited",
+      "currentPrice": 230.3000030517578,
+      "volumeToday": 211699,
+      "avgVolume20d": 242338,
+      "volumeRatio": 0.87,
+      "sector": "Unknown",
+      "marketCap": "₹25.5B",
+      "marketCapRaw": 25467092992,
+      "rsi14": 41.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 223.5,
+      "pctAboveBreakout": 3.04,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 41.4"
+      ]
+    },
+    {
+      "ticker": "BDL.NS",
+      "companyName": "Bharat Dynamics Limited",
+      "currentPrice": 1182.199951171875,
+      "volumeToday": 1438543,
+      "avgVolume20d": 1645794,
+      "volumeRatio": 0.87,
+      "sector": "Unknown",
+      "marketCap": "₹433.4B",
+      "marketCapRaw": 433350180864,
+      "rsi14": 36.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1158.5,
+      "pctAboveBreakout": 2.05,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 36.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "BALMLAWRIE.NS",
+      "companyName": "Balmer Lawrie & Co. Ltd.",
+      "currentPrice": 162.16000366210938,
+      "volumeToday": 205077,
+      "avgVolume20d": 235449,
+      "volumeRatio": 0.87,
+      "sector": "Unknown",
+      "marketCap": "₹27.8B",
+      "marketCapRaw": 27773818880,
+      "rsi14": 39.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 157.64,
+      "pctAboveBreakout": 2.87,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 39.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "MAXHEALTH.NS",
+      "companyName": "Max Healthcare Institute Limited",
+      "currentPrice": 988.2000122070312,
+      "volumeToday": 2719387,
+      "avgVolume20d": 3167133,
+      "volumeRatio": 0.86,
+      "sector": "Unknown",
+      "marketCap": "₹961.7B",
+      "marketCapRaw": 961652064256,
+      "rsi14": 42.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 952.6,
+      "pctAboveBreakout": 3.74,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 42.6"
+      ]
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "companyName": "Titagarh Rail Systems Limited",
+      "currentPrice": 628.75,
+      "volumeToday": 584182,
+      "avgVolume20d": 682347,
+      "volumeRatio": 0.86,
+      "sector": "Unknown",
+      "marketCap": "₹84.7B",
+      "marketCapRaw": 84676124672,
+      "rsi14": 38.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 595,
+      "pctAboveBreakout": 5.67,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 38.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "IRB.NS",
+      "companyName": "IRB Infrastructure Developers Limited",
+      "currentPrice": 41.130001068115234,
+      "volumeToday": 6466143,
+      "avgVolume20d": 7491010,
+      "volumeRatio": 0.86,
+      "sector": "Unknown",
+      "marketCap": "₹248.4B",
+      "marketCapRaw": 248384077824,
+      "rsi14": 48.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 38.99,
+      "pctAboveBreakout": 5.49,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 48.3"
+      ]
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "companyName": "Neuland Laboratories Limited",
+      "currentPrice": 12096,
+      "volumeToday": 26095,
+      "avgVolume20d": 30191,
+      "volumeRatio": 0.86,
+      "sector": "Unknown",
+      "marketCap": "₹155.3B",
+      "marketCapRaw": 155346305024,
+      "rsi14": 42,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 10959.45,
+      "pctAboveBreakout": 9.77,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 42.0"
+      ]
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "companyName": "Nestlé India Limited",
+      "currentPrice": 1204.0999755859375,
+      "volumeToday": 1003636,
+      "avgVolume20d": 1174119,
+      "volumeRatio": 0.85,
+      "sector": "Unknown",
+      "marketCap": "₹2.3T",
+      "marketCapRaw": 2321883332608,
+      "rsi14": 40.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1089.4,
+      "pctAboveBreakout": 8.61,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 40.8"
+      ]
+    },
+    {
+      "ticker": "MASTEK.NS",
+      "companyName": "Mastek Limited",
+      "currentPrice": 1450.0999755859375,
+      "volumeToday": 83408,
+      "avgVolume20d": 97989,
+      "volumeRatio": 0.85,
+      "sector": "Unknown",
+      "marketCap": "₹44.9B",
+      "marketCapRaw": 44949241856,
+      "rsi14": 36,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1382.6,
+      "pctAboveBreakout": 4.88,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 36.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "BAJAJHLDNG.NS",
+      "companyName": "Bajaj Holdings & Investment Limited",
+      "currentPrice": 9554,
+      "volumeToday": 49102,
+      "avgVolume20d": 57847,
+      "volumeRatio": 0.85,
+      "sector": "Unknown",
+      "marketCap": "₹1.1T",
+      "marketCapRaw": 1063298203648,
+      "rsi14": 36.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 9162,
+      "pctAboveBreakout": 4.28,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 36.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "companyName": "Bandhan Bank Limited",
+      "currentPrice": 153.4199981689453,
+      "volumeToday": 10312757,
+      "avgVolume20d": 12117214,
+      "volumeRatio": 0.85,
+      "sector": "Unknown",
+      "marketCap": "₹247.2B",
+      "marketCapRaw": 247155359744,
+      "rsi14": 39,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 135.47,
+      "pctAboveBreakout": 9.5,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 39.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "MAPMYINDIA.NS",
+      "companyName": "C. E. Info Systems Limited",
+      "currentPrice": 891.2000122070312,
+      "volumeToday": 173828,
+      "avgVolume20d": 203974,
+      "volumeRatio": 0.85,
+      "sector": "Unknown",
+      "marketCap": "₹48.8B",
+      "marketCapRaw": 48767946752,
+      "rsi14": 31.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 861,
+      "pctAboveBreakout": 3.51,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 31.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "AURIONPRO.NS",
+      "companyName": "Aurionpro Solutions Limited",
+      "currentPrice": 795.25,
+      "volumeToday": 184223,
+      "avgVolume20d": 217925,
+      "volumeRatio": 0.85,
+      "sector": "Unknown",
+      "marketCap": "₹43.9B",
+      "marketCapRaw": 43908558848,
+      "rsi14": 37.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 773.3,
+      "pctAboveBreakout": 2.84,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 37.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "INFIBEAM.NS",
+      "companyName": "INFIBEAM.NS",
+      "currentPrice": 13.859999656677246,
+      "volumeToday": 8441435,
+      "avgVolume20d": 9879716,
+      "volumeRatio": 0.85,
+      "sector": "Unknown",
+      "marketCap": "N/A",
+      "marketCapRaw": 0,
+      "rsi14": 35.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 13.35,
+      "pctAboveBreakout": 3.82,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.9× avg",
+        "RSI(14): 35.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "companyName": "Wipro Limited",
+      "currentPrice": 189.0500030517578,
+      "volumeToday": 13853725,
+      "avgVolume20d": 16416192,
+      "volumeRatio": 0.84,
+      "sector": "Unknown",
+      "marketCap": "₹2.0T",
+      "marketCapRaw": 1982217584640,
+      "rsi14": 31,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 187.54,
+      "pctAboveBreakout": 0.81,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 31.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ICICIGI.NS",
+      "companyName": "ICICI Lombard General Insurance Company Limited",
+      "currentPrice": 1770.300048828125,
+      "volumeToday": 505039,
+      "avgVolume20d": 600720,
+      "volumeRatio": 0.84,
+      "sector": "Unknown",
+      "marketCap": "₹882.8B",
+      "marketCapRaw": 882845483008,
+      "rsi14": 36.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1718.55,
+      "pctAboveBreakout": 3.01,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 36.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "CLEAN.NS",
+      "companyName": "Clean Science and Technology Limited",
+      "currentPrice": 701.2000122070312,
+      "volumeToday": 217129,
+      "avgVolume20d": 258919,
+      "volumeRatio": 0.84,
+      "sector": "Unknown",
+      "marketCap": "₹74.5B",
+      "marketCapRaw": 74548666368,
+      "rsi14": 41.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 676.85,
+      "pctAboveBreakout": 3.6,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 41.5"
+      ]
+    },
+    {
+      "ticker": "RECLTD.NS",
+      "companyName": "REC Limited",
+      "currentPrice": 327.70001220703125,
+      "volumeToday": 6887254,
+      "avgVolume20d": 8175457,
+      "volumeRatio": 0.84,
+      "sector": "Unknown",
+      "marketCap": "₹863.0B",
+      "marketCapRaw": 863028510720,
+      "rsi14": 43.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 316.45,
+      "pctAboveBreakout": 3.56,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 43.7"
+      ]
+    },
+    {
+      "ticker": "COCHINSHIP.NS",
+      "companyName": "Cochin Shipyard Limited",
+      "currentPrice": 1317.4000244140625,
+      "volumeToday": 904082,
+      "avgVolume20d": 1079222,
+      "volumeRatio": 0.84,
+      "sector": "Unknown",
+      "marketCap": "₹346.7B",
+      "marketCapRaw": 346678886400,
+      "rsi14": 38.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1269.2,
+      "pctAboveBreakout": 3.8,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 38.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "companyName": "Chambal Fertilisers and Chemicals Limited",
+      "currentPrice": 432.3500061035156,
+      "volumeToday": 708177,
+      "avgVolume20d": 838996,
+      "volumeRatio": 0.84,
+      "sector": "Unknown",
+      "marketCap": "₹173.3B",
+      "marketCapRaw": 173323075584,
+      "rsi14": 49.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 412.25,
+      "pctAboveBreakout": 4.88,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 49.4"
+      ]
+    },
+    {
+      "ticker": "INDIAMART.NS",
+      "companyName": "IndiaMART InterMESH Limited",
+      "currentPrice": 2015.699951171875,
+      "volumeToday": 131715,
+      "avgVolume20d": 161373,
+      "volumeRatio": 0.82,
+      "sector": "Unknown",
+      "marketCap": "₹121.1B",
+      "marketCapRaw": 121082642432,
+      "rsi14": 38.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1925.65,
+      "pctAboveBreakout": 4.68,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 38.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "RAYMOND.NS",
+      "companyName": "Raymond Limited",
+      "currentPrice": 354.5,
+      "volumeToday": 337056,
+      "avgVolume20d": 410571,
+      "volumeRatio": 0.82,
+      "sector": "Unknown",
+      "marketCap": "₹23.6B",
+      "marketCapRaw": 23592482816,
+      "rsi14": 39.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 347.55,
+      "pctAboveBreakout": 2,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 39.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "companyName": "Jubilant Pharmova Limited",
+      "currentPrice": 859.7000122070312,
+      "volumeToday": 137171,
+      "avgVolume20d": 167161,
+      "volumeRatio": 0.82,
+      "sector": "Unknown",
+      "marketCap": "₹136.3B",
+      "marketCapRaw": 136251719680,
+      "rsi14": 48.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 807.65,
+      "pctAboveBreakout": 6.44,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 48.9"
+      ]
+    },
+    {
+      "ticker": "GSFC.NS",
+      "companyName": "Gujarat State Fertilizers & Chemicals Limited",
+      "currentPrice": 151.1999969482422,
+      "volumeToday": 1145813,
+      "avgVolume20d": 1396774,
+      "volumeRatio": 0.82,
+      "sector": "Unknown",
+      "marketCap": "₹60.2B",
+      "marketCapRaw": 60249800704,
+      "rsi14": 38.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 147.02,
+      "pctAboveBreakout": 2.84,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 38.1 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "BLKASHYAP.NS",
+      "companyName": "B.L. Kashyap and Sons Limited",
+      "currentPrice": 49.2599983215332,
+      "volumeToday": 581745,
+      "avgVolume20d": 706891,
+      "volumeRatio": 0.82,
+      "sector": "Unknown",
+      "marketCap": "₹11.1B",
+      "marketCapRaw": 11107262464,
+      "rsi14": 49.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 45.73,
+      "pctAboveBreakout": 7.72,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 49.4"
+      ]
+    },
+    {
+      "ticker": "CONCOR.NS",
+      "companyName": "Container Corporation of India Limited",
+      "currentPrice": 445.1499938964844,
+      "volumeToday": 1469460,
+      "avgVolume20d": 1814000,
+      "volumeRatio": 0.81,
+      "sector": "Unknown",
+      "marketCap": "₹339.0B",
+      "marketCapRaw": 339034210304,
+      "rsi14": 39,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 423.75,
+      "pctAboveBreakout": 5.05,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 39.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "SENCO.NS",
+      "companyName": "Senco Gold Limited",
+      "currentPrice": 295.5,
+      "volumeToday": 410404,
+      "avgVolume20d": 504711,
+      "volumeRatio": 0.81,
+      "sector": "Unknown",
+      "marketCap": "₹48.4B",
+      "marketCapRaw": 48409198592,
+      "rsi14": 44.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 272.35,
+      "pctAboveBreakout": 8.5,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 44.2"
+      ]
+    },
+    {
+      "ticker": "GODREJAGRO.NS",
+      "companyName": "Godrej Agrovet Limited",
+      "currentPrice": 560.4500122070312,
+      "volumeToday": 127907,
+      "avgVolume20d": 157263,
+      "volumeRatio": 0.81,
+      "sector": "Unknown",
+      "marketCap": "₹107.9B",
+      "marketCapRaw": 107885142016,
+      "rsi14": 41.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 513,
+      "pctAboveBreakout": 9.25,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 41.3"
+      ]
+    },
+    {
+      "ticker": "PAISALO.NS",
+      "companyName": "Paisalo Digital Limited",
+      "currentPrice": 34.209999084472656,
+      "volumeToday": 3708360,
+      "avgVolume20d": 4782418,
+      "volumeRatio": 0.78,
+      "sector": "Unknown",
+      "marketCap": "₹31.1B",
+      "marketCapRaw": 31114741760,
+      "rsi14": 50.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 29.5,
+      "pctAboveBreakout": 4.98,
+      "breakoutDate": "2026-03-13",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 50.5"
+      ]
+    },
+    {
+      "ticker": "JKPAPER.NS",
+      "companyName": "JK Paper Limited",
+      "currentPrice": 336.3999938964844,
+      "volumeToday": 242805,
+      "avgVolume20d": 310271,
+      "volumeRatio": 0.78,
+      "sector": "Unknown",
+      "marketCap": "₹61.1B",
+      "marketCapRaw": 61086158848,
+      "rsi14": 50.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 300.05,
+      "pctAboveBreakout": 7.37,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 50.8"
+      ]
+    },
+    {
+      "ticker": "TATAPOWER.NS",
+      "companyName": "Tata Power Company Limited",
+      "currentPrice": 390.70001220703125,
+      "volumeToday": 6899174,
+      "avgVolume20d": 8981644,
+      "volumeRatio": 0.77,
+      "sector": "Unknown",
+      "marketCap": "₹1.2T",
+      "marketCapRaw": 1248419250176,
+      "rsi14": 53.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 345.25,
+      "pctAboveBreakout": 8.01,
+      "breakoutDate": "2026-03-09",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 53.8"
+      ]
+    },
+    {
+      "ticker": "KRSNAA.NS",
+      "companyName": "Krsnaa Diagnostics Limited",
+      "currentPrice": 573.7000122070312,
+      "volumeToday": 57898,
+      "avgVolume20d": 75235,
+      "volumeRatio": 0.77,
+      "sector": "Unknown",
+      "marketCap": "₹18.6B",
+      "marketCapRaw": 18610067456,
+      "rsi14": 32.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 564.25,
+      "pctAboveBreakout": 1.67,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 32.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "companyName": "Tata Elxsi Limited",
+      "currentPrice": 4213.39990234375,
+      "volumeToday": 261923,
+      "avgVolume20d": 345490,
+      "volumeRatio": 0.76,
+      "sector": "Unknown",
+      "marketCap": "₹262.5B",
+      "marketCapRaw": 262480838656,
+      "rsi14": 39.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 4039.3,
+      "pctAboveBreakout": 4.31,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 39.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "KEC.NS",
+      "companyName": "KEC International Limited",
+      "currentPrice": 549.8499755859375,
+      "volumeToday": 670015,
+      "avgVolume20d": 880377,
+      "volumeRatio": 0.76,
+      "sector": "Unknown",
+      "marketCap": "₹146.4B",
+      "marketCapRaw": 146370068480,
+      "rsi14": 45.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 514.85,
+      "pctAboveBreakout": 6.8,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 45.3"
+      ]
+    },
+    {
+      "ticker": "DIXON.NS",
+      "companyName": "Dixon Technologies (India) Limited",
+      "currentPrice": 10415,
+      "volumeToday": 576727,
+      "avgVolume20d": 765769,
+      "volumeRatio": 0.75,
+      "sector": "Unknown",
+      "marketCap": "₹632.3B",
+      "marketCapRaw": 632300503040,
+      "rsi14": 48.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 9804,
+      "pctAboveBreakout": 6.23,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 48.3"
+      ]
+    },
+    {
+      "ticker": "GOCOLORS.NS",
+      "companyName": "Go Fashion (India) Limited",
+      "currentPrice": 269.1000061035156,
+      "volumeToday": 278921,
+      "avgVolume20d": 371648,
+      "volumeRatio": 0.75,
+      "sector": "Unknown",
+      "marketCap": "₹14.5B",
+      "marketCapRaw": 14541503488,
+      "rsi14": 39.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 238.4,
+      "pctAboveBreakout": 6.8,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 0.8× avg",
+        "RSI(14): 39.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "NUVOCO.NS",
+      "companyName": "Nuvoco Vistas Corporation Limited",
+      "currentPrice": 303.25,
+      "volumeToday": 297058,
+      "avgVolume20d": 400063,
+      "volumeRatio": 0.74,
+      "sector": "Unknown",
+      "marketCap": "₹108.4B",
+      "marketCapRaw": 108386066432,
+      "rsi14": 47.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 282.35,
+      "pctAboveBreakout": 7.4,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 47.7"
+      ]
+    },
+    {
+      "ticker": "NHPC.NS",
+      "companyName": "NHPC Limited",
+      "currentPrice": 77.19999694824219,
+      "volumeToday": 13194351,
+      "avgVolume20d": 18366516,
+      "volumeRatio": 0.72,
+      "sector": "Unknown",
+      "marketCap": "₹775.5B",
+      "marketCapRaw": 775476609024,
+      "rsi14": 55.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 72.23,
+      "pctAboveBreakout": 6.88,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 55.9"
+      ]
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "companyName": "UCO Bank",
+      "currentPrice": 24.610000610351562,
+      "volumeToday": 6323560,
+      "avgVolume20d": 8778486,
+      "volumeRatio": 0.72,
+      "sector": "Unknown",
+      "marketCap": "₹308.8B",
+      "marketCapRaw": 308808122368,
+      "rsi14": 36.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 23.4,
+      "pctAboveBreakout": 5.17,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 36.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "OBEROIRLTY.NS",
+      "companyName": "Oberoi Realty Limited",
+      "currentPrice": 1499.699951171875,
+      "volumeToday": 435211,
+      "avgVolume20d": 605307,
+      "volumeRatio": 0.72,
+      "sector": "Unknown",
+      "marketCap": "₹545.4B",
+      "marketCapRaw": 545375846400,
+      "rsi14": 52.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1411.5,
+      "pctAboveBreakout": 6.25,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 52.4"
+      ]
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "companyName": "Jaiprakash Power Ventures Limited",
+      "currentPrice": 15.270000457763672,
+      "volumeToday": 80368391,
+      "avgVolume20d": 111611065,
+      "volumeRatio": 0.72,
+      "sector": "Unknown",
+      "marketCap": "₹104.7B",
+      "marketCapRaw": 104713232384,
+      "rsi14": 53.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 13.24,
+      "pctAboveBreakout": 5.59,
+      "breakoutDate": "2026-03-17",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 53.5"
+      ]
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "companyName": "Adani Green Energy Limited",
+      "currentPrice": 853.7999877929688,
+      "volumeToday": 2200388,
+      "avgVolume20d": 3084770,
+      "volumeRatio": 0.71,
+      "sector": "Unknown",
+      "marketCap": "₹1.4T",
+      "marketCapRaw": 1406359044096,
+      "rsi14": 43,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 772.8,
+      "pctAboveBreakout": 8.64,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 43.0"
+      ]
+    },
+    {
+      "ticker": "CAMS.NS",
+      "companyName": "Computer Age Management Services Limited",
+      "currentPrice": 643.9000244140625,
+      "volumeToday": 1217431,
+      "avgVolume20d": 1770186,
+      "volumeRatio": 0.69,
+      "sector": "Unknown",
+      "marketCap": "₹159.8B",
+      "marketCapRaw": 159780519936,
+      "rsi14": 42.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 622.45,
+      "pctAboveBreakout": 3.45,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 42.7"
+      ]
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "companyName": "Sun Pharmaceutical Industries Limited",
+      "currentPrice": 1795.4000244140625,
+      "volumeToday": 1900648,
+      "avgVolume20d": 2849608,
+      "volumeRatio": 0.67,
+      "sector": "Unknown",
+      "marketCap": "₹4.3T",
+      "marketCapRaw": 4307765952512,
+      "rsi14": 56.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1563.3,
+      "pctAboveBreakout": 9.6,
+      "breakoutDate": "2026-02-19",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 56.7"
+      ]
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "companyName": "Intellect Design Arena Limited",
+      "currentPrice": 657.0999755859375,
+      "volumeToday": 315618,
+      "avgVolume20d": 471948,
+      "volumeRatio": 0.67,
+      "sector": "Unknown",
+      "marketCap": "₹91.2B",
+      "marketCapRaw": 91162591232,
+      "rsi14": 40.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 612.35,
+      "pctAboveBreakout": 7.31,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 40.3"
+      ]
+    },
+    {
+      "ticker": "JTEKTINDIA.NS",
+      "companyName": "JTEKT India Limited",
+      "currentPrice": 125.83999633789062,
+      "volumeToday": 92068,
+      "avgVolume20d": 140505,
+      "volumeRatio": 0.66,
+      "sector": "Unknown",
+      "marketCap": "₹34.9B",
+      "marketCapRaw": 34907623424,
+      "rsi14": 41.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 118.79,
+      "pctAboveBreakout": 5.93,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.7× avg",
+        "RSI(14): 41.7"
+      ]
+    },
+    {
+      "ticker": "GODREJPROP.NS",
+      "companyName": "Godrej Properties Limited",
+      "currentPrice": 1564.9000244140625,
+      "volumeToday": 843439,
+      "avgVolume20d": 1300988,
+      "volumeRatio": 0.65,
+      "sector": "Unknown",
+      "marketCap": "₹471.4B",
+      "marketCapRaw": 471360012288,
+      "rsi14": 40.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1497.2,
+      "pctAboveBreakout": 4.52,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 40.8"
+      ]
+    },
+    {
+      "ticker": "EQUITASBNK.NS",
+      "companyName": "Equitas Small Finance Bank Limited",
+      "currentPrice": 56.939998626708984,
+      "volumeToday": 2060637,
+      "avgVolume20d": 3231969,
+      "volumeRatio": 0.64,
+      "sector": "Unknown",
+      "marketCap": "₹65.0B",
+      "marketCapRaw": 65026973696,
+      "rsi14": 40.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 50.27,
+      "pctAboveBreakout": 8.37,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 40.7"
+      ]
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "companyName": "Birlasoft Limited",
+      "currentPrice": 347.3999938964844,
+      "volumeToday": 997544,
+      "avgVolume20d": 1572826,
+      "volumeRatio": 0.63,
+      "sector": "Unknown",
+      "marketCap": "₹97.1B",
+      "marketCapRaw": 97093525504,
+      "rsi14": 37.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 338.95,
+      "pctAboveBreakout": 2.49,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 37.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "HAL.NS",
+      "companyName": "Hindustan Aeronautics Limited",
+      "currentPrice": 3669.39990234375,
+      "volumeToday": 1052529,
+      "avgVolume20d": 1669961,
+      "volumeRatio": 0.63,
+      "sector": "Unknown",
+      "marketCap": "₹2.5T",
+      "marketCapRaw": 2454002860032,
+      "rsi14": 31.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 3634.6,
+      "pctAboveBreakout": 0.96,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 31.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "TATACOMM.NS",
+      "companyName": "Tata Communications Limited",
+      "currentPrice": 1449.800048828125,
+      "volumeToday": 210526,
+      "avgVolume20d": 334922,
+      "volumeRatio": 0.63,
+      "sector": "Unknown",
+      "marketCap": "₹413.2B",
+      "marketCapRaw": 413193011200,
+      "rsi14": 43.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1383,
+      "pctAboveBreakout": 4.83,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 43.6"
+      ]
+    },
+    {
+      "ticker": "CENTRALBK.NS",
+      "companyName": "Central Bank of India",
+      "currentPrice": 34.119998931884766,
+      "volumeToday": 6775891,
+      "avgVolume20d": 10747742,
+      "volumeRatio": 0.63,
+      "sector": "Unknown",
+      "marketCap": "₹309.0B",
+      "marketCapRaw": 308998963200,
+      "rsi14": 40.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 32.56,
+      "pctAboveBreakout": 4.79,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 40.2"
+      ]
+    },
+    {
+      "ticker": "SHOPERSTOP.NS",
+      "companyName": "Shoppers Stop Limited",
+      "currentPrice": 298.75,
+      "volumeToday": 75390,
+      "avgVolume20d": 128543,
+      "volumeRatio": 0.59,
+      "sector": "Unknown",
+      "marketCap": "₹32.9B",
+      "marketCapRaw": 32897552384,
+      "rsi14": 39.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 287.6,
+      "pctAboveBreakout": 3.88,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 39.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "CESC.NS",
+      "companyName": "CESC Limited",
+      "currentPrice": 152.25999450683594,
+      "volumeToday": 1589111,
+      "avgVolume20d": 2763585,
+      "volumeRatio": 0.58,
+      "sector": "Unknown",
+      "marketCap": "₹201.8B",
+      "marketCapRaw": 201831350272,
+      "rsi14": 46.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 140.43,
+      "pctAboveBreakout": 8.42,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 46.5"
+      ]
+    },
+    {
+      "ticker": "SHREECEM.NS",
+      "companyName": "Shree Cement Limited",
+      "currentPrice": 24230,
+      "volumeToday": 19068,
+      "avgVolume20d": 32966,
+      "volumeRatio": 0.58,
+      "sector": "Unknown",
+      "marketCap": "₹874.2B",
+      "marketCapRaw": 874236542976,
+      "rsi14": 46.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 22725,
+      "pctAboveBreakout": 6.62,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 46.7"
+      ]
+    },
+    {
+      "ticker": "COROMANDEL.NS",
+      "companyName": "Coromandel International Limited",
+      "currentPrice": 2015.4000244140625,
+      "volumeToday": 232175,
+      "avgVolume20d": 402383,
+      "volumeRatio": 0.58,
+      "sector": "Unknown",
+      "marketCap": "₹594.0B",
+      "marketCapRaw": 593975312384,
+      "rsi14": 45,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1846.5,
+      "pctAboveBreakout": 9.15,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 45.0"
+      ]
+    },
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "companyName": "IDFC First Bank Limited",
+      "currentPrice": 63.2400016784668,
+      "volumeToday": 26508106,
+      "avgVolume20d": 46803080,
+      "volumeRatio": 0.57,
+      "sector": "Unknown",
+      "marketCap": "₹544.0B",
+      "marketCapRaw": 543971475456,
+      "rsi14": 35.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 54.96,
+      "pctAboveBreakout": 9.61,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 35.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "UGROCAP.NS",
+      "companyName": "UGRO Capital Limited",
+      "currentPrice": 92.47000122070312,
+      "volumeToday": 862476,
+      "avgVolume20d": 1534816,
+      "volumeRatio": 0.56,
+      "sector": "Unknown",
+      "marketCap": "₹14.2B",
+      "marketCapRaw": 14182934528,
+      "rsi14": 36.9,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 86.85,
+      "pctAboveBreakout": 6.47,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 36.9 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "SPAL.NS",
+      "companyName": "S.P. Apparels Limited",
+      "currentPrice": 718.1500244140625,
+      "volumeToday": 17953,
+      "avgVolume20d": 32018,
+      "volumeRatio": 0.56,
+      "sector": "Unknown",
+      "marketCap": "₹18.1B",
+      "marketCapRaw": 18062508032,
+      "rsi14": 53.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 608.85,
+      "pctAboveBreakout": 8.84,
+      "breakoutDate": "2026-03-09",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 53.8"
+      ]
+    },
+    {
+      "ticker": "ORIENTHOT.NS",
+      "companyName": "Oriental Hotels Limited",
+      "currentPrice": 92.11000061035156,
+      "volumeToday": 222979,
+      "avgVolume20d": 401929,
+      "volumeRatio": 0.55,
+      "sector": "Unknown",
+      "marketCap": "₹16.5B",
+      "marketCapRaw": 16450770944,
+      "rsi14": 46,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 83.66,
+      "pctAboveBreakout": 8.81,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 0.6× avg",
+        "RSI(14): 46.0"
+      ]
+    },
+    {
+      "ticker": "IDBI.NS",
+      "companyName": "IDBI Bank Limited",
+      "currentPrice": 67.1500015258789,
+      "volumeToday": 16281011,
+      "avgVolume20d": 29930699,
+      "volumeRatio": 0.54,
+      "sector": "Unknown",
+      "marketCap": "₹722.1B",
+      "marketCapRaw": 722093932544,
+      "rsi14": 21.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 67.07,
+      "pctAboveBreakout": 0.12,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 21.5 — oversold"
+      ]
+    },
+    {
+      "ticker": "SIS.NS",
+      "companyName": "SIS Limited",
+      "currentPrice": 285.8999938964844,
+      "volumeToday": 79093,
+      "avgVolume20d": 146539,
+      "volumeRatio": 0.54,
+      "sector": "Unknown",
+      "marketCap": "₹40.4B",
+      "marketCapRaw": 40411394048,
+      "rsi14": 45.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 263.75,
+      "pctAboveBreakout": 8.4,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 45.8"
+      ]
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "companyName": "KPIT Technologies Limited",
+      "currentPrice": 673.5999755859375,
+      "volumeToday": 1220452,
+      "avgVolume20d": 2318916,
+      "volumeRatio": 0.53,
+      "sector": "Unknown",
+      "marketCap": "₹183.6B",
+      "marketCapRaw": 183625007104,
+      "rsi14": 32.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 631.95,
+      "pctAboveBreakout": 6.59,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 32.5 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "companyName": "Olectra Greentech Limited",
+      "currentPrice": 1063.5,
+      "volumeToday": 869169,
+      "avgVolume20d": 1635908,
+      "volumeRatio": 0.53,
+      "sector": "Unknown",
+      "marketCap": "₹87.3B",
+      "marketCapRaw": 87292862464,
+      "rsi14": 56.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 880.45,
+      "pctAboveBreakout": 2.62,
+      "breakoutDate": "2026-03-17",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 56.8"
+      ]
+    },
+    {
+      "ticker": "UPL.NS",
+      "companyName": "UPL Limited",
+      "currentPrice": 625.25,
+      "volumeToday": 1448541,
+      "avgVolume20d": 2773954,
+      "volumeRatio": 0.52,
+      "sector": "Unknown",
+      "marketCap": "₹528.5B",
+      "marketCapRaw": 528513925120,
+      "rsi14": 43.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 602.4,
+      "pctAboveBreakout": 3.79,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 43.6"
+      ]
+    },
+    {
+      "ticker": "LTTS.NS",
+      "companyName": "L&T Technology Services Limited",
+      "currentPrice": 3200.39990234375,
+      "volumeToday": 171692,
+      "avgVolume20d": 344956,
+      "volumeRatio": 0.5,
+      "sector": "Unknown",
+      "marketCap": "₹339.2B",
+      "marketCapRaw": 339236454400,
+      "rsi14": 42.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 3075.6,
+      "pctAboveBreakout": 4.06,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 42.8"
+      ]
+    },
+    {
+      "ticker": "CAPACITE.NS",
+      "companyName": "Capacit'e Infraprojects Limited",
+      "currentPrice": 221.80999755859375,
+      "volumeToday": 904013,
+      "avgVolume20d": 1794371,
+      "volumeRatio": 0.5,
+      "sector": "Unknown",
+      "marketCap": "₹18.9B",
+      "marketCapRaw": 18850852864,
+      "rsi14": 49.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 180.28,
+      "pctAboveBreakout": 0,
+      "breakoutDate": "2026-03-16",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 49.4"
+      ]
+    },
+    {
+      "ticker": "CHALET.NS",
+      "companyName": "Chalet Hotels Limited",
+      "currentPrice": 739.4000244140625,
+      "volumeToday": 87482,
+      "avgVolume20d": 174538,
+      "volumeRatio": 0.5,
+      "sector": "Unknown",
+      "marketCap": "₹161.9B",
+      "marketCapRaw": 161924268032,
+      "rsi14": 41.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 712.75,
+      "pctAboveBreakout": 3.74,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 41.6"
+      ]
+    },
+    {
+      "ticker": "JBMA.NS",
+      "companyName": "JBM Auto Limited",
+      "currentPrice": 572.6500244140625,
+      "volumeToday": 2385824,
+      "avgVolume20d": 4860154,
+      "volumeRatio": 0.49,
+      "sector": "Unknown",
+      "marketCap": "₹135.5B",
+      "marketCapRaw": 135482417152,
+      "rsi14": 55.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 486.2,
+      "pctAboveBreakout": 1.23,
+      "breakoutDate": "2026-03-17",
+      "notes": [
+        "📉 Volume surge: 0.5× avg",
+        "RSI(14): 55.6"
+      ]
+    },
+    {
+      "ticker": "MAZDOCK.NS",
+      "companyName": "Mazagon Dock Shipbuilders Limited",
+      "currentPrice": 2255.89990234375,
+      "volumeToday": 1192434,
+      "avgVolume20d": 2660437,
+      "volumeRatio": 0.45,
+      "sector": "Unknown",
+      "marketCap": "₹910.0B",
+      "marketCapRaw": 909984923648,
+      "rsi14": 43.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 2165.4,
+      "pctAboveBreakout": 4.18,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.4× avg",
+        "RSI(14): 43.8"
+      ]
+    },
+    {
+      "ticker": "HOMEFIRST.NS",
+      "companyName": "Home First Finance Company India Limited",
+      "currentPrice": 948,
+      "volumeToday": 354757,
+      "avgVolume20d": 845354,
+      "volumeRatio": 0.42,
+      "sector": "Unknown",
+      "marketCap": "₹98.9B",
+      "marketCapRaw": 98938093568,
+      "rsi14": 35.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 905.2,
+      "pctAboveBreakout": 4.73,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.4× avg",
+        "RSI(14): 35.2 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "IRCTC.NS",
+      "companyName": "Indian Railway Catering & Tourism Corporation Limited",
+      "currentPrice": 523.75,
+      "volumeToday": 1504730,
+      "avgVolume20d": 3604028,
+      "volumeRatio": 0.42,
+      "sector": "Unknown",
+      "marketCap": "₹419.0B",
+      "marketCapRaw": 418999992320,
+      "rsi14": 35.1,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 510.3,
+      "pctAboveBreakout": 2.64,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.4× avg",
+        "RSI(14): 35.1 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "JKIL.NS",
+      "companyName": "J. Kumar Infraprojects Limited",
+      "currentPrice": 478.3999938964844,
+      "volumeToday": 89510,
+      "avgVolume20d": 211100,
+      "volumeRatio": 0.42,
+      "sector": "Unknown",
+      "marketCap": "₹36.3B",
+      "marketCapRaw": 36269809664,
+      "rsi14": 39,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 460.8,
+      "pctAboveBreakout": 3.82,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.4× avg",
+        "RSI(14): 39.0 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "SUNDARMFIN.NS",
+      "companyName": "Sundaram Finance Limited",
+      "currentPrice": 4767,
+      "volumeToday": 33885,
+      "avgVolume20d": 85917,
+      "volumeRatio": 0.39,
+      "sector": "Unknown",
+      "marketCap": "₹525.4B",
+      "marketCapRaw": 525385531392,
+      "rsi14": 37.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 4265.6,
+      "pctAboveBreakout": 9,
+      "breakoutDate": "2026-03-24",
+      "notes": [
+        "📉 Volume surge: 0.4× avg",
+        "RSI(14): 37.7 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "HGINFRA.NS",
+      "companyName": "H.G. Infra Engineering Limited",
+      "currentPrice": 484.70001220703125,
+      "volumeToday": 236487,
+      "avgVolume20d": 626304,
+      "volumeRatio": 0.38,
+      "sector": "Unknown",
+      "marketCap": "₹31.6B",
+      "marketCapRaw": 31615672320,
+      "rsi14": 36.4,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 467.6,
+      "pctAboveBreakout": 3.66,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.4× avg",
+        "RSI(14): 36.4 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ROUTE.NS",
+      "companyName": "Route Mobile Limited",
+      "currentPrice": 459.6499938964844,
+      "volumeToday": 253825,
+      "avgVolume20d": 705567,
+      "volumeRatio": 0.36,
+      "sector": "Unknown",
+      "marketCap": "₹29.0B",
+      "marketCapRaw": 28956839936,
+      "rsi14": 38.3,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 445.45,
+      "pctAboveBreakout": 3.19,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.4× avg",
+        "RSI(14): 38.3 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "MOIL.NS",
+      "companyName": "MOIL Limited",
+      "currentPrice": 289.20001220703125,
+      "volumeToday": 890248,
+      "avgVolume20d": 2510142,
+      "volumeRatio": 0.35,
+      "sector": "Unknown",
+      "marketCap": "₹58.8B",
+      "marketCapRaw": 58847928320,
+      "rsi14": 47.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 248.05,
+      "pctAboveBreakout": 0,
+      "breakoutDate": "2026-03-16",
+      "notes": [
+        "📉 Volume surge: 0.4× avg",
+        "RSI(14): 47.5"
+      ]
+    },
+    {
+      "ticker": "KSB.NS",
+      "companyName": "KSB Limited",
+      "currentPrice": 812,
+      "volumeToday": 401429,
+      "avgVolume20d": 1259880,
+      "volumeRatio": 0.32,
+      "sector": "Unknown",
+      "marketCap": "₹141.3B",
+      "marketCapRaw": 141319847936,
+      "rsi14": 64.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 668.35,
+      "pctAboveBreakout": 7.29,
+      "breakoutDate": "2026-02-25",
+      "notes": [
+        "📉 Volume surge: 0.3× avg",
+        "RSI(14): 64.6"
+      ]
+    },
+    {
+      "ticker": "RCF.NS",
+      "companyName": "Rashtriya Chemicals and Fertilizers Limited",
+      "currentPrice": 115.23999786376953,
+      "volumeToday": 1953536,
+      "avgVolume20d": 6832014,
+      "volumeRatio": 0.29,
+      "sector": "Unknown",
+      "marketCap": "₹63.6B",
+      "marketCapRaw": 63576539136,
+      "rsi14": 42.7,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 109.95,
+      "pctAboveBreakout": 4.81,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.3× avg",
+        "RSI(14): 42.7"
+      ]
+    },
+    {
+      "ticker": "CYIENTDLM.NS",
+      "companyName": "Cyient DLM Limited",
+      "currentPrice": 294.6000061035156,
+      "volumeToday": 843647,
+      "avgVolume20d": 2904017,
+      "volumeRatio": 0.29,
+      "sector": "Unknown",
+      "marketCap": "₹23.5B",
+      "marketCapRaw": 23470370816,
+      "rsi14": 41.5,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 280.15,
+      "pctAboveBreakout": 5.16,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.3× avg",
+        "RSI(14): 41.5"
+      ]
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "companyName": "Newgen Software Technologies Limited",
+      "currentPrice": 435.6499938964844,
+      "volumeToday": 759403,
+      "avgVolume20d": 2789404,
+      "volumeRatio": 0.27,
+      "sector": "Unknown",
+      "marketCap": "₹61.3B",
+      "marketCapRaw": 61334347776,
+      "rsi14": 36.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 420.55,
+      "pctAboveBreakout": 3.59,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.3× avg",
+        "RSI(14): 36.8 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "TTKPRESTIG.NS",
+      "companyName": "TTK Prestige Limited",
+      "currentPrice": 440.25,
+      "volumeToday": 171922,
+      "avgVolume20d": 798293,
+      "volumeRatio": 0.22,
+      "sector": "Unknown",
+      "marketCap": "₹60.3B",
+      "marketCapRaw": 60292665344,
+      "rsi14": 34.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 438.55,
+      "pctAboveBreakout": 0.39,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.2× avg",
+        "RSI(14): 34.6 — bearish momentum"
+      ]
+    },
+    {
+      "ticker": "ATGL.NS",
+      "companyName": "Adani Total Gas Limited",
+      "currentPrice": 520.7999877929688,
+      "volumeToday": 2034676,
+      "avgVolume20d": 10322776,
+      "volumeRatio": 0.2,
+      "sector": "Unknown",
+      "marketCap": "₹573.1B",
+      "marketCapRaw": 573084336128,
+      "rsi14": 48.6,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 467.9,
+      "pctAboveBreakout": 9.77,
+      "breakoutDate": "2026-03-23",
+      "notes": [
+        "📉 Volume surge: 0.2× avg",
+        "RSI(14): 48.6"
+      ]
+    },
+    {
+      "ticker": "KIRLOSBROS.NS",
+      "companyName": "Kirloskar Brothers Limited",
+      "currentPrice": 1512.300048828125,
+      "volumeToday": 34884,
+      "avgVolume20d": 223612,
+      "volumeRatio": 0.16,
+      "sector": "Unknown",
+      "marketCap": "₹120.1B",
+      "marketCapRaw": 120112496640,
+      "rsi14": 44.8,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 1475.2,
+      "pctAboveBreakout": 2.51,
+      "breakoutDate": "2026-03-25",
+      "notes": [
+        "📉 Volume surge: 0.2× avg",
+        "RSI(14): 44.8"
+      ]
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "companyName": "Happiest Minds Technologies Limited",
+      "currentPrice": 398.1000061035156,
+      "volumeToday": 1177163,
+      "avgVolume20d": 7996218,
+      "volumeRatio": 0.15,
+      "sector": "Unknown",
+      "marketCap": "₹59.8B",
+      "marketCapRaw": 59807010816,
+      "rsi14": 54.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 337.5,
+      "pctAboveBreakout": 0.9,
+      "breakoutDate": "2026-03-09",
+      "notes": [
+        "📉 Volume surge: 0.1× avg",
+        "RSI(14): 54.2"
+      ]
+    },
+    {
+      "ticker": "JINDALSAW.NS",
+      "companyName": "Jindal Saw Limited",
+      "currentPrice": 188.5399932861328,
+      "volumeToday": 2228159,
+      "avgVolume20d": 14497813,
+      "volumeRatio": 0.15,
+      "sector": "Unknown",
+      "marketCap": "₹120.2B",
+      "marketCapRaw": 120174108672,
+      "rsi14": 52.2,
+      "breakoutType": "52_WEEK_LOW",
+      "breakoutLevel": 154.64,
+      "pctAboveBreakout": 7.25,
+      "breakoutDate": "2026-03-10",
+      "notes": [
+        "📉 Volume surge: 0.2× avg",
+        "RSI(14): 52.2"
+      ]
+    }
+  ],
+  "durationMs": 863643,
+  "errors": []
+}

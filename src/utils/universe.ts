@@ -2,7 +2,9 @@
 // All NSE tickers suffixed with .NS for yahoo-finance2
 
 export const NIFTY500_TICKERS: string[] = [
-  // Nifty 50 ─────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════
+  // NIFTY 50 (Large Cap)
+  // ═══════════════════════════════════════════════════════════════
   'RELIANCE.NS','TCS.NS','HDFCBANK.NS','ICICIBANK.NS','INFY.NS',
   'HINDUNILVR.NS','ITC.NS','SBIN.NS','BHARTIARTL.NS','KOTAKBANK.NS',
   'BAJFINANCE.NS','MARUTI.NS','AXISBANK.NS','LT.NS','TITAN.NS',
@@ -14,42 +16,201 @@ export const NIFTY500_TICKERS: string[] = [
   'LTIM.NS','TATAELXSI.NS','TATAPOWER.NS','TATAMOTORS.NS','HINDALCO.NS',
   'BRITANNIA.NS','APOLLOHOSP.NS','BAJAJFINSV.NS','SBILIFE.NS','HDFCLIFE.NS',
 
-  // Nifty Midcap / IT ─────────────────────────────────────────
-  'MUTHOOTFIN.NS','PIIND.NS','PERSISTENT.NS','COFORGE.NS','LTTS.NS',
-  'DIXON.NS','KPITTECH.NS','ZOMATO.NS','POLICYBZR.NS','NYKAA.NS',
-  'PAYTM.NS','ANGELONE.NS','AAVAS.NS','HOMEFIRST.NS','FIVESTAR.NS',
-  'CREDITACC.NS','SPANDANA.NS','ALKYLAMINE.NS','AARTI.NS','DEEPAKNITR.NS',
-  'NAVINFLUOR.NS','FLUOROCHEM.NS','GRINDWELL.NS','CARBORUNIV.NS',
-  'ASTRAL.NS','SUPREMEIND.NS','PRINCEPIPE.NS','ABCAPITAL.NS','MFSL.NS',
+  // ═══════════════════════════════════════════════════════════════
+  // NIFTY MIDCAP 150
+  // ═══════════════════════════════════════════════════════════════
+
+  // Midcap – IT / Tech ───────────────────────────────────────────
+  'PERSISTENT.NS','COFORGE.NS','LTTS.NS','MPHASIS.NS','CYIENT.NS',
+  'BSOFT.NS','SONATSOFTW.NS','KPITTECH.NS','DIXON.NS',
+  'ZOMATO.NS','POLICYBZR.NS','NYKAA.NS','PAYTM.NS','DELHIVERY.NS',
+  'CARTRADE.NS','EASEMYTRIP.NS','HAPPSTMNDS.NS','TANLA.NS','ROUTE.NS',
+  'NEWGEN.NS','MASTEK.NS','INTELLECT.NS','ZENSAR.NS','DATAPATTNS.NS',
+
+  // Midcap – BFSI ────────────────────────────────────────────────
+  'MUTHOOTFIN.NS','PIIND.NS','ANGELONE.NS','AAVAS.NS','HOMEFIRST.NS',
+  'FIVESTAR.NS','CREDITACC.NS','SPANDANA.NS','ABCAPITAL.NS','MFSL.NS',
   'ICICIPRULI.NS','STARHEALTH.NS','GICRE.NS','NIACL.NS','ICICIGI.NS',
+  'MANAPPURAM.NS','CHOLAFIN.NS','SHRIRAMFIN.NS','M&MFIN.NS','LICHSGFIN.NS',
+  'CANFINHOME.NS','PEL.NS','PNBHOUSING.NS','SUNDARMFIN.NS','MASFIN.NS',
+  'SBICARD.NS','AUBANK.NS','UJJIVANSFB.NS','EQUITASBNK.NS','KARURVYSYA.NS',
+  'CSBBANK.NS','SURYODAY.NS','UTIAMC.NS','NUVAMA.NS','JIOFIN.NS',
+  'ABSLAMC.NS','KFINTECH.NS','CAMS.NS','CDSL.NS','BSE.NS',
 
-  // Chemicals / Pharma ────────────────────────────────────────
-  'TIINDIA.NS','SOLARINDS.NS','ZYDUSLIFE.NS','TORNTPHARM.NS','ALKEM.NS',
-  'AUROPHARMA.NS','GRANULES.NS','LAURUSLABS.NS','IPCALAB.NS',
-  'KALYANKJIL.NS','SENCO.NS','CAMPUS.NS','METROBRAND.NS','BATA.NS',
-  'RELAXO.NS','VIPIND.NS',
+  // Midcap – Chemicals / Specialty ───────────────────────────────
+  'ALKYLAMINE.NS','AARTI.NS','DEEPAKNITR.NS','NAVINFLUOR.NS','FLUOROCHEM.NS',
+  'CLEANCHEM.NS','ANUPAM.NS','TATACHEM.NS','PIDILITIND.NS','SRF.NS',
+  'ATUL.NS','GALAXYSURF.NS','FINEORG.NS','VINATIORGN.NS','CLEAN.NS',
+  'ROSSARI.NS','AETHER.NS','LXCHEM.NS','NEOGEN.NS','IOLCP.NS',
+  'BALAMINES.NS','NOCIL.NS','SUDARSCHEM.NS','HERANBA.NS',
 
-  // PSU / Infra ────────────────────────────────────────────────
-  'BEL.NS','HAL.NS','BHEL.NS','GAIL.NS','IOC.NS','HINDPETRO.NS',
-  'CANBK.NS','PNB.NS','BANKBARODA.NS','UNIONBANK.NS','FEDERALBNK.NS',
-  'IDFCFIRSTB.NS','BANDHANBNK.NS','RBLBANK.NS',
+  // Midcap – Pharma / Healthcare ─────────────────────────────────
+  'ZYDUSLIFE.NS','TORNTPHARM.NS','ALKEM.NS','AUROPHARMA.NS','GRANULES.NS',
+  'LAURUSLABS.NS','IPCALAB.NS','BIOCON.NS','GLENMARK.NS','AJANTPHARM.NS',
+  'NATCOPHARM.NS','ABBOTINDIA.NS','PFIZER.NS','SANOFI.NS','GLAXO.NS',
+  'LALPATHLAB.NS','METROPOLIS.NS','FORTIS.NS','MAXHEALTH.NS','MEDANTA.NS',
+  'KIMS.NS','RAINBOW.NS','YATHARTH.NS','GLAND.NS','SYNGENE.NS',
+  'ASTRAZEN.NS','JBCHEPHARM.NS','MANKIND.NS','ERIS.NS','SUVEN.NS',
+  'SHILPAMED.NS','SOLARA.NS','CAPLIPOINT.NS','SUVENPHAR.NS',
 
-  // Metals / Mining ────────────────────────────────────────────
-  'SAIL.NS','NMDC.NS','NATIONALUM.NS','HINDZINC.NS','VEDL.NS',
-  'MOIL.NS','GMRINFRA.NS','IRB.NS','ASHOKA.NS','KEC.NS',
-
-  // Auto / EV ──────────────────────────────────────────────────
+  // Midcap – Auto / Auto Ancillary ───────────────────────────────
   'M&M.NS','TVSMOTOR.NS','BAJAJHLDNG.NS','EXIDEIND.NS','AMARAJABAT.NS',
   'MOTHERSON.NS','BOSCHLTD.NS','BHARATFORG.NS','ENDURANCE.NS','SUNDRMFAST.NS',
+  'ASHOKLEY.NS','ESCORTS.NS','OLECTRA.NS','JBMA.NS','SWARAJENG.NS',
+  'CRAFTSMAN.NS','SANDHAR.NS','SUPRAJIT.NS','LUMAXTECH.NS','FIEM.NS',
+  'UNOMINDA.NS','HAPPYFORGE.NS','MAYURUNIQ.NS','TITAGARH.NS',
 
-  // FMCG / Consumer ────────────────────────────────────────────
+  // Midcap – Infra / Construction / Capital Goods ────────────────
+  'GRINDWELL.NS','CARBORUNIV.NS','ASTRAL.NS','SUPREMEIND.NS','PRINCEPIPE.NS',
+  'CUMMINSIND.NS','ABB.NS','SIEMENS.NS','HAVELLS.NS','VOLTAS.NS',
+  'BLUESTARCO.NS','CROMPTON.NS','VGUARD.NS','POLYCAB.NS','KEI.NS',
+  'APLAPOLLO.NS','JKCEMENT.NS','RAMCOCEM.NS','DALMIACEM.NS','BIRLACORPN.NS',
+  'STARCEMENT.NS','HEIDELBERG.NS','NUVOCO.NS','SAGCEM.NS',
+  'THERMAX.NS','TRIVENI.NS','CERA.NS','KAJARIA.NS','CENTURYPLY.NS',
+  'GREENPLY.NS','GREENPANEL.NS','GREAVESCOT.NS','RATNAMANI.NS','JAYNECOIND.NS',
+
+  // Midcap – PSU / Defence / Power ───────────────────────────────
+  'BEL.NS','HAL.NS','BHEL.NS','GAIL.NS','IOC.NS','HINDPETRO.NS',
+  'IRCTC.NS','IRFC.NS','RVNL.NS','NLCINDIA.NS','SJVN.NS','NHPC.NS',
+  'RECLTD.NS','PFC.NS','HUDCO.NS','NBCC.NS','COCHINSHIP.NS',
+  'GRSE.NS','BDL.NS','MAZAGONDOCK.NS','PARAS.NS','MIDHANI.NS',
+  'ENGINERSIN.NS','RITES.NS','RAILTEL.NS','CONCOR.NS','MOIL.NS',
+  'JSWENERGY.NS','TORNTPOWER.NS','CESC.NS','ADANIGREEN.NS','ADANIENSOL.NS',
+  'ADANITRANS.NS','TATACOMM.NS','INDHOTEL.NS',
+
+  // Midcap – Banking / PSU Banks ─────────────────────────────────
+  'CANBK.NS','PNB.NS','BANKBARODA.NS','UNIONBANK.NS','FEDERALBNK.NS',
+  'IDFCFIRSTB.NS','BANDHANBNK.NS','RBLBANK.NS','INDIANB.NS','IOB.NS',
+  'CENTRALBK.NS','UCOBANK.NS','MAHABANK.NS','BANKINDIA.NS','PSB.NS',
+  'J&KBANK.NS','TMBANK.NS','DCBBANK.NS','IDBI.NS',
+
+  // Midcap – Metals / Mining ─────────────────────────────────────
+  'SAIL.NS','NMDC.NS','NATIONALUM.NS','HINDZINC.NS','VEDL.NS',
+  'GMRINFRA.NS','IRB.NS','ASHOKA.NS','KEC.NS',
+  'MISHRA.NS','WELCORP.NS','JINDALSAW.NS','APL.NS',
+  'JSWINFRA.NS','JSPL.NS','NSLNISP.NS',
+
+  // Midcap – FMCG / Consumer / Retail ────────────────────────────
   'DABUR.NS','MARICO.NS','GODREJCP.NS','COLPAL.NS','EMAMILTD.NS',
   'VBL.NS','RADICO.NS','MCDOWELL-N.NS','UNITDSPR.NS','JUBLFOOD.NS',
-  'DEVYANI.NS','WESTLIFE.NS','SAPPHIRE.NS',
+  'DEVYANI.NS','WESTLIFE.NS','SAPPHIRE.NS','TRENT.NS','DMART.NS',
+  'SHOPERSTOP.NS','VMART.NS','AFFLE.NS','INDIAMART.NS','JUSTDIAL.NS',
+  'NAUKRI.NS','LATENTVIEW.NS','BARBEQUE.NS','PATANJALI.NS',
 
-  // Realty / Housing ───────────────────────────────────────────
+  // Midcap – Retail / Jewellery / Lifestyle ──────────────────────
+  'KALYANKJIL.NS','SENCO.NS','CAMPUS.NS','METROBRAND.NS','BATA.NS',
+  'RELAXO.NS','VIPIND.NS','VEDANT.NS','GOCOLORS.NS',
+  'PAGEIND.NS','RAYMOND.NS','ARVIND.NS','KPRMILL.NS','KITEX.NS',
+  'SWANENERGY.NS',
+
+  // Midcap – Realty / Housing ────────────────────────────────────
   'DLF.NS','GODREJPROP.NS','PRESTIGE.NS','OBEROIRLTY.NS','PHOENIXLTD.NS',
-  'BRIGADE.NS','SOBHA.NS','MAHLIFE.NS',
+  'BRIGADE.NS','SOBHA.NS','MAHLIFE.NS','LODHA.NS','SIGNATURE.NS',
+  'SUNTECK.NS','KEYSTONE.NS','RUSTOMJEE.NS',
+
+  // Midcap – Telecom / Media / Entertainment ─────────────────────
+  'IDEA.NS','HATHWAY.NS','DEN.NS','PVRINOX.NS',
+  'SUNTV.NS','ZEEL.NS','NETWORK18.NS','TV18BRDCST.NS','NAZARA.NS',
+  'SAREGAMA.NS','TIPS.NS',
+
+  // ═══════════════════════════════════════════════════════════════
+  // NIFTY SMALLCAP 250
+  // ═══════════════════════════════════════════════════════════════
+
+  // Smallcap – IT / Tech ─────────────────────────────────────────
+  'RATEGAIN.NS','MAPMYINDIA.NS','NETWEB.NS','IKIOFED.NS',
+  'QUICKHEAL.NS','63MOONS.NS','NUCLEUS.NS','AURIONPRO.NS',
+  'ZAGGLE.NS','TATATECH.NS','INFIBEAM.NS','ECLERX.NS','EMUDHRA.NS',
+  'MTNL.NS',
+
+  // Smallcap – BFSI / Microfinance ───────────────────────────────
+  'FUSION.NS','ARMAN.NS','AROHAN.NS','FINOPB.NS',
+  'ESAFSFB.NS','SBFC.NS','JMFINANCIL.NS','EDELWEISS.NS',
+  'MOTILALOFS.NS','HDFCAMC.NS','NIPPONLIFE.NS','IIFL.NS',
+  'PAISALO.NS','UGROCAP.NS','APTUS.NS','REPCO.NS',
+
+  // Smallcap – Chemicals ─────────────────────────────────────────
+  'ORIENTHOT.NS','DHARAMSI.NS','IGPL.NS','CHEMCON.NS',
+  'PCBL.NS','YASHO.NS','VALIANTORG.NS','HOCL.NS',
+  'GUJALKALI.NS','DCMSHRIRAM.NS','DEEPAKFERT.NS','TATVA.NS',
+  'PRIVI.NS','APCOTEX.NS',
+
+  // Smallcap – Pharma / Healthcare ───────────────────────────────
+  'BLISS.NS','MARKSANS.NS','STLTECH.NS','RPSGVENT.NS',
+  'WINDLAS.NS','MEDPLUS.NS','KRSNAA.NS','VIJAYA.NS',
+  'NEULANDLAB.NS','SEQUENT.NS','ORCHPHARMA.NS','PPLPHARMA.NS',
+  'ALEMBICLTD.NS','AMIORG.NS','JUBLPHARMA.NS',
+
+  // Smallcap – Auto / EV / Ancillary ─────────────────────────────
+  'GREAVES.NS','ABORANGE.NS','GABRIEL.NS','MINDA.NS',
+  'WHEELS.NS','JTEKTINDIA.NS','SHARDACROP.NS',
+  'ELECON.NS','SETCO.NS','ANANTRAJ.NS',
+  'TALBROS.NS','STOVEKRAFT.NS','TTKMRESTOR.NS','HAWKINS.NS',
+
+  // Smallcap – Infra / Construction / Engg ───────────────────────
+  'HCC.NS','NCC.NS','AHLUCONT.NS','PNCINFRA.NS','HGINFRA.NS',
+  'CAPACITE.NS','JKIL.NS','PSP.NS','GPPL.NS','GESHIP.NS',
+  'IRCON.NS','KALPATPOWR.NS','POWERINDIA.NS','TDPOWER.NS',
+  'MAZDOCK.NS','TTKPRESTIG.NS','BUTTERFLY.NS','ELGIEQUIP.NS',
+  'TIMETECHNO.NS','ISGEC.NS','BECTORFOOD.NS','VAIBHAVGBL.NS',
+
+  // Smallcap – Cement / Building Materials ───────────────────────
+  'PRSMJOHNSN.NS','SAGAR.NS','SHREECEM.NS','AMBUJACEM.NS',
+  'ORIENTCEM.NS','DECCAN.NS','ANDHRACEMENT.NS',
+  'ORIENTBELL.NS','SOMANY.NS','HSIL.NS',
+
+  // Smallcap – Power / Energy / Renewables ───────────────────────
+  'JPPOWER.NS','RPOWER.NS','INOXWIND.NS','SUZLON.NS',
+  'BOROSCI.NS','WAAREE.NS','PREMIERENE.NS',
+  'GIPCL.NS','KSB.NS','KIRLOSBROS.NS',
+
+  // Smallcap – Metals / Mining ───────────────────────────────────
+  'SHYAMMETL.NS','GALLANTT.NS','VISAKAIND.NS',
+  'HIKAL.NS','KAMATHOTEL.NS','IFBIND.NS',
+  'TINPLATE.NS','LLOYDSME.NS',
+
+  // Smallcap – Textile / Apparel ─────────────────────────────────
+  'TRIDENT.NS','WELSPUNLIV.NS','HIMATSEIDE.NS','DONEAR.NS',
+  'RUPA.NS','DOLLAR.NS','SPAL.NS','LUXIND.NS',
+  'JAMNAAUTO.NS','GOKEX.NS','BAJAJCON.NS','NIITLTD.NS',
+
+  // Smallcap – Agri / Sugar / Fertilizer ─────────────────────────
+  'BALRAMCHIN.NS','RENUKA.NS','DWARIKESH.NS',
+  'EIDPARRY.NS','CHAMBLFERT.NS','GSFC.NS','GNFC.NS',
+  'RCF.NS','FACT.NS','MADRASFERT.NS','RALLIS.NS',
+  'UPLEAGUEM.NS','BAYER.NS','PI.NS','GODREJAGRO.NS',
+  'UPL.NS','COROMANDEL.NS',
+
+  // Smallcap – Hospitality / Travel / Leisure ────────────────────
+  'LEMONTRE.NS','CHALET.NS','TAJGVK.NS','EIH.NS',
+  'THOMASCOOK.NS','MAHINDHOLIDAY.NS','WONDERLA.NS',
+  'IMAGICAA.NS','SPECIALITY.NS',
+
+  // Smallcap – Logistics / Transport ─────────────────────────────
+  'BLUEDART.NS','GATI.NS','TCI.NS','TCIEXP.NS','MAHLOG.NS',
+  'ALLCARGO.NS','GATEWAY.NS','AEGISCHEM.NS','CASTROLIND.NS',
+
+  // Smallcap – Media / Printing / Packaging ──────────────────────
+  'NAVNETEDUL.NS','UFLEX.NS','COSMOFILMS.NS','HUHTAMAKI.NS',
+  'EPL.NS','MOLD-TEK.NS',
+
+  // Smallcap – Diversified / Others ──────────────────────────────
+  'CENTURYTEX.NS','GUJGAS.NS','MGL.NS','IGL.NS','ATGL.NS',
+  'JKPAPER.NS','TNPL.NS','ANDHRPAPER.NS',
+  'BLKASHYAP.NS','GPIL.NS','NESCO.NS','PGHH.NS','3MINDIA.NS',
+  'HONAUT.NS','WHIRLPOOL.NS',
+  'SCHAEFFLER.NS','SKFINDIA.NS','TIMKEN.NS','NRBBEARING.NS',
+  'TEAMLEASE.NS','QUESS.NS','SIS.NS',
+
+  // Smallcap – Paper / Packaging / Miscellaneous ─────────────────
+  'BALMLAWRIE.NS','GODFRYPHLP.NS','VSTIND.NS','GILLETTE.NS',
+  'IIFLWAM.NS','TILAKNAGAR.NS','GMMPFAUD.NS','MTARTECH.NS',
+  'KAYNES.NS','SYRMA.NS','AMBER.NS','AVALON.NS',
+  'CENTBIOTEC.NS','SHARDAMOTR.NS','SAMVARDHAN.NS',
+
+  // EMS / Electronics Manufacturing ──────────────────────────────
+  'SGBK.NS','CYIENTDLM.NS','CEINSYSTECH.NS',
+  'SAGILITY.NS','OPTIEMUS.NS',
 ];
 
 export const US_TICKERS: string[] = [
